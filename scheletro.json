@@ -1,0 +1,14 @@
+[
+    {
+        "sala":13,
+        "url":"uscita_sala_13.pdf",
+        "strade":[{
+            "sala":"uscita",
+            "passaggi":[
+                {
+                    "indicazione":"descrizione del passaggio da fare"
+                }
+            ]
+        }]
+    }
+]
