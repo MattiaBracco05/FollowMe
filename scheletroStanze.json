@@ -2,15 +2,11 @@
     {
         "numeroLocale": 1,
         "nomeLocale": "Locale 1",
-        "strade": [
-            {
-                "numeroLocaleDestinazione": 2,
-                "nomeLocaleDestinazione": "Loacale 2",
-                "passaggi":[
-                    {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-                    {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"}
-                ]
-            }
+        "numeroLocaleDestinazione": 2,
+        "nomeLocaleDestinazione": "Loacale 2",
+        "passaggi":[
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"}
         ]
     }
 ]
