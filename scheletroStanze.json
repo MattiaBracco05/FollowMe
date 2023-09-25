@@ -2,7 +2,7 @@
     {
         "numeroLocale": 1,
         "nomeLocale": "Locale 1",
-        "strade":[
+        "strade": [
             {
                 "numeroLocaleDestinazione": 2,
                 "nomeLocaleDestinazione": "Loacale 2",
