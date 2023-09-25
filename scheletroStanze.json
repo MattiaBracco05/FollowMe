@@ -10,14 +10,6 @@
                     {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
                     {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"}
                 ]
-            },
-            {
-                "numeroLocaleDestinazione": 3,
-                "nomeLocaleDestinazione": "Loacale 3",
-                "passaggi":[
-                    {"direzione": "", "descrizione": ""},
-                    {"direzione": "", "descrizione": ""}
-                ]
             }
         ]
     }
