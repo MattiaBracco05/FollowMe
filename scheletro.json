@@ -1,9 +1,9 @@
 [
     {
-        "sala":13,
+        "numeroLocale":13,
         "url":"uscita_sala_13.pdf",
         "strade":[{
-            "sala":"uscita",
+            "locale":"uscita",
             "passaggi":[
                 {
                     "indicazione":"descrizione del passaggio da fare"
