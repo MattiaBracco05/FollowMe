@@ -1,8 +1,8 @@
 [
     {
-        "numeroLocale": 1,
+        "numeroLocale": "01",
         "nomeLocale": "Locale 1",
-        "numeroLocaleDestinazione": 2,
+        "numeroLocaleDestinazione": "02",
         "nomeLocaleDestinazione": "Loacale 2",
         "passaggi":[
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
