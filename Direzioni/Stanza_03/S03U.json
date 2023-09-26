@@ -4,7 +4,7 @@
         "nomeLocale": "Locale 3",
         "numeroUscita": "02",
         "nomeUscita": "Uscita 2",
-        "passaggi":[
+        "passaggi": [
             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
             {"direzione":"Sinistra","descrizione":"Scendi le scale"}
 
