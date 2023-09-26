@@ -7,7 +7,7 @@
         "passaggi": [
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione":"Scendi le scale"}
+            {"direzione": "Sinistra", "descrizione": "Scendi le scale"}
 
         ]
     }
