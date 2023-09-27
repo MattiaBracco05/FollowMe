@@ -5,7 +5,7 @@
         "numeroLocaleDestinazione": "14",
         "nomeLocaleDestinazione": "Locale 14 ",
         "passaggi": [
-            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza di due classi"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
             {"direzione": "Destra", "descrizione": "Gira a destra"},
             {"direzione": "Avanti", "descrizione": "Vai avanti, avanza per tutto il corridoio"},
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
