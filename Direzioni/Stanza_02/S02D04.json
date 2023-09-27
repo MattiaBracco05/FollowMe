@@ -6,7 +6,7 @@
         "nomeLocaleDestinazione": "Locale 4",
         "passaggi": [
             {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"}
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}
         ]
     }
