@@ -1,0 +1,18 @@
+ [
+    {
+        "numeroLocale": "04",
+        "nomeLocale": "Locale 4",
+        "numeroLocaleDestinazione": "15",
+        "nomeLocaleDestinazione": "Locale 15",
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+	    {"direzione": "Avanti", "descrizione": "Vai avanti fino alla prima uscita"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+	    {"direzione": "Destra", "descrizione": "La stanza a destra è la tua"},
+
+        ]
+    }
+]
