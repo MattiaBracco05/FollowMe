@@ -1,0 +1,12 @@
+[
+    {
+        "numeroLocale": "04",
+        "nomeLocale": "Locale 4",
+        "numeroLocaleDestinazione": "03",
+        "nomeLocaleDestinazione": "Locale 3 ",
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"}
+        ]
+    }
+]

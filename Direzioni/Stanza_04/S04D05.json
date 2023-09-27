@@ -1,0 +1,12 @@
+[
+    {
+        "numeroLocale": "04",
+        "nomeLocale": "Locale 4",
+        "numeroLocaleDestinazione": "05",
+        "nomeLocaleDestinazione": "Locale 5 ",
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla prima porta sulla destra del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"}
+        ]
+    }
+]
