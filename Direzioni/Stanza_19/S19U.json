@@ -1,0 +1,10 @@
+[
+    {
+        "numeroLocale": "19",
+        "nomeLocale": "Locale 19",
+        "nomeUscita": "Uscita",
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino all'uscita"}
+        ]
+    }
+]

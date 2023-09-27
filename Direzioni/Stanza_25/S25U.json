@@ -1,0 +1,12 @@
+[
+    {
+        "numeroLocale": "25",
+        "nomeLocale": "Locale 25",
+        "nomeUscita": "Uscita",
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra ed esci"}
+        ]
+    }
+]
