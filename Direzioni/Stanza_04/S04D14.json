@@ -1,0 +1,17 @@
+ [
+    {
+        "numeroLocale": "04",
+        "nomeLocale": "Locale 4",
+        "numeroLocaleDestinazione": "14,
+        "nomeLocaleDestinazione": "Locale 14,
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+	    {"direzione": "Avanti", "descrizione": "Vai avanti fino alla prima uscita"},
+            {"direzione": "Destra", "descrizione": "La prima aula sulla destra è la tua aula"},
+
+        ]
+    }
+]
