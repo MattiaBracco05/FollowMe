@@ -1,0 +1,11 @@
+[
+	{
+		"numeroLocale": "05",
+		"nomeLocale": "Locale 5",
+		"numeroLocaleDestinazione": "02",
+		"nomeLocaleDestinazione": "Locale 2",
+		"passaggi": [
+			{"direzione": "Avanti", "descrizione": "vai avanti ed entra nella classe di fronte a te"}
+		]
+	}
+]
