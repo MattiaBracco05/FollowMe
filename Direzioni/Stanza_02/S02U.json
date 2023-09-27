@@ -2,8 +2,7 @@
     {
         "numeroLocale": "02",
         "nomeLocale": "Locale 2",
-        "numeroUscita": "02",
-        "nomeUscita": "Uscita 2",
+        "nomeUscita": "Uscita",
         "passaggi": [
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
