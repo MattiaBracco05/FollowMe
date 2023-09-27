@@ -1,1 +1,13 @@
-
+[
+    {
+        "numeroLocale": "01",
+        "nomeLocale": "Locale 1",
+        "numeroLocaleDestinazione": "09",
+        "nomeLocaleDestinazione": "Locale 9",
+        "passaggi": [
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra. La prima porta sulla sinistra sarà la tua stanza"}
+        ]
+    }
+]
