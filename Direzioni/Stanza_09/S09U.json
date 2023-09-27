@@ -1,0 +1,12 @@
+[
+    {
+        "numeroLocale": "09",
+        "nomeLocale": "Locale 9",
+        "nomeUscita": "Uscita",
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla scale"},
+            {"direzione":"Scendi","descrizione":"Scendi le scale"}
+        ]
+    }
+]
