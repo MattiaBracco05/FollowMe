@@ -1,0 +1,16 @@
+[
+    {
+        "numeroLocale": "03",
+        "nomeLocale": "Locale 3",
+        "numeroLocaleDestinazione": "14",
+        "nomeLocaleDestinazione": "Locale 14 ",
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza di due classi"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza per tutto il corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Al primo incrocio gira a destra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra alla prima classe"}
+        ]
+    }
+]
