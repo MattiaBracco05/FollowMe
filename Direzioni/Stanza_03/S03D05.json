@@ -5,7 +5,7 @@
         "numeroLocaleDestinazione": "05",
         "nomeLocaleDestinazione": "Locale 5 ",
         "passaggi": [
-            {"direzione": "Avanti", "descrizione": "Vai avanti e avanza fino alla prossima classe"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza solo di una classe"},
             {"direzione": "Destra", "descrizione": "Gira a destra"}
         ]
     }
