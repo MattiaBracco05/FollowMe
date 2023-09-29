@@ -11,7 +11,7 @@
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
             {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino al primo incrocio"},
             {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla prima classe sulla sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla prima classe sulla sinistra"}
         ]
     }
 ]
