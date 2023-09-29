@@ -9,9 +9,9 @@
             {"direzione": "Destra", "descrizione": "Gira a destra"},
             {"direzione": "Avanti", "descrizione": "Vai avanti, avanza per tutto il corridoio"},
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino al primo incrocio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla prima classe sulla sinistra"}
+            {"direzione": "Destra", "descrizione": "Al primo incrocio gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza di una classe"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra alla prima classe"}
         ]
     }
 ]
