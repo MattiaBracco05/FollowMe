@@ -1,0 +1,19 @@
+[
+    {
+        "numeroLocale": "03",
+        "nomeLocale": "Locale 3",
+        "numeroLocaleDestinazione": "21",
+        "nomeLocaleDestinazione": "Locale 21 ",
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza per tutto il corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Al primo incrocio gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra alla fine del corridoio"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla terza classe in fondo al corridoio"}
+        ]
+    }
+]
