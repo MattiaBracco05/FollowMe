@@ -1,0 +1,97 @@
+[
+    {
+        "numeroLocale": "0",
+        "nomeLocale": "Ingresso",
+        "numeroLocaleDestinazione": "1F",
+        "nomeLocaleDestinazione": "Aula 1F",
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza finché non vedi le scale"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Alla tua destra trovi l'aula 1F"}
+        ]
+    },
+    {
+        "numeroLocale": "0",
+        "nomeLocale": "Ingresso",
+        "numeroLocaleDestinazione": "1G",
+        "nomeLocaleDestinazione": "Aula 1G",
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza finché non vedi le scale"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti"},
+            {"direzione": "Destra", "descrizione": "Alla tua destra trovi l'aula 1G"}
+        ]
+    },
+    {
+        "numeroLocale": "0",
+        "nomeLocale": "Ingresso",
+        "numeroLocaleDestinazione": "1M",
+        "nomeLocaleDestinazione": "Aula 1M",
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza finché non vedi le scale"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti,avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Alla tua destra trovi l'aula 1M"}
+        ]
+    },
+    {
+        "numeroLocale": "0",
+        "nomeLocale": "Ingresso",
+        "numeroLocaleDestinazione": "1L",
+        "nomeLocaleDestinazione": "Aula 1L",
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza finché non vedi le scale"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti,avanza fino alla metà del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Davanti a te trovi l'aula 1L"}
+        ]
+    },
+    {
+        "numeroLocale": "0",
+        "nomeLocale": "Ingresso",
+        "numeroLocaleDestinazione": "2F",
+        "nomeLocaleDestinazione": "Aula 2F",
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza finché non vedi le scale"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Sinistra", "descrizione": "Alla tua sinistra trovi l'aula 2F"}
+        ]
+    }
+]
