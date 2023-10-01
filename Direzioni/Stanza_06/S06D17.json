@@ -1,0 +1,19 @@
+[
+    {
+        "numeroLocale": "06",
+        "nomeLocale": "Locale 6",
+        "numeroLocaleDestinazione": "17",
+        "nomeLocaleDestinazione": "Locale 17",
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Girati a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Girati a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Girati a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai al primo corridoio a sinistra"},
+            {"direzione": "Destra", "descrizione": "Girati a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai alla prima porta a sinistra"},
+            {"direzione": "Destra", "descrizione": "Entri nella porta a sinistra"}
+        ]
+    }
+]
