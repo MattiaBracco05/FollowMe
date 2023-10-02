@@ -7,8 +7,8 @@
 		"passaggi": [
 			{"direzione": "Destra", "descrizione": "Gira a destra"},
 			{"direzione": "Avanti", "descrizione": "Vai avanti fino in fondo al corridoio"},
-      {"direzione": "Destra", "descrizione": "Gira a destra"},
-      {"direzione": "Avanti", "descrizione": "Vai avanti fino alla terza porta a sinistra"},
+      			{"direzione": "Destra", "descrizione": "Gira a destra"},
+      			{"direzione": "Avanti", "descrizione": "Vai avanti fino alla terza porta a sinistra"},
 			{"direzione": "Sinistra", "descrizione": "Gira a sinistra ed entra in bagno"}
 		]
 	}
