@@ -2,8 +2,8 @@
 	{
 		"numeroLocale": "05",
 		"nomeLocale": "Locale 5",
-		"numeroLocaleDestinazione": "12",
-		"nomeLocaleDestinazione": "Locale 12",
+		"numeroLocaleDestinazione": "16",
+		"nomeLocaleDestinazione": "Locale 16",
 		"passaggi": [
 			{"direzione": "Destra", "descrizione": "Gira a destra"},
 			{"direzione": "Avanti", "descrizione": "Vai avanti fino al fondo del corridoio"},
