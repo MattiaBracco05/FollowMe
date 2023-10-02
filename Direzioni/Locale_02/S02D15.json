@@ -1,10 +1,13 @@
 [
     {
-        "numeroLocale": "02",
-        "nomeLocale": "Locale 2",
+        "numeroLocale": 2,
+        "nomeLocale": "Aula 2",
+        "piano":0,
         "classe":"1G",
-        "numeroLocaleDestinazione": "15",
-        "nomeLocaleDestinazione": "Locale 15",
+        "numeroLocaleDestinazione": 15,
+        "nomeLocaleDestinazione": "Aula 6",
+        "pianoDestinazione":0,
+        "classeDestinazione":"4L",
         "passaggi": [
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
