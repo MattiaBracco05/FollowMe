@@ -2,6 +2,6 @@
 
 ```python
 Numero_locale: "01"
-Tipologia: "Aula"
-Nome: ""
+Nome_locale: "Aula 1"
+Classe: "1F"
 ```
