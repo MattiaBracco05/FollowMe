@@ -1,10 +1,13 @@
 [
     {
-        "numeroLocale": "02",
+        "numeroLocale": 2,
         "nomeLocale": "Locale 2",
+        "piano":0,
         "classe":"1G",
-        "numeroLocaleDestinazione": "16",
-        "nomeLocaleDestinazione": "Locale 16",
+        "numeroLocaleDestinazione": 16,
+        "nomeLocaleDestinazione": "Aula Sostegno Grande",
+        "pianoDestinazione":0,
+        "classeDestinazione":"4G",
         "passaggi": [
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
