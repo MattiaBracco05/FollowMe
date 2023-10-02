@@ -1,0 +1,21 @@
+[
+    {
+        "numeroLocale": "02",
+        "nomeLocale": "Locale 2",
+        "numeroLocaleDestinazione": "20",
+        "nomeLocaleDestinazione": "Locale 20",
+        "passaggi": [
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra nel corridoio"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra nel corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra nella seconda porta che trovi"}
+        ]
+    }
+]
