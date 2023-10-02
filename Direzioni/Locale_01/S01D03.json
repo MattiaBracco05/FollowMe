@@ -1,10 +1,12 @@
 [
     {
-        "numeroLocale": "01",
+        "numeroLocale": 1,
         "nomeLocale": "Aula 1",
         "classe": "1F",
-        "numeroLocaleDestinazione": "03",
+        "piano": 0,
+        "numeroLocaleDestinazione": 3,
         "nomeLocaleDestinazione": "Lab Autocad",
+        "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Destra", "descrizione": "Gira a destra"},
             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"}
