@@ -1,3 +1,3 @@
 # PIANTINE
 
-Contiene le piantine delle stanze
+Contiene le piantine dei due piani dell'ITIS
