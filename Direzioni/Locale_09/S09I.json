@@ -1,0 +1,21 @@
+[
+    {
+            "numeroLocale": "0",
+            "nomeLocale": "Ingresso",
+            "numeroLocaleDestinazione": "9",
+            "nomeLocaleDestinazione": "Aula 5",
+            "classe": "3F",
+            "passaggi": [
+                {"direzione": "Destra", "descrizione": "Gira a destra"},
+                {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+                {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+                {"direzione": "Destra", "descrizione": "Gira a destra"},
+                {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+                {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+                {"direzione": "Destra", "descrizione": "Gira a destra"},
+                {"direzione": "Avanti", "descrizione": "Vai avanti, avanza finché non vedi le scale"},
+                {"direzione": "Destra", "descrizione": "Gira a Destra, l'ultima classe sulla destra"},
+
+            ]
+        }
+ ]
