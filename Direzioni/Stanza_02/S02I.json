@@ -15,7 +15,7 @@
                 {"direzione": "Destra", "descrizione": "Gira a destra"},
                 {"direzione": "Avanti", "descrizione": "Vai avanti, avanza finché non vedi le scale"},
                 {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-                {"direzione": "Destra", "descrizione": "Alla tua destra trovi l'aula 1F"}
+                {"direzione": "Destra", "descrizione": "Alla tua destra trovi l'aula 1G"}
             ]
         }
  ]
