@@ -2,25 +2,30 @@
     {
         "numeroLocale": 1,
         "nomeLocale": "Aula 1",
-        "piano":"0",
+        "piano":0,
         "classe":"1F"
     },
     {
         "numeroLocale": 2,
         "nomeLocale": "Aula 2",
-        "piano":"0",
+        "piano":0,
         "classe":"1G"
+    },
+    {
+        "numeroLocale":3,
+        "nomeLocale":"Lab Autocad",
+        "piano":0
     },
     {
         "numeroLocale": 5,
         "nomeLocale": "Aula 5",
-        "piano":"0",
+        "piano":0,
         "classe":"1L"
     },
     {
         "numeroLocale": 4,
         "nomeLocale": "Aula 4",
-        "piano":"0",
+        "piano":0,
         "classe":"1M"
     }
     
