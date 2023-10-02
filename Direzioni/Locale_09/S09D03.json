@@ -1,0 +1,13 @@
+[
+    {
+        "numeroLocale": "09",
+        "nomeLocale": "Locale 9",
+        "numeroLocaleDestinazione": "03",
+        "nomeLocaleDestinazione": "Locale 3",
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra, avanza fino al primo incrocio del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino all'ultimo locale sulla destra in fondo al corridoio"}
+        ]
+    }
+]
