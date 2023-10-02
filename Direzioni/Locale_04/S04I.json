@@ -1,0 +1,21 @@
+[
+    {
+            "numeroLocale": "0",
+            "nomeLocale": "Ingresso",
+            "numeroLocaleDestinazione": "4",
+            "nomeLocaleDestinazione": "Aula 4",
+            "classe": "Lab TPSEE",
+            "passaggi": [
+                {"direzione": "Destra", "descrizione": "Gira a destra"},
+                {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+                {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+                {"direzione": "Destra", "descrizione": "Gira a destra"},
+                {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+                {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+                {"direzione": "Destra", "descrizione": "Gira a destra"},
+                {"direzione": "Avanti", "descrizione": "Vai avanti, avanza finché non vedi le scale"},
+                {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+                {"direzione": "Avanti", "descrizione": "Vai avanti, fino al fondo e sulla sinistra trovi l'aula Lab TPSEE"}
+            ]
+        }
+ ]
