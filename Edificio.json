@@ -17,13 +17,18 @@
         "piano":0
     },
     {
+        "numeroLocale":4,
+        "nomeLocale":"Lab TPSEE",
+        "piano":0
+    },
+    {
         "numeroLocale": 5,
         "nomeLocale": "Aula 5",
         "piano":0,
         "classe":"1L"
     },
     {
-        "numeroLocale": 4,
+        "numeroLocale": 6,
         "nomeLocale": "Aula 4",
         "piano":0,
         "classe":"1M"
