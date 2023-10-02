@@ -3,8 +3,8 @@
             "numeroLocale": "0",
             "nomeLocale": "Ingresso",
             "numeroLocaleDestinazione": "3",
-            "nomeLocaleDestinazione": "Lab TPSEE",
-            "classe": "Lab TPSEE",
+            "nomeLocaleDestinazione": "Lab Autocad",
+            "classe": "Lab Autocad",
             "passaggi": [
                 {"direzione": "Destra", "descrizione": "Gira a destra"},
                 {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
@@ -15,7 +15,7 @@
                 {"direzione": "Destra", "descrizione": "Gira a destra"},
                 {"direzione": "Avanti", "descrizione": "Vai avanti, avanza finché non vedi le scale"},
                 {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-                {"direzione": "Avanti", "descrizione": "Vai avanti, fino al fondo e sulla sinistra trovi l'aula Lab TPSEE"}
+                {"direzione": "Avanti", "descrizione": "Vai avanti, fino al fondo e sulla destra trovi l'aula Lab Autocad"}
             ]
         }
  ]
