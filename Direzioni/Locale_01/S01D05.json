@@ -1,11 +1,11 @@
 [
     {
-        "numeroLocale": "01",
+        "numeroLocale": 1,
         "nomeLocale": "Aula 1",
         "classe": "1F",
         "piano": 0,
-        "numeroLocaleDestinazione": "05",
-        "nomeLocaleDestinazione": "Aula 5",
+        "numeroLocaleDestinazione": 5,
+        "nomeLocaleDestinazione": "Aula 3",
         "classeDestinazione": "lL",
         "pianoDestinazione": 0,
         "passaggi": [
