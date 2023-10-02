@@ -1,0 +1,27 @@
+[
+    {
+        "numeroLocale": "01",
+        "nomeLocale": "Aula 1",
+        "piano":"0",
+        "classe":"1F"
+    },
+    {
+        "numeroLocale": "02",
+        "nomeLocale": "Aula 2",
+        "piano":"0",
+        "classe":"1G"
+    },
+    {
+        "numeroLocale": "05",
+        "nomeLocale": "Aula 5",
+        "piano":"0",
+        "classe":"1L"
+    },
+    {
+        "numeroLocale": "04",
+        "nomeLocale": "Aula 4",
+        "piano":"0",
+        "classe":"1M"
+    }
+    
+]
