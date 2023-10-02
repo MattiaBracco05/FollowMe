@@ -2,6 +2,7 @@
     {
         "numeroLocale": "02",
         "nomeLocale": "Locale 2",
+        "classe":"1G",
         "numeroLocaleDestinazione": "05",
         "nomeLocaleDestinazione": "Locale 5",
         "passaggi": [
