@@ -1,9 +1,13 @@
 [
     {
-        "numeroLocale": "01",
-        "nomeLocale": "Locale 1",
+        "numeroLocale": 1,
+        "nomeLocale": "Aula 1",
+        "piano": 0,
+        "classe": "1F",
         "numeroLocaleDestinazione": "06",
-        "nomeLocaleDestinazione": "Locale 6",
+        "nomeLocaleDestinazione": "Aula 4",
+        "classeDestinazione": "1M",
+        "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "vai avanti l'aula è la porta a Sinistra davanti a te"}
         ]
