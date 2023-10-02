@@ -1,10 +1,10 @@
 [
     {
         "numeroLocale": "01",
-        "nomeLocale": "Locale 1",
+        "nomeLocale": "Aula 1",
         "classe": "1F",
         "numeroLocaleDestinazione": "05",
-        "nomeLocaleDestinazione": "Locale 5",
+        "nomeLocaleDestinazione": "Aula 5",
         "classeDestinazione": "lL",
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "vai avanti l'aula è la porta a destra davanti a te"}
