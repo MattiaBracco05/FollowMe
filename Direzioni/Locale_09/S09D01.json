@@ -5,7 +5,9 @@
         "numeroLocaleDestinazione": "01",
         "nomeLocaleDestinazione": "Locale 1",
         "passaggi": [
-            {"direzione": "Destra", "descrizione": "Vai avanti e entra nella porta des"}
+            {"direzione": "Destra", "descrizione": "Gira a destra, avanza fino al primo incrocio del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Entra nel primo locale a destra"}
         ]
     }
 ]
