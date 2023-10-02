@@ -11,7 +11,7 @@
             {"direzione": "Destra", "descrizione": "Gira a destra alla svolta"},
             {"direzione": "Avanti", "descrizione": "Prosegui diritto fino al termine del corridoio"},
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Prosegui diritto, la classe desiderata è la prima a destra"},
+            {"direzione": "Avanti", "descrizione": "Prosegui diritto, la classe desiderata è la prima a destra"}
         ]
     }
 ]
