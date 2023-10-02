@@ -1,9 +1,13 @@
 [
     {
-        "numeroLocale": "01",
+        "numeroLocale": 1,
         "nomeLocale": "Locale 1",
-        "numeroLocaleDestinazione": "09",
-        "nomeLocaleDestinazione": "Locale 9",
+        "classe": "1F",
+        "piano": 0,
+        "numeroLocaleDestinazione": 9,
+        "nomeLocaleDestinazione": "Aula 5",
+        "classeDestinazione": "3F", 
+        "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
             {"direzione": "Avanti", "descrizione": "Vai avanti fino al fondo del corridoio"},
