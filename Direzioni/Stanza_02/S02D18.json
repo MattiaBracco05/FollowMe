@@ -11,7 +11,8 @@
             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
             {"direzione": "Destra", "descrizione": "Gira a destra nel corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra nella seconda porta"}
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra nella prima porta che trovi"}
         ]
     }
 ]
