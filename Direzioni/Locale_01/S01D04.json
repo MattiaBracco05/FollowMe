@@ -3,8 +3,10 @@
         "numeroLocale": "01",
         "nomeLocale": "Aula 1",
         "classe": "1F",
+        "piano": 0,
         "numeroLocaleDestinazione": "04",
         "nomeLocaleDestinazione": "Lab TPSEE",
+        "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Destra", "descrizione": "Gira a destra"},
             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
