@@ -15,7 +15,7 @@
                 {"direzione": "Destra", "descrizione": "Gira a destra"},
                 {"direzione": "Avanti", "descrizione": "Vai avanti, avanza finché non vedi le scale"},
                 {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-                {"direzione": "Avanti", "descrizione": "Vai avanti, fino al fondo e l'aula sulla destra"},
+                {"direzione": "Avanti", "descrizione": "Vai avanti, fino al fondo e sulla destra trovi l'aula Lab Autocad"}
             ]
         }
  ]
