@@ -1,10 +1,13 @@
 [
     {
-        "numeroLocale": "02",
-        "nomeLocale": "Locale 2",
+        "numeroLocale": 2,
+        "nomeLocale": "Classe 2",
+        "piano":0,
         "classe":"1G",
-        "numeroLocaleDestinazione": "05",
-        "nomeLocaleDestinazione": "Locale 5",
+        "numeroLocaleDestinazione": 5,
+        "nomeLocaleDestinazione": "Aula 3",
+        "pianoDestinazione":0,
+        "classeDestinazione":"1L",
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Vai avanti. La stanza è la porta davanti a te"}
         ]
