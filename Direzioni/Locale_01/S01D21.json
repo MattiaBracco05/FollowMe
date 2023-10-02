@@ -1,9 +1,12 @@
 [
     {
-        "numeroLocale": "01",
-        "nomeLocale": "Locale 1",
-        "numeroLocaleDestinazione": "21",
-        "nomeLocaleDestinazione": "Locale 21",
+        "numeroLocale": 1,
+        "nomeLocale": "Aula 1",
+        "classe": "1F",
+        "piano": 0,
+        "numeroLocaleDestinazione": 21,
+        "nomeLocaleDestinazione": "Lab Fisica",
+        "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
             {"direzione": "Avanti", "descrizione": "Vai avanti fino al fondo del corridoio"},
