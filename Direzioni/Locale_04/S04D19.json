@@ -1,0 +1,23 @@
+ [
+    {
+        "numeroLocale": "04",
+        "nomeLocale": "Locale 4",
+        "numeroLocaleDestinazione": "19",
+        "nomeLocaleDestinazione": "Locale 19",
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+			{"direzione": "Avanti", "descrizione": "Vai avanti fino alla prima uscita"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+			{"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+			{"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+			{"direzione": "Avanti", "descrizione": "Avanza di 4 passi"},
+			{"direzione": "Destra", "descrizione": "La stanza di destra è la tua"},
+			
+
+
+        ]
+    }
+]
