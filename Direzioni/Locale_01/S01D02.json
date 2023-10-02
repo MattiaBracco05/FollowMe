@@ -1,11 +1,13 @@
 [
     {
-        "numeroLocale": "01",
+        "numeroLocale": 1,
         "nomeLocale": "Aula 1",
         "classe": "1F",
+        "piano": 0,
         "numeroLocaleDestinazione": "02",
         "nomeLocaleDestinazione": "Aula 2",
         "classeDestinazione": "1G",
+        "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Destra", "descrizione": "Gira a destra"},
             {"direzione": "Destra", "descrizione": "Gira a destra"}
