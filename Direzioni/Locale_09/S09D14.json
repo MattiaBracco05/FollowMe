@@ -8,7 +8,7 @@
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra, avanza fino alla fine del corridoio"},
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra, fino al primo incrocio"},
             {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Destra", "descrizione": "Entra nel primo locale sulla destra"}
+            {"direzione": "Avanti", "descrizione": "Vai avanti, entra nel primo locale sulla destra"}
         ]
     }
 ]
