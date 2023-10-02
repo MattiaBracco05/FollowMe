@@ -1,10 +1,10 @@
 [
     {
-        "numeroLocale": "01",
+        "numeroLocale": 1,
         "nomeLocale": "Aula 1",
         "classe": "1F",
         "piano": 0,
-        "numeroLocaleDestinazione": "04",
+        "numeroLocaleDestinazione": 4,
         "nomeLocaleDestinazione": "Lab TPSEE",
         "pianoDestinazione": 0,
         "passaggi": [
