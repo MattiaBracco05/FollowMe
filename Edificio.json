@@ -23,7 +23,7 @@
     },
     {
         "numeroLocale": 5,
-        "nomeLocale": "Aula 5",
+        "nomeLocale": "Aula 3",
         "piano":0,
         "classe":"1L"
     },
@@ -32,6 +32,132 @@
         "nomeLocale": "Aula 4",
         "piano":0,
         "classe":"1M"
+    },
+    {
+        "numeroLocale": 7,
+        "nomeLocale": "Corridoio PT Nord",
+        "piano":0
+    },
+    {
+        "numeroLocale": 8,
+        "nomeLocale": "Corridoio PT Nord",
+        "piano":0
+    },
+    {
+        "numeroLocale": 9,
+        "nomeLocale": "Aula 5",
+        "piano":0,
+        "classe":"3F"
+    },
+    {
+        "numeroLocale": 10,
+        "nomeLocale": "Servizi Igienici PT",
+        "piano":0
+    },
+    {
+        "numeroLocale": 11,
+        "nomeLocale": "Servizi Igienici PT",
+        "piano":0
+    },
+    {
+        "numeroLocale": 12,
+        "nomeLocale": "Corridoio PT Est",
+        "piano":0
+    },
+    {
+        "numeroLocale": 13,
+        "nomeLocale": "Corridoio PT Est",
+        "piano":0
+    },
+    {
+        "numeroLocale": 14,
+        "nomeLocale": "Lab Info 2",
+        "piano":0,
+        "classe":"4L"
+    },
+    {
+        "numeroLocale": 15,
+        "nomeLocale": "Aula 6",
+        "piano":0,
+        "classe":"2F"
+    },
+    {
+        "numeroLocale": 16,
+        "nomeLocale": "Aula Sostegno Grande",
+        "piano":0,
+        "classe":"4G"
+    },
+    {
+        "numeroLocale": 17,
+        "nomeLocale": "Aula Decompressione",
+        "piano":0
+    },
+    {
+        "numeroLocale": 18,
+        "nomeLocale": "Aula Sostegno Piccola",
+        "piano":0
+    },
+    {
+        "numeroLocale": 19,
+        "nomeLocale": "Aula 7",
+        "piano":0,
+        "classe":"4M"
+    },
+    {
+        "numeroLocale": 20,
+        "nomeLocale": "Aula 8",
+        "piano":0,
+        "classe":"2L"
+    },
+    {
+        "numeroLocale": 21,
+        "nomeLocale": "Lab Fisica",
+        "piano":0
+    },
+    {
+        "numeroLocale":22,
+        "nomeLocale":"Corridoio fronte Atrio",
+        "piano":0
+    },
+    {
+        "numeroLocale":23,
+        "nomeLocale":"Segreteria",
+        "piano":0
+    },
+    {
+        "numeroLocale":24,
+        "nomeLocale":"Servizi Igienici (Amministrazione)",
+        "piano":0
+    },
+    {
+        "numeroLocale":25,
+        "nomeLocale":"Servizi Igienici (Amministrazione)",
+        "piano":0
+    },
+    {
+        "numeroLocale":26,
+        "nomeLocale":"Aula Docenti PT",
+        "piano":0
+    },
+    {
+        "numeroLocale":27,
+        "nomeLocale":"Presidenza",
+        "piano":0
+    },
+    {
+        "numeroLocale":28,
+        "nomeLocale":"Corridoio (Amministrazione)",
+        "piano":0
+    },
+    {
+        "numeroLocale":29,
+        "nomeLocale":"Atrio",
+        "piano":0
+    },
+    {
+        "numeroLocale":30,
+        "nomeLocale":"Deposito Bidelleria PT",
+        "piano":0
     }
-    
+
 ]
