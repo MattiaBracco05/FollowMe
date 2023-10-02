@@ -1,0 +1,11 @@
+[
+    {
+        "numeroLocale": "09",
+        "nomeLocale": "Locale 9",
+        "numeroLocaleDestinazione": "01",
+        "nomeLocaleDestinazione": "Locale 1",
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Vai avanti e entra nella porta des"}
+        ]
+    }
+]
