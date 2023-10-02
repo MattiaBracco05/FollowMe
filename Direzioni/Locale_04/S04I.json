@@ -3,7 +3,7 @@
             "numeroLocale": "0",
             "nomeLocale": "Ingresso",
             "numeroLocaleDestinazione": "4",
-            "nomeLocaleDestinazione": "Aula 4",
+            "nomeLocaleDestinazione": "Lab TPSEE",
             "classe": "Lab TPSEE",
             "passaggi": [
                 {"direzione": "Destra", "descrizione": "Gira a destra"},
