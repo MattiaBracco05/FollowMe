@@ -4,8 +4,8 @@
             "nomeLocale": "Ingresso",
             "piano": 0,
             "numeroLocaleDestinazione": 18,
-            "nomeLocaleDestinazione": "Aula 0",
-            "classeDestinazione": "Aula Sostegno Piccola",
+            "nomeLocaleDestinazione": "Aula Sostegno Piccola",
+            "classeDestinazione": "",
             "pianoDestinazione": 0,
             "passaggi": [
                 {"direzione": "Sinistra", "descrizione": "Gira nel corridoio a sinistra appena possibile"},
