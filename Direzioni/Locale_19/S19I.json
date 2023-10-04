@@ -3,14 +3,13 @@
             "numeroLocale": 0,
             "nomeLocale": "Ingresso",
             "piano": 0,
-            "numeroLocaleDestinazione": 20,
+            "numeroLocaleDestinazione": 19,
             "nomeLocaleDestinazione": "Aula 7",
-            "classeDestinazione": "2M",
+            "classeDestinazione": "4M",
             "pianoDestinazione": 0,
             "passaggi": [
-                {"direzione": "Sinistra", "descrizione": "Gira nel corridoio a sinistra appena possibile"},
-                {"direzione": "Avanti", "descrizione": "Vai avanti"},
-                {"direzione": "Sinistra", "descrizione": "Alla tua sinistra trovi la 2M"}
+                {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+                {"direzione": "Destra", "descrizione": "Alla tua destra trovi la 4M"}
             ]
         }
  ]
