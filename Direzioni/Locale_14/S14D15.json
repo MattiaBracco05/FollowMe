@@ -1,0 +1,13 @@
+[
+    {
+        "numeroLocale": "14",
+        "nomeLocale": "Locale 14",
+        "numeroLocaleDestinazione": "15",
+        "nomeLocaleDestinazione": "Locale 15",
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Esci dall'aula e gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Prosegui diritto fino a raggiungere il muro"},
+            {"direzione": "Destra", "descrizione": "Svolta a destra e ti troverai davanti al locale desiderato"}
+        ]
+    }
+]
