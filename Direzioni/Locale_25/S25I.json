@@ -4,8 +4,8 @@
             "nomeLocale": "Ingresso",
             "piano": 0,
             "numeroLocaleDestinazione": 25,
-            "nomeLocaleDestinazione": "Aula 0",
-            "classeDestinazione": "Servizi Igienici (Amministrazione)",
+            "nomeLocaleDestinazione": "Servizi Igienici (Amministrazione)",
+            "classeDestinazione": "",
             "pianoDestinazione": 0,
             "passaggi": [
                 {"direzione": "Avanti", "descrizione": "Vai avanti, avanza"},
