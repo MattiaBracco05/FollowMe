@@ -11,8 +11,7 @@
                 {"direzione": "Avanti", "descrizione": "Vai avanti, avanza"},
                 {"direzione": "Destra", "descrizione": "Gira nel corridoio a sinistra appena possibile"},
                 {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
-                {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-                {"direzione": "Destra", "descrizione": "Alla tua destra trovi l'aula Servizi Igienici"}
+                {"direzione": "Sinistra", "descrizione": "Alla tua sinistra trovi l'aula Servizi Igienici"}
             ]
         }
  ]
