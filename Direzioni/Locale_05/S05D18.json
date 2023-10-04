@@ -1,0 +1,20 @@
+[
+	{
+		"numeroLocale": "05",
+		"nomeLocale": "Locale 5",
+		"numeroLocaleDestinazione": "16",
+		"nomeLocaleDestinazione": "Locale 16",
+		"passaggi": [
+			{"direzione": "Destra", "descrizione": "Gira a destra"},
+			{"direzione": "Avanti", "descrizione": "Vai avanti fino al fondo del corridoio"},
+      {"direzione": "Destra", "descrizione": "Gira a destra"},
+      {"direzione": "Avanti", "descrizione": "Vai avanti fino al fondo del corridoio"},
+      {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+      {"direzione": "Destra", "descrizione": "Gira a destra"},
+      {"direzione": "Avanti", "descrizione": "Vai avanti fino al muro"},
+      {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+      {"direzione": "Avanti", "descrizione": "Vai avanti fino alla porta della classe a sinistra"},
+      {"direzione": "Sinistra", "descrizione": "Gira a sinistra ed entra in classe"}
+		]
+	}
+]
