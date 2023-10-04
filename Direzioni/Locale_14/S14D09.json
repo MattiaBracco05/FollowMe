@@ -1,0 +1,16 @@
+[
+    {
+        "numeroLocale": "14",
+        "nomeLocale": "Locale 14",
+        "numeroLocaleDestinazione": "06",
+        "nomeLocaleDestinazione": "Locale 6",
+        "passaggi": [
+            {"direzione": "Sinistra", "descrizione": "Esci dall'aula e gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Prosegui diritto fino a raggiungere il muro"},
+            {"direzione": "Sinistra", "descrizione": "Svolta a sinistra e prosegui diritto"},
+            {"direzione": "Destra", "descrizione": "Gira a destra alla svolta"},
+            {"direzione": "Avanti", "descrizione": "Prosegui diritto fino al ad aver superato i bagni"},
+            {"direzione": "Sinistra", "descrizione": "Gira a destra ed entra nella prima porta"}
+        ]
+    }
+]
