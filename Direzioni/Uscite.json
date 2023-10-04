@@ -1,0 +1,321 @@
+[
+    {
+        "numeroLocale": 1,
+        "nomeLocale": "Aula 1",
+        "classe": "1F",
+        "piano": 0,
+        "nomeUscita": "Uscita",
+        "numeroUscita":2,
+        "PianoUscite": 0,
+        "passaggi": [
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Scendi le scale"}
+
+        ]
+    },
+    {
+        "numeroLocale": 2,
+        "nomeLocale": "Aula 2",
+        "classe":"1G",
+        "piano":0,
+        "nomeUscita": "Uscita",
+        "numeroUscita": 2,
+        "PianoUscite":0,
+        "passaggi": [
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Scendi le scale"}
+        ]
+    },
+    {
+        "numeroLocale":3,
+        "nomeLocale":"Lab Autocad",
+        "piano":0,
+        "nomeUscita": "Uscita",
+        "numeroUscita": 2,
+        "PianoUscite":0,
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione":"Sinistra","descrizione":"Scendi le scale"}
+
+        ]
+    },
+    {
+        "numeroLocale":4,
+        "nomeLocale":"Lab TPSEE",
+        "piano":0,
+        "nomeUscita": "Uscita",
+        "numeroUscita": 2,
+        "PianoUscite":0,
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alle scale"},
+            {"direzione":"Scendi","descrizione":"Scendi le scale"}
+        ]
+    },
+    {
+        "numeroLocale": 5,
+        "nomeLocale": "Aula 3",
+        "piano":0,
+        "classe":"1L",
+        "nomeUscita": "Uscita",
+        "numeroUscita": 2,
+        "PianoUscite":0,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione":"Scendi","descrizione":"Scendi le scale"}
+        ]
+    },
+    {
+        "numeroLocale": 6,
+        "nomeLocale": "Aula 4",
+        "piano":0,
+        "classe":"1M",
+        "nomeUscita": "Uscita",
+        "numeroUscita": 2,
+        "PianoUscite":0,
+
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione":"Scendi","descrizione":"Scendi le scale"}
+        ]
+    },
+    {
+        "numeroLocale": 9,
+        "nomeLocale": "Aula 5",
+        "piano":0,
+        "classe":"3F",
+        "nomeUscita": "Uscita",
+        "numeroUscita": 2,
+        "PianoUscite":0,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla scale"},
+            {"direzione":"Scendi","descrizione":"Scendi le scale"}
+        ]
+    },
+    {
+        "numeroLocale": 10,
+        "nomeLocale": "Servizi Igienici PT",
+        "piano":0,
+        "nomeUscita": "Uscita",
+        "numeroUscita": 2,
+        "PianoUscite":0,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla scale"},
+            {"direzione":"Scendi","descrizione":"Scendi le scale"}
+        ]
+    },
+    {
+        "numeroLocale": 11,
+        "nomeLocale": "Servizi Igienici PT",
+        "piano":0,
+        "nomeUscita": "Uscita",
+        "numeroUscita": 2,
+        "PianoUscite":0,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla scale"},
+            {"direzione":"Scendi","descrizione":"Scendi le scale"}
+        ]
+    },
+    {
+        "numeroLocale": 14,
+        "nomeLocale": "Lab Info 2",
+        "piano":0,
+        "classe":"4L",
+        "nomeUscita": "Uscita",
+        "numeroUscita": 1,
+        "PianoUscite":0,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}
+        ]
+    },
+    {
+        "numeroLocale": 15,
+        "nomeLocale": "Aula 6",
+        "piano":0,
+        "classe":"2F",
+        "nomeUscita": "Uscita",
+        "numeroUscita": 1,
+        "PianoUscite":0,
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}
+        ]
+    },
+    {
+        "numeroLocale": 16,
+        "nomeLocale": "Aula Sostegno Grande",
+        "piano":0,
+        "classe":"4G",
+        "nomeUscita": "Uscita",
+        "numeroUscita": 1,
+        "PianoUscite":0,
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fino all'incrocio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}
+        ]
+    },
+    {
+        "numeroLocale": 17,
+        "nomeLocale": "Aula Decompressione",
+        "piano":0,
+        "nomeUscita": "Uscita",
+        "numeroUscita": 1,
+        "PianoUscite":0,
+        "passaggi": [
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}
+        ]
+    },
+    {
+        "numeroLocale": 18,
+        "nomeLocale": "Aula Sostegno Piccola",
+        "piano":0,
+        "nomeUscita": "Uscita",
+        "numeroUscita": 1,
+        "PianoUscite":0,
+        "passaggi": [
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}
+        ]
+    },
+    {
+        "numeroLocale": 19,
+        "nomeLocale": "Aula 7",
+        "piano":0,
+        "classe":"4M",
+        "nomeUscita": "Uscita",
+        "numeroUscita": 1,
+        "PianoUscite":0,
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino all'uscita"}
+        ]
+    },
+    {
+        "numeroLocale": 20,
+        "nomeLocale": "Aula 8",
+        "piano":0,
+        "classe":"2L",
+        "nomeUscita": "Uscita",
+        "numeroUscita": 1,
+        "PianoUscite":0,
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino all'uscita"}
+        ]
+    },
+    {
+        "numeroLocale": 21,
+        "nomeLocale": "Lab Fisica",
+        "piano":0,
+        "nomeUscita": "Uscita",
+        "numeroUscita": 1,
+        "PianoUscite":0,
+        "passaggi": [
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino a fine corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"}
+        ]
+    },
+    {
+        "numeroLocale":23,
+        "nomeLocale":"Segreteria",
+        "piano":0,
+        "nomeUscita": "Uscita",
+        "numeroUscita": 0,
+        "PianoUscite":0,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra ed esci"}
+        ]
+    },
+    {
+        "numeroLocale":24,
+        "nomeLocale":"Servizi Igienici (Amministrazione)",
+        "piano":0,
+        "nomeUscita": "Uscita",
+        "numeroUscita": 0,
+        "PianoUscite":0,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra ed esci"}
+        ]
+    },
+    {
+        "numeroLocale":25,
+        "nomeLocale":"Servizi Igienici (Amministrazione)",
+        "piano":0,
+        "nomeUscita": "Uscita",
+        "numeroUscita": 0,
+        "PianoUscite":0,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra ed esci"}
+        ]
+    },
+    {
+        "numeroLocale":26,
+        "nomeLocale":"Aula Docenti PT",
+        "piano":0,
+        "nomeUscita": "Uscita",
+        "numeroUscita": 0,
+        "PianoUscite":0,
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra ed esci"}
+        ]
+    },
+    {
+        "numeroLocale":27,
+        "nomeLocale":"Presidenza",
+        "piano":0,
+        "nomeUscita": "Uscita",
+        "numeroUscita": 0,
+        "PianoUscite":0,
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra ed esci"}
+        ]
+    },
+    {
+        "numeroLocale":30,
+        "nomeLocale":"Deposito Bidelleria PT",
+        "piano":0,
+        "nomeUscita": "Uscita",
+        "numeroUscita": 1,
+        "PianoUscite":0,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino al'usicta"}
+
+        ]
+    }
+    
+]
