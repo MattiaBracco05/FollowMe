@@ -9,7 +9,7 @@
             "pianoDestinazione": 0,
             "passaggi": [
                 {"direzione": "Avanti", "descrizione": "Vai avanti, avanza"},
-                {"direzione": "Destra", "descrizione": "Gira nel corridoio a sinistra appena possibile"},
+                {"direzione": "Sinistra", "descrizione": "Gira nel corridoio a sinistra appena possibile"},
                 {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
                 {"direzione": "Sinistra", "descrizione": "Alla tua sinistra trovi l'aula Servizi Igienici"}
             ]
