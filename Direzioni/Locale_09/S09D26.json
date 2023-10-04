@@ -1,0 +1,20 @@
+[
+    {
+        "numeroLocale": "09",
+        "nomeLocale": "Locale 9",
+        "numeroLocaleDestinazione": "26",
+        "nomeLocaleDestinazione": "Locale 26",
+        "passaggi": [
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra, fino al primo incrocio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra alla fine del corridoio"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Dirigiti verso il corridoio alla tua sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra, la tua destinazione è il primo locale a sinistra"}
+        ]
+    }
+]
