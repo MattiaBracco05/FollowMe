@@ -1,0 +1,18 @@
+[
+    {
+            "numeroLocale": 0,
+            "nomeLocale": "Ingresso",
+            "piano": 0,
+            "numeroLocaleDestinazione": 18,
+            "nomeLocaleDestinazione": "Aula 0",
+            "classeDestinazione": "Aula Sostegno Piccola",
+            "pianoDestinazione": 0,
+            "passaggi": [
+                {"direzione": "Sinistra", "descrizione": "Gira nel corridoio a sinistra appena possibile"},
+                {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+                {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+                {"direzione": "Destra", "descrizione": "Gira a Destra"},
+                {"direzione": "Sinistra", "descrizione": "Alla tua sinistra trovi l'Aula di Sostegno Piccola"}
+            ]
+        }
+ ]
