@@ -5,7 +5,7 @@
         "classe": "1F",
         "piano": 0,
         "nomeUscita": "Uscita",
-        "piano": 0,
+        "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
