@@ -4,8 +4,8 @@
             "nomeLocale": "Ingresso",
             "piano": 0,
             "numeroLocaleDestinazione": 26,
-            "nomeLocaleDestinazione": "Aula 0",
-            "classeDestinazione": "Aula Docenti PT",
+            "nomeLocaleDestinazione": "Aula Docenti PT",
+            "classeDestinazione": "",
             "pianoDestinazione": 0,
             "passaggi": [
                 {"direzione": "Avanti", "descrizione": "Vai avanti, avanza"},
