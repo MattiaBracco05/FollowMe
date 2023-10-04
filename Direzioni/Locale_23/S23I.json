@@ -1,0 +1,17 @@
+[
+    {
+            "numeroLocale": 0,
+            "nomeLocale": "Ingresso",
+            "piano": 0,
+            "numeroLocaleDestinazione": 23,
+            "nomeLocaleDestinazione": "Aula 23",
+            "classeDestinazione": "Segreteria",
+            "pianoDestinazione": 0,
+            "passaggi": [
+                {"direzione": "Avanti", "descrizione": "Vai avanti, avanza"},
+                {"direzione": "Sinistra", "descrizione": "Gira nel corridoio a sinistra appena possibile"},
+                {"direzione": "Avanti", "descrizione": "Vai avanti"},
+                {"direzione": "Sinistra", "descrizione": "Alla tua sinistra trovi la Segreteria"}
+            ]
+        }
+ ]
