@@ -1,0 +1,142 @@
+[
+    {
+            "numeroLocale": 0,
+            "nomeLocale": "Ingresso",
+            "numeroLocaleDestinazione": 1,
+            "nomeLocaleDestinazione": "Aula 1",
+            "classe": "1F",
+            "piano":0,
+            "passaggi": [
+                {"direzione": "Destra", "descrizione": "Gira a destra"},
+                {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+                {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+                {"direzione": "Destra", "descrizione": "Gira a destra"},
+                {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+                {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+                {"direzione": "Destra", "descrizione": "Gira a destra"},
+                {"direzione": "Avanti", "descrizione": "Vai avanti, avanza finché non vedi le scale"},
+                {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+                {"direzione": "Destra", "descrizione": "Alla tua destra trovi l'aula 1F"}
+            ]
+    },
+    {
+        "numeroLocale": 0,
+        "nomeLocale": "Ingresso",
+        "numeroLocaleDestinazione": 2,
+        "nomeLocaleDestinazione": "Aula 2",
+        "classe": "1G",
+        "piano":0,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza finché non vedi le scale"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, fino al fondo"},
+            {"direzione": "Destra", "descrizione": "Alla tua destra trovi l'aula 1G"}
+        ]
+    },
+    {
+        "numeroLocale": 0,
+        "nomeLocale": "Ingresso",
+        "numeroLocaleDestinazione": 3,
+        "nomeLocaleDestinazione": "Lab Autocad",
+        "classe": "Lab Autocad",
+        "piano":0,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza finché non vedi le scale"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, fino al fondo e sulla destra trovi l'aula Lab Autocad"}
+        ]
+    },
+    {
+        "numeroLocale": 0,
+        "nomeLocale": "Ingresso",
+        "numeroLocaleDestinazione": 4,
+        "nomeLocaleDestinazione": "Lab TPSEE",
+        "classe": "Lab TPSEE",
+        "piano":0,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza finché non vedi le scale"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, fino al fondo e sulla sinistra trovi l'aula Lab TPSEE"}
+        ]
+    },
+    {
+        "numeroLocale": 0,
+        "nomeLocale": "Ingresso",
+        "numeroLocaleDestinazione": 5,
+        "nomeLocaleDestinazione": "Aula 3",
+        "classe": "1L",
+        "piano":0,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza finché non vedi le scale"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, fino al fondo e sulla sinistra trovi l'aula 1L"}
+        ]
+    },
+    {
+        "numeroLocale": 0,
+        "nomeLocale": "Ingresso",
+        "numeroLocaleDestinazione": 6,
+        "nomeLocaleDestinazione": "Aula 4",
+        "classe": "1M",
+        "piano":0,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza finché non vedi le scale"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "sinistra", "descrizione": "Alla tua sinistra trovi l'aula 1M"}
+        ]
+    },
+    {
+        "numeroLocale": 0,
+        "nomeLocale": "Ingresso",
+        "piano": 0,
+        "numeroLocaleDestinazione": 9,
+        "nomeLocaleDestinazione": "Aula 5",
+        "classe": "3F",
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, avanza finché non vedi le scale"},
+            {"direzione": "Destra", "descrizione": "Gira a Destra, l'ultima classe sulla destra"}
+        ]
+    }
+ ]
