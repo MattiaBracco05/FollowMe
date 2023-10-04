@@ -1,0 +1,15 @@
+[
+    {
+            "numeroLocale": 0,
+            "nomeLocale": "Ingresso",
+            "piano": 0,
+            "numeroLocaleDestinazione": 20,
+            "nomeLocaleDestinazione": "Aula 20",
+            "classeDestinazione": "2L",
+            "pianoDestinazione": 0,
+            "passaggi": [
+                {"direzione": "Sinistra", "descrizione": "Gira nel corridoio a sinistra appena possibile"},
+                {"direzione": "Avanti", "descrizione": "Vai avanti"},
+                {"direzione": "Sinistra", "descrizione": "Alla tua sinistra trovi 2L"}
+            ]
+        }
