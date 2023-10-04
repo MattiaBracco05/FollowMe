@@ -4,8 +4,8 @@
             "nomeLocale": "Ingresso",
             "piano": 0,
             "numeroLocaleDestinazione": 21,
-            "nomeLocaleDestinazione": "Aula 0",
-            "classeDestinazione": "Lab Fisica",
+            "nomeLocaleDestinazione": "Lab Fisica",
+            "classeDestinazione": "",
             "pianoDestinazione": 0,
             "passaggi": [
                 {"direzione": "Sinistra", "descrizione": "Gira nel corridoio a sinistra appena possibile"},
