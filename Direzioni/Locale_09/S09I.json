@@ -6,7 +6,7 @@
             "numeroLocaleDestinazione": "9",
             "nomeLocaleDestinazione": "Aula 5",
             "classe": "3F",
-            "piano": 0,
+            "pianodestinazione": 0,
             "passaggi": [
                 {"direzione": "Destra", "descrizione": "Gira a destra"},
                 {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
