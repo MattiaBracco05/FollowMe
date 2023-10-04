@@ -1,0 +1,22 @@
+[
+    {
+        "numeroLocale": 2,
+        "nomeLocale": "Locale 2",
+        "piano":0,
+        "classe":"1G",
+        "numeroLocaleDestinazione": 19,
+        "nomeLocaleDestinazione": "Aula 7",
+        "pianoDestinazione":0,
+        "classeDestinazione":"2M",
+        "passaggi": [
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra nel corridoio"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra nel corridoio, entra nella prima porta a destra"}
+        ]
+    }
+]
