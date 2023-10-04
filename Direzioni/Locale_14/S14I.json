@@ -1,0 +1,19 @@
+[
+    {
+            "numeroLocale": "0",
+            "nomeLocale": "Ingresso",
+            "numeroLocaleDestinazione": "14",
+            "nomeLocaleDestinazione": "Lab Info 2",
+            "classe": "4L",
+            "passaggi": [
+                {"direzione": "Destra", "descrizione": "Gira a destra"},
+                {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+                {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+                {"direzione": "Destra", "descrizione": "Gira a destra"},
+                {"direzione": "Avanti", "descrizione": "Vai avanti"},
+                {"direzione": "Sinistra", "descrizione": "Gira a sinistra,sei arrivato a destinazione"}
+               
+
+            ]
+        }
+ ]
