@@ -2,8 +2,10 @@
     {
             "numeroLocale": "0",
             "nomeLocale": "Ingresso",
+            "piano":0,
             "numeroLocaleDestinazione": "6",
             "nomeLocaleDestinazione": "Aula 4",
+            "pianoDestinazione":0,
             "classe": "1M",
             "passaggi": [
                 {"direzione": "Destra", "descrizione": "Gira a destra"},
