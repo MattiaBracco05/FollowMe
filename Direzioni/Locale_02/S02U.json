@@ -2,6 +2,7 @@
     {
         "numeroLocale": "02",
         "nomeLocale": "Locale 2",
+        "classe": "1G",
         "piano": 0,
         "nomeUscita": "Uscita",
         "pianoDestinazione": 0,
