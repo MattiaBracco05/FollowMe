@@ -1,0 +1,17 @@
+[
+    {
+            "numeroLocale": 0,
+            "nomeLocale": "Ingresso",
+            "piano": 0,
+            "numeroLocaleDestinazione": 24,
+            "nomeLocaleDestinazione": "Aula 24",
+            "classeDestinazione": "Servizi Igienici (Amministrazione)",
+            "pianoDestinazione": 0,
+            "passaggi": [
+                {"direzione": "Avanti", "descrizione": "Vai avanti, avanza"},
+                {"direzione": "Sinistra", "descrizione": "Gira nel corridoio a sinistra appena possibile"},
+                {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+                {"direzione": "Sinistra", "descrizione": "Alla tua sinistra trovi i Servizi Igienici (Amministrazione)"}
+            ]
+        }
+ ]
