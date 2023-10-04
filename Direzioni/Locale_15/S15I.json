@@ -1,0 +1,15 @@
+[
+    {
+            "numeroLocale": "0",
+            "nomeLocale": "Ingresso",
+            "numeroLocaleDestinazione": "15",
+            "nomeLocaleDestinazione": "Aula 6",
+            "classe": "2F",
+            "passaggi": [
+                {"direzione": "Destra", "descrizione": "Gira a destra"},
+                {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+                {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+                {"direzione": "Avanti", "descrizione": "Avanti,sei arrivato a destinazione"}
+            ]
+        }
+ ]
