@@ -10,7 +10,7 @@
             "passaggi": [
                 {"direzione": "Avanti", "descrizione": "Vai avanti, avanza"},
                 {"direzione": "Sinistra", "descrizione": "Gira nel corridoio a sinistra appena possibile"},
-                {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+                {"direzione": "Avanti", "descrizione": "Vai avanti"},
                 {"direzione": "Sinistra", "descrizione": "Alla tua sinistra trovi l'aula Servizi Igienici"}
             ]
         }
