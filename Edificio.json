@@ -14,12 +14,14 @@
     {
         "numeroLocale":3,
         "nomeLocale":"Lab Autocad",
-        "piano":0
+        "piano":0,
+        "classe":"Lab Autocad"
     },
     {
         "numeroLocale":4,
         "nomeLocale":"Lab TPSEE",
-        "piano":0
+        "piano":0,
+        "classe":"Lab TPSEE"
     },
     {
         "numeroLocale": 5,
@@ -36,12 +38,14 @@
     {
         "numeroLocale": 7,
         "nomeLocale": "Corridoio PT Nord",
-        "piano":0
+        "piano":0,
+        "classe":"Corridoio PT Nord"
     },
     {
         "numeroLocale": 8,
         "nomeLocale": "Corridoio PT Nord",
-        "piano":0
+        "piano":0,
+        "classe":"Corridoio PT Nord"
     },
     {
         "numeroLocale": 9,
@@ -52,22 +56,26 @@
     {
         "numeroLocale": 10,
         "nomeLocale": "Servizi Igienici PT",
-        "piano":0
+        "piano":0,
+        "classe":"Servizi Igienici PT"
     },
     {
         "numeroLocale": 11,
         "nomeLocale": "Servizi Igienici PT",
-        "piano":0
+        "piano":0,
+        "classe":"Servizi Igienici PT"
     },
     {
         "numeroLocale": 12,
         "nomeLocale": "Corridoio PT Est",
-        "piano":0
+        "piano":0,
+        "classe":"Corridoio PT Est"
     },
     {
         "numeroLocale": 13,
         "nomeLocale": "Corridoio PT Est",
-        "piano":0
+        "piano":0,
+        "classe":"Corridoio PT Est"
     },
     {
         "numeroLocale": 14,
@@ -90,12 +98,14 @@
     {
         "numeroLocale": 17,
         "nomeLocale": "Aula Decompressione",
-        "piano":0
+        "piano":0,
+        "classe":"Aula Decompressione"
     },
     {
         "numeroLocale": 18,
         "nomeLocale": "Aula Sostegno Piccola",
-        "piano":0
+        "piano":0,
+        "classe":"Aula Sostegno Piccola"
     },
     {
         "numeroLocale": 19,
@@ -112,12 +122,14 @@
     {
         "numeroLocale": 21,
         "nomeLocale": "Lab Fisica",
-        "piano":0
+        "piano":0,
+        "classe":"Lab Fisica"
     },
     {
         "numeroLocale":22,
         "nomeLocale":"Corridoio fronte Atrio",
-        "piano":0
+        "piano":0,
+        "classe":"Corridoio fronte Atrio"
     },
     {
         "numeroLocale":23,
