@@ -39,13 +39,13 @@
         "numeroLocale": 7,
         "nomeLocale": "Corridoio PT Nord",
         "piano":0,
-        "classe":"Corridoio PT Nord"
+        "classe":"non definita"
     },
     {
         "numeroLocale": 8,
         "nomeLocale": "Corridoio PT Nord",
         "piano":0,
-        "classe":"Corridoio PT Nord"
+        "classe":"non definita"
     },
     {
         "numeroLocale": 9,
@@ -57,25 +57,25 @@
         "numeroLocale": 10,
         "nomeLocale": "Servizi Igienici PT",
         "piano":0,
-        "classe":"Servizi Igienici PT"
+        "classe": "Servizi Igienici PT"
     },
     {
         "numeroLocale": 11,
         "nomeLocale": "Servizi Igienici PT",
         "piano":0,
-        "classe":"Servizi Igienici PT"
+        "classe": "Servizi Igienici PT"
     },
     {
         "numeroLocale": 12,
         "nomeLocale": "Corridoio PT Est",
         "piano":0,
-        "classe":"Corridoio PT Est"
+        "classe":"non definita"
     },
     {
         "numeroLocale": 13,
         "nomeLocale": "Corridoio PT Est",
         "piano":0,
-        "classe":"Corridoio PT Est"
+        "classe":"non definita"
     },
     {
         "numeroLocale": 14,
@@ -105,7 +105,7 @@
         "numeroLocale": 18,
         "nomeLocale": "Aula Sostegno Piccola",
         "piano":0,
-        "classe":"Aula Sostegno Piccola"
+        "classe": "Aula Sostegno Piccola"
     },
     {
         "numeroLocale": 19,
@@ -129,82 +129,97 @@
         "numeroLocale":22,
         "nomeLocale":"Corridoio fronte Atrio",
         "piano":0,
-        "classe":"Corridoio fronte Atrio"
+        "classe":"non definita"
     },
     {
         "numeroLocale":23,
         "nomeLocale":"Segreteria",
-        "piano":0
+        "piano":0,
+        "classe":"Segreteria"
     },
     {
         "numeroLocale":24,
         "nomeLocale":"Servizi Igienici (Amministrazione)",
-        "piano":0
+        "piano":0,
+        "classe":"Servizi Igienici (Amministrazione)"
     },
     {
         "numeroLocale":25,
         "nomeLocale":"Servizi Igienici (Amministrazione)",
-        "piano":0
+        "piano":0,
+        "classe":"Servizi Igienici (Amministrazione)"
     },
     {
         "numeroLocale":26,
         "nomeLocale":"Aula Docenti PT",
-        "piano":0
+        "piano":0,
+        "classe":"Aula Docenti PT"
     },
     {
         "numeroLocale":27,
         "nomeLocale":"Presidenza",
-        "piano":0
+        "piano":0,
+        "classe":"Presidenza"
     },
     {
         "numeroLocale":28,
         "nomeLocale":"Corridoio (Amministrazione)",
-        "piano":0
+        "piano":0,
+        "classe":"non definita"
     },
     {
         "numeroLocale":29,
         "nomeLocale":"Atrio",
-        "piano":0
+        "piano":0,
+        "classe":"non definita"
     },
     {
         "numeroLocale":30,
         "nomeLocale":"Deposito Bidelleria PT",
-        "piano":0
+        "piano":0,
+        "classe":"Deposito Bidellleria PT"
     },
     {
         "numeroLocale":31,
         "nomeLocale":"Aula Ricevimento 3",
-        "piano":1
+        "piano":1,
+        "classe":"Aula Ricevimento 3"
     },
     {
         "numeroLocale":32,
         "nomeLocale":"Aula Ricevimento 2",
-        "piano":1
+        "piano":1,
+        "classe":"Aula Ricevimento 2"
     },
     {
         "numeroLocale":33,
         "nomeLocale":"Aula Ricevimento 1",
-        "piano":1
+        "piano":1,
+        "classe":"Aula Ricevimento 1"
     },
     {
         "numeroLocale":34,
         "nomeLocale":"Corridoio PP",
-        "piano":1
+        "piano":1,
+        "classe":"non definita"
     },
     {
         "numeroLocale":35,
         "nomeLocale":"Biblioteca",
-        "piano":1
+        "piano":1,
+        "classe":"Biblioteca"
     },
     {
         "numeroLocale":36,
         "nomeLocale":"Vano scale Attico",
-        "piano":1
+        "piano":1,
+        "classe":"non definita"
     },
     {
         "numeroLocale":37,
         "nomeLocale":"Lab. Info e Sistemi",
-        "piano":-1
+        "piano":-1,
+        "classe":"Lab. Info e Sistemi"
     },
     {
         "numeroLocale": 38,
@@ -227,17 +242,20 @@
     {
         "numeroLocale":41,
         "nomeLocale":"Corridoio PI Laboratori",
-        "piano":-1
+        "piano":-1,
+        "classe":"non definita"
     },
     {
         "numeroLocale":42,
         "nomeLocale":"Corridoio PI Laboratori",
-        "piano":-1
+        "piano":-1,
+        "classe":"non definita"
     },
     {
         "numeroLocale":43,
         "nomeLocale":"Lab. Elettrotecnica",
-        "piano":-1
+        "piano":-1,
+        "classe":"Lab. Elettrotecnica"
     },
     {
         "numeroLocale": 44,
@@ -248,32 +266,38 @@
     {
         "numeroLocale":45,
         "nomeLocale":"Servizi Igienici PS",
-        "piano":-1
+        "piano":-1,
+        "classe":"non definita"
     },
     {
         "numeroLocale":46,
         "nomeLocale":"Servizi Igienici PS",
-        "piano":-1
+        "piano":-1,
+        "classe":"non definita"
     },
     {
         "numeroLocale":47,
         "nomeLocale":"Bar",
-        "piano":-1
+        "piano":-1,
+        "classe":"Bar"
     },
     {
         "numeroLocale":48,
         "nomeLocale":"Corridoio PS Sud",
-        "piano":-1
+        "piano":-1,
+        "classe":"non definita"
     },
     {
         "numeroLocale":49,
         "nomeLocale":"Corridoio PS Nord",
-        "piano":-1
+        "piano":-1,
+        "classe":"non definita"
     },
     {
         "numeroLocale":50,
         "nomeLocale":"Aula Magna",
-        "piano":-1
+        "piano":-1,
+        "classe":"Aula Magna"
     },
     {
         "numeroLocale": 51,
@@ -290,57 +314,68 @@
     {
         "numeroLocale":53,
         "nomeLocale":"Lab. Sistemi Elettro",
-        "piano":-1
+        "piano":-1,
+        "classe":"Lab. Sistemi Elettro"
     },
     {
         "numeroLocale":54,
         "nomeLocale":"Ufficio Tecnico",
-        "piano":-1
+        "piano":-1,
+        "classe":"Ufficio Tecnico"
     },
     {
         "numeroLocale":55,
         "nomeLocale":"Deposito",
-        "piano":-1
+        "piano":-1,
+        "classe":"Deposito"
     },
     {
         "numeroLocale":56,
         "nomeLocale":"Corridoio PS Nord",
-        "piano":-1
+        "piano":-1,
+        "classe":"non definita"
     },
     {
         "numeroLocale":57,
         "nomeLocale":"Ingresso secondario",
-        "piano":-1
+        "piano":-1,
+        "classe":"non definita"
     },
     {
         "numeroLocale":58,
         "nomeLocale":"Deposito Palestra",
-        "piano":-1
+        "piano":-1,
+        "classe":"Deposito Palestra"
     },
     {
         "numeroLocale":59,
         "nomeLocale":"Corridoio Palestra",
-        "piano":-1
+        "piano":-1,
+        "classe":"non definita"
     },
     {
         "numeroLocale":60,
         "nomeLocale":"Spogliatoio maschile",
-        "piano":-1
+        "piano":-1,
+        "classe":"non definita"
     },
     {
         "numeroLocale":61,
         "nomeLocale":"Spogliatoio femminile",
-        "piano":-1
+        "piano":-1,
+        "classe":"non definita"
     },
     {
         "numeroLocale":62,
         "nomeLocale":"Infermeria / Spogliatoio docenti",
-        "piano":-1
+        "piano":-1,
+        "classe":"Infermeria / Spogliatoio docenti"
     },
     {
         "numeroLocale":63,
         "nomeLocale":"Palestra",
-        "piano":-1
+        "piano":-1,
+        "classe":"Palestra"
     }
 
 ]
