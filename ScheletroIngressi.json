@@ -2,6 +2,7 @@
     "numeroLocale": 1,
     "nomeLocale": "Ingresso",
     "piano": 0,
+    "numeroDestinazione": 0,
     "nomeDestinazione": "aula esempio",
     "classeDestinazione":"classe esempio",
     "pianoDestinazione": 0,
