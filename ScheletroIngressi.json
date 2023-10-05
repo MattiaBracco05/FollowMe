@@ -1,0 +1,11 @@
+{
+    "numeroLocale": 2,
+    "nomeLocale": "Ingresso",
+    "piano": 0,
+    "nomeDestinazione": "aula esempio",
+    "classeDestinazione":"classe esempio",
+    "pianoDestinazione": 0,
+    "passaggi": [
+        {"direzione": "", "descrizione": ""}
+    ]
+}
