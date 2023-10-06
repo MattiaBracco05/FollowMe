@@ -1,0 +1,346 @@
+[
+    {
+        "numeroLocale": 1,
+        "nomeLocale": "Aula 1",
+        "piano":0,
+        "classe":"1F"
+    },
+    {
+        "numeroLocale": 2,
+        "nomeLocale": "Aula 2",
+        "piano":0,
+        "classe":"1G"
+    },
+    {
+        "numeroLocale":3,
+        "nomeLocale":"Lab Autocad",
+        "piano":0,
+        "classe":"Lab Autocad"
+    },
+    {
+        "numeroLocale":4,
+        "nomeLocale":"Lab TPSEE",
+        "piano":0,
+        "classe":"Lab TPSEE"
+    },
+    {
+        "numeroLocale": 5,
+        "nomeLocale": "Aula 3",
+        "piano":0,
+        "classe":"1L"
+    },
+    {
+        "numeroLocale": 6,
+        "nomeLocale": "Aula 4",
+        "piano":0,
+        "classe":"1M"
+    },
+    {
+        "numeroLocale": 7,
+        "nomeLocale": "Corridoio PT Nord",
+        "piano":0,
+        "classe":"Corridoio PT Nord"
+    },
+    {
+        "numeroLocale": 8,
+        "nomeLocale": "Corridoio PT Nord",
+        "piano":0,
+        "classe":"Corridoio PT Nord"
+    },
+    {
+        "numeroLocale": 9,
+        "nomeLocale": "Aula 5",
+        "piano":0,
+        "classe":"3F"
+    },
+    {
+        "numeroLocale": 10,
+        "nomeLocale": "Servizi Igienici PT",
+        "piano":0,
+        "classe":"Servizi Igienici PT"
+    },
+    {
+        "numeroLocale": 11,
+        "nomeLocale": "Servizi Igienici PT",
+        "piano":0,
+        "classe":"Servizi Igienici PT"
+    },
+    {
+        "numeroLocale": 12,
+        "nomeLocale": "Corridoio PT Est",
+        "piano":0,
+        "classe":"Corridoio PT Est"
+    },
+    {
+        "numeroLocale": 13,
+        "nomeLocale": "Corridoio PT Est",
+        "piano":0,
+        "classe":"Corridoio PT Est"
+    },
+    {
+        "numeroLocale": 14,
+        "nomeLocale": "Lab Info 2",
+        "piano":0,
+        "classe":"4L"
+    },
+    {
+        "numeroLocale": 15,
+        "nomeLocale": "Aula 6",
+        "piano":0,
+        "classe":"2F"
+    },
+    {
+        "numeroLocale": 16,
+        "nomeLocale": "Aula Sostegno Grande",
+        "piano":0,
+        "classe":"4G"
+    },
+    {
+        "numeroLocale": 17,
+        "nomeLocale": "Aula Decompressione",
+        "piano":0,
+        "classe":"Aula Decompressione"
+    },
+    {
+        "numeroLocale": 18,
+        "nomeLocale": "Aula Sostegno Piccola",
+        "piano":0,
+        "classe":"Aula Sostegno Piccola"
+    },
+    {
+        "numeroLocale": 19,
+        "nomeLocale": "Aula 7",
+        "piano":0,
+        "classe":"4M"
+    },
+    {
+        "numeroLocale": 20,
+        "nomeLocale": "Aula 8",
+        "piano":0,
+        "classe":"2L"
+    },
+    {
+        "numeroLocale": 21,
+        "nomeLocale": "Lab Fisica",
+        "piano":0,
+        "classe":"Lab Fisica"
+    },
+    {
+        "numeroLocale":22,
+        "nomeLocale":"Corridoio fronte Atrio",
+        "piano":0,
+        "classe":"Corridoio fronte Atrio"
+    },
+    {
+        "numeroLocale":23,
+        "nomeLocale":"Segreteria",
+        "piano":0
+    },
+    {
+        "numeroLocale":24,
+        "nomeLocale":"Servizi Igienici (Amministrazione)",
+        "piano":0
+    },
+    {
+        "numeroLocale":25,
+        "nomeLocale":"Servizi Igienici (Amministrazione)",
+        "piano":0
+    },
+    {
+        "numeroLocale":26,
+        "nomeLocale":"Aula Docenti PT",
+        "piano":0
+    },
+    {
+        "numeroLocale":27,
+        "nomeLocale":"Presidenza",
+        "piano":0
+    },
+    {
+        "numeroLocale":28,
+        "nomeLocale":"Corridoio (Amministrazione)",
+        "piano":0
+    },
+    {
+        "numeroLocale":29,
+        "nomeLocale":"Atrio",
+        "piano":0
+    },
+    {
+        "numeroLocale":30,
+        "nomeLocale":"Deposito Bidelleria PT",
+        "piano":0
+    },
+    {
+        "numeroLocale":31,
+        "nomeLocale":"Aula Ricevimento 3",
+        "piano":1
+    },
+    {
+        "numeroLocale":32,
+        "nomeLocale":"Aula Ricevimento 2",
+        "piano":1
+    },
+    {
+        "numeroLocale":33,
+        "nomeLocale":"Aula Ricevimento 1",
+        "piano":1
+    },
+    {
+        "numeroLocale":34,
+        "nomeLocale":"Corridoio PP",
+        "piano":1
+    },
+    {
+        "numeroLocale":35,
+        "nomeLocale":"Biblioteca",
+        "piano":1
+    },
+    {
+        "numeroLocale":36,
+        "nomeLocale":"Vano scale Attico",
+        "piano":1
+    },
+    {
+        "numeroLocale":37,
+        "nomeLocale":"Lab. Info e Sistemi",
+        "piano":-1
+    },
+    {
+        "numeroLocale": 38,
+        "nomeLocale": "Aula 9",
+        "piano":-1,
+        "classe":"3L"
+    },
+    {
+        "numeroLocale": 39,
+        "nomeLocale": "Aula 10",
+        "piano":-1,
+        "classe":"5F"
+    },
+    {
+        "numeroLocale": 40,
+        "nomeLocale": "Aula 11",
+        "piano":-1,
+        "classe":"5L"
+    },
+    {
+        "numeroLocale":41,
+        "nomeLocale":"Corridoio PI Laboratori",
+        "piano":-1
+    },
+    {
+        "numeroLocale":42,
+        "nomeLocale":"Corridoio PI Laboratori",
+        "piano":-1
+    },
+    {
+        "numeroLocale":43,
+        "nomeLocale":"Lab. Elettrotecnica",
+        "piano":-1
+    },
+    {
+        "numeroLocale": 44,
+        "nomeLocale": "Aula 12",
+        "piano":-1,
+        "classe":"3G"
+    },
+    {
+        "numeroLocale":45,
+        "nomeLocale":"Servizi Igienici PS",
+        "piano":-1
+    },
+    {
+        "numeroLocale":46,
+        "nomeLocale":"Servizi Igienici PS",
+        "piano":-1
+    },
+    {
+        "numeroLocale":47,
+        "nomeLocale":"Bar",
+        "piano":-1
+    },
+    {
+        "numeroLocale":48,
+        "nomeLocale":"Corridoio PS Sud",
+        "piano":-1
+    },
+    {
+        "numeroLocale":49,
+        "nomeLocale":"Corridoio PS Nord",
+        "piano":-1
+    },
+    {
+        "numeroLocale":50,
+        "nomeLocale":"Aula Magna",
+        "piano":-1
+    },
+    {
+        "numeroLocale": 51,
+        "nomeLocale": "Aula 13",
+        "piano":-1,
+        "classe":"4F"
+    },
+    {
+        "numeroLocale": 52,
+        "nomeLocale": "Aula 14",
+        "piano":-1,
+        "classe":"5G"
+    },
+    {
+        "numeroLocale":53,
+        "nomeLocale":"Lab. Sistemi Elettro",
+        "piano":-1
+    },
+    {
+        "numeroLocale":54,
+        "nomeLocale":"Ufficio Tecnico",
+        "piano":-1
+    },
+    {
+        "numeroLocale":55,
+        "nomeLocale":"Deposito",
+        "piano":-1
+    },
+    {
+        "numeroLocale":56,
+        "nomeLocale":"Corridoio PS Nord",
+        "piano":-1
+    },
+    {
+        "numeroLocale":57,
+        "nomeLocale":"Ingresso secondario",
+        "piano":-1
+    },
+    {
+        "numeroLocale":58,
+        "nomeLocale":"Deposito Palestra",
+        "piano":-1
+    },
+    {
+        "numeroLocale":59,
+        "nomeLocale":"Corridoio Palestra",
+        "piano":-1
+    },
+    {
+        "numeroLocale":60,
+        "nomeLocale":"Spogliatoio maschile",
+        "piano":-1
+    },
+    {
+        "numeroLocale":61,
+        "nomeLocale":"Spogliatoio femminile",
+        "piano":-1
+    },
+    {
+        "numeroLocale":62,
+        "nomeLocale":"Infermeria / Spogliatoio docenti",
+        "piano":-1
+    },
+    {
+        "numeroLocale":63,
+        "nomeLocale":"Palestra",
+        "piano":-1
+    }
+
+]
