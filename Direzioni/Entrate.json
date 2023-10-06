@@ -286,7 +286,7 @@
         "piano": 0,
         "numeroDestinazione": 19,
         "nomeDestinazione": "aula 7",
-        "classeDestinazione":"4M",
+        "classeDestinazione":"2M",
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Vai avanti fino al incrocio"},
