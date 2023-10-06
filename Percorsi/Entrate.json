@@ -1,11 +1,11 @@
 [
     {
         "numeroLocale": 1,
-        "nomeLocale": "Ingresso",
+        "partenza": "Ingresso",
         "piano": 0,
         "numeroDestinazione":1,
         "nomeDestinazione": "Aula 1",
-        "classeDestinazione":"1F",
+        "destinazione":"1F",
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Entra e vai avanti fino all'incrocio"},
@@ -23,11 +23,11 @@
     },
     {
         "numeroLocale": 1,
-        "nomeLocale": "Ingresso",
+        "partenza": "Ingresso",
         "piano": 0,
         "numeroDestinazione":2,
         "nomeDestinazione": "Aula 2",
-        "classeDestinazione":"1G",
+        "destinazione":"1G",
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Entra e vai avanti fino all'incrocio"},
@@ -46,11 +46,11 @@
     },
     {
         "numeroLocale": 1,
-        "nomeLocale": "Ingresso",
+        "partenza": "Ingresso",
         "piano": 0,
         "numeroDestinazione":3,
         "nomeDestinazione": "Aula 3",
-        "classeDestinazione":"Lab Autocad",
+        "destinazione":"Lab Autocad",
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Entra e vai avanti fino all'incrocio"},
@@ -69,11 +69,11 @@
     },
     {
         "numeroLocale": 1,
-        "nomeLocale": "Ingresso",
+        "partenza": "Ingresso",
         "piano": 0,
         "numeroDestinazione":4,
         "nomeDestinazione": "Aula 4",
-        "classeDestinazione":"Lab TPSEE",
+        "destinazione":"Lab TPSEE",
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Entra e vai avanti fino all'incrocio"},
@@ -92,11 +92,11 @@
     },
     {
         "numeroLocale": 1,
-        "nomeLocale": "Ingresso",
+        "partenza": "Ingresso",
         "piano": 0,
         "numeroDestinazione":5,
         "nomeDestinazione": "Aula 3",
-        "classeDestinazione":"1L",
+        "destinazione":"1L",
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Entra e vai avanti fino all'incrocio"},
@@ -115,11 +115,11 @@
     },
     {
         "numeroLocale": 1,
-        "nomeLocale": "Ingresso",
+        "partenza": "Ingresso",
         "piano": 0,
         "numeroDestinazione":6,
         "nomeDestinazione": "Aula 4",
-        "classeDestinazione":"1M",
+        "destinazione":"1M",
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Entra e vai avanti fino all'incrocio"},
@@ -138,11 +138,11 @@
     },
     {
         "numeroLocale": 1,
-        "nomeLocale": "Ingresso",
+        "partenza": "Ingresso",
         "piano": 0,
         "numeroDestinazione":9,
         "nomeDestinazione": "Aula 5",
-        "classeDestinazione":"3F",
+        "destinazione":"3F",
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Entra e vai avanti fino all'incrocio"},
@@ -159,11 +159,11 @@
     },
     {
         "numeroLocale": 1,
-        "nomeLocale": "Ingresso",
+        "partenza": "Ingresso",
         "piano": 0,
         "numeroDestinazione":10,
         "nomeDestinazione": "Servizi Igienici PT",
-        "classeDestinazione":"Servizi Igienici PT",
+        "destinazione":"Servizi Igienici PT",
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Entra e vai avanti fino all'incrocio"},
@@ -180,11 +180,11 @@
     },
     {
         "numeroLocale": 1,
-        "nomeLocale": "Ingresso",
+        "partenza": "Ingresso",
         "piano": 0,
         "numeroDestinazione":11,
         "nomeDestinazione": "Servizi Igienici PT",
-        "classeDestinazione":"Servizi Igienici PT",
+        "destinazione":"Servizi Igienici PT",
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Entra e vai avanti fino all'incrocio"},
@@ -197,11 +197,11 @@
     },
     {
         "numeroLocale": 1,
-        "nomeLocale": "Ingresso",
+        "partenza": "Ingresso",
         "piano": 0,
         "numeroDestinazione":14,
         "nomeDestinazione": "Lab Info 2",
-        "classeDestinazione":"4L",
+        "destinazione":"4L",
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Entra e vai avanti fino all'incrocio"},
@@ -215,11 +215,11 @@
     },
     {
         "numeroLocale": 1,
-        "nomeLocale": "Ingresso",
+        "partenza": "Ingresso",
         "piano": 0,
         "numeroDestinazione":15,
         "nomeDestinazione": "Aula 6",
-        "classeDestinazione":"2F",
+        "destinazione":"2F",
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Entra e vai avanti fino all'incrocio"},
@@ -231,11 +231,11 @@
     },
     {
         "numeroLocale": 1,
-        "nomeLocale": "Ingresso",
+        "partenza": "Ingresso",
         "piano": 0,
         "numeroDestinazione":16,
         "nomeDestinazione": "Aula Decompressione",
-        "classeDestinazione":"Aula Decompressione",
+        "destinazione":"Aula Decompressione",
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Entra e vai avanti fino all'incrocio"},
@@ -249,11 +249,11 @@
     },
     {
         "numeroLocale": 1,
-        "nomeLocale": "Ingresso",
+        "partenza": "Ingresso",
         "piano": 0,
         "numeroDestinazione":17,
         "nomeDestinazione": "Aula Sostegno Grande",
-        "classeDestinazione":"4G",
+        "destinazione":"4G",
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Entra e vai avanti fino all'incrocio"},
@@ -268,11 +268,11 @@
     },
     {
         "numeroLocale": 1,
-        "nomeLocale": "Ingresso",
+        "partenza": "Ingresso",
         "piano": 0,
         "numeroDestinazione": 18,
         "nomeDestinazione": "Aula Sostegno Piccola",
-        "classeDestinazione":"Aula Sostegno Piccola",
+        "destinazione":"Aula Sostegno Piccola",
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Vai avanti fino al incrocio"},
@@ -282,11 +282,11 @@
     },
     {
         "numeroLocale": 1,
-        "nomeLocale": "Ingresso",
+        "partenza": "Ingresso",
         "piano": 0,
         "numeroDestinazione": 19,
         "nomeDestinazione": "aula 7",
-        "classeDestinazione":"4M",
+        "destinazione":"4M",
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Vai avanti fino al incrocio"},
@@ -298,11 +298,11 @@
     },
     {
         "numeroLocale": 1,
-        "nomeLocale": "Ingresso",
+        "partenza": "Ingresso",
         "piano": 0,
         "numeroDestinazione": 20,
         "nomeDestinazione": "aula 8",
-        "classeDestinazione":"2L",
+        "destinazione":"2L",
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Vai avanti fino al incrocio"},
@@ -314,11 +314,11 @@
     },
     {
         "numeroLocale": 1,
-        "nomeLocale": "Ingresso",
+        "partenza": "Ingresso",
         "piano": 0,
         "numeroDestinazione": 21,
         "nomeDestinazione": "Lab Fisica",
-        "classeDestinazione":"Lab Fisica",
+        "destinazione":"Lab Fisica",
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Vai avanti fino al incrocio"},
@@ -329,11 +329,11 @@
     },
     {
         "numeroLocale": 1,
-        "nomeLocale": "Ingresso",
+        "partenza": "Ingresso",
         "piano": 0,
         "numeroDestinazione": 23,
         "nomeDestinazione": "Segreteria",
-        "classeDestinazione":"Segreteria",
+        "destinazione":"Segreteria",
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Vai avanti fino al incrocio"},
@@ -344,11 +344,11 @@
     },
     {
         "numeroLocale": 1,
-        "nomeLocale": "Ingresso",
+        "partenza": "Ingresso",
         "piano": 0,
         "numeroDestinazione": 24,
         "nomeDestinazione": "Servizi Igienici (Amministrazione)",
-        "classeDestinazione":"Servizi Igienici (Amministrazione)",
+        "destinazione":"Servizi Igienici (Amministrazione)",
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Vai avanti fino al incrocio"},
@@ -359,11 +359,11 @@
     },
     {
         "numeroLocale": 1,
-        "nomeLocale": "Ingresso",
+        "partenza": "Ingresso",
         "piano": 0,
         "numeroDestinazione": 25,
         "nomeDestinazione": "Servizi Igienici (Amministrazione)",
-        "classeDestinazione":"Servizi Igienici (Amministrazione)",
+        "destinazione":"Servizi Igienici (Amministrazione)",
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Vai avanti fino al incrocio"},
@@ -374,11 +374,11 @@
     },
     {
         "numeroLocale": 1,
-        "nomeLocale": "Ingresso",
+        "partenza": "Ingresso",
         "piano": 0,
         "numeroDestinazione": 26,
         "nomeDestinazione": "Aula Docenti PT",
-        "classeDestinazione":"Aula Docenti PT",
+        "destinazione":"Aula Docenti PT",
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Vai avanti fino al incrocio"},
@@ -389,11 +389,11 @@
     },
     {
         "numeroLocale": 1,
-        "nomeLocale": "Ingresso",
+        "partenza": "Ingresso",
         "piano": 0,
         "numeroDestinazione": 27,
         "nomeDestinazione": "Presidenza",
-        "classeDestinazione":"Presidenza",
+        "destinazione":"Presidenza",
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Vai avanti fino al incrocio"},
@@ -403,11 +403,11 @@
     },
     {
         "numeroLocale": 1,
-        "nomeLocale": "Ingresso",
+        "partenza": "Ingresso",
         "piano": 0,
         "numeroDestinazione": 30,
         "nomeDestinazione": "Deposito Bidelleria PT",
-        "classeDestinazione":"Deposito Bidelleria PT",
+        "destinazione":"Deposito Bidelleria PT",
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Vai avanti fino  alla ultima porta che vedi  alla tua sinistra"},
