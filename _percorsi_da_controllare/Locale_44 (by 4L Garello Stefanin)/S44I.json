@@ -1,0 +1,20 @@
+[
+    {
+            "numeroLocale": 0,
+            "nomeLocale": "Ingresso",
+            "piano": 0,
+            "numeroLocaleDestinazione": 44,
+            "nomeLocaleDestinazione": "Aula 12",
+            "classeDestinazione": "3G",
+            "pianoDestinazione": -1,
+            "passaggi": [
+                {"direzione": "Avanti", "descrizione": "Vai avanti, avanza finché non vedi le scale"},
+                {"direzione": "Scendi le scale", "descrizione": "Scendi le scale"},
+                {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+                {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+                {"direzione": "Destra", "descrizione": "Gira a destra"},
+                {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+                {"direzione": "Destra", "descrizione": "Alla tua destra trovi l'aula 3G"}
+            ]
+        }
+ ]

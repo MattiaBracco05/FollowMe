@@ -1,0 +1,1 @@
+Nel JSON le indicazioni sono corrette mentre nell’app mancano alcune indicazioni.

@@ -1,0 +1,14 @@
+[
+    {
+        "numeroLocale": 44,
+        "nomeLocale": "Aula 12",
+        "classe": "3G",
+        "piano": -1,
+        "nomeUscita": "Uscita",
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra ed esci"}
+        ]
+    }
+]

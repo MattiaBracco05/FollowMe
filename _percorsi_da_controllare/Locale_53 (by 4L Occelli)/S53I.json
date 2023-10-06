@@ -1,0 +1,15 @@
+{
+	"numeroLocale": "0",
+	"nomeLocale": "Ingresso",
+	"piano":0,
+	"numeroLocaleDestinazione": "53",
+	"nomeLocaleDestinazione": "Lab sistemi elettro",
+	"pianoDestinazione":-1,
+	"classe": "5G",
+	"passaggi": [
+		{"direzione": "Scendi le scale", "descrizione": "Scendi le scale davanti a te"},
+		{"direzione": "Destra", "descrizione":"Gira a destra appena scese le scale"},
+		{"direzione": "Avanti", "descrizione": "Prosegui fino in fondo del corridoio"},
+		{"direzione": "Sinistra", "descrizione": "Gira a sinistra e entra nella prima aula a sinistra,sei arrivato a destinazione"}         
+	]
+}

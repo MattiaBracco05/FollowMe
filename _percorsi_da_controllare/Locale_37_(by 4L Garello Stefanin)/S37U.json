@@ -1,0 +1,10 @@
+[
+    {
+        "numeroLocale": "37",
+        "nomeLocale": "Lab Info e Sistemi",
+        "nomeUscita": "Uscita",
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio ed esci"}
+        ]
+    }
+]

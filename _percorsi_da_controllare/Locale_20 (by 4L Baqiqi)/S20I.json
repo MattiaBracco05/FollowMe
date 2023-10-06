@@ -1,0 +1,19 @@
+[
+    {
+            "numeroLocale": 0,
+            "nomeLocale": "Ingresso",
+            "piano": 0,
+            "numeroLocaleDestinazione": 51,
+            "nomeLocaleDestinazione": "Aula 13",
+            "classeDestinazione": "4F",
+            "pianoDestinazione": -1,
+            "passaggi": [
+                {"direzione": "Avanti", "descrizione": "Vai avanti, avanza fino alla fine del corridoio"},
+                {"direzione": "Sinistra", "descrizione": "Scendi le scale"}
+{"direzione": "Destra", "descrizione": "Gira a destra"}
+{"direzione": "Avanti", "descrizione": "Vai avanti fino alla prima porta"}
+{"direzione": "Sinistra", "descrizione": "Gira a Sinistra"}
+{"direzione": "Avanti", "descrizione": "Vai avanti, la terza aula sulla sinistra è la 4F"}
+            ]
+        }
+ ]

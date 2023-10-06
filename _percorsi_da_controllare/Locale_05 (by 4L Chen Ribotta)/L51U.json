@@ -1,0 +1,16 @@
+[
+    {
+        "numeroLocale": 51,
+        "nomeLocale": "Aula 13",
+        "classe": "4F",
+        "piano": -1,
+        "nomeUscita": "Uscita",
+        "pianoUscita": -1,
+        "passaggi": [
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Sinistra", "descrizione": "Entra nel locale sulla sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del locale"},
+            {"direzione": "Sinistra", "descrizione": "L'uscita è sulla sinistra"},
+        ]
+    }
+]
