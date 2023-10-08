@@ -1,10 +1,9 @@
 [
     {
         "numeroLocale": 1,
-        "nomeLocale": "Aula 1",
-        "classe": "1F",
+        "partenza": "1F",
         "piano": 0,
-        "nomeDestinazione": "Uscita",
+        "destinazione": "Uscita",
         "numeroDestinazione":2,
         "pianoDestinazione": 0,
         "passaggi": [
@@ -16,10 +15,9 @@
     },
     {
         "numeroLocale": 2,
-        "nomeLocale": "Aula 2",
-        "classe":"1G",
+        "partenza":"1G",
         "piano":0,
-        "nomeDestinazione": "Uscita",
+        "destinazione": "Uscita",
         "numeroDestinazione": 2,
         "pianoDestinazione":0,
         "passaggi": [
@@ -30,10 +28,9 @@
     },
     {
         "numeroLocale":3,
-        "nomeLocale":"Lab Autocad",
-        "classe":"Lab Autocad",
+        "partenza":"Lab Autocad",
         "piano":0,
-        "nomeDestinazione": "Uscita",
+        "destinazione": "Uscita",
         "numeroDestinazione": 2,
         "pianoDestinazione":0,
         "passaggi": [
@@ -44,10 +41,9 @@
     },
     {
         "numeroLocale":4,
-        "nomeLocale":"Lab TPSEE",
-        "classe":"Lab TPSEE",
+        "partenza":"Lab TPSEE",
         "piano":0,
-        "nomeDestinazione": "Uscita",
+        "destinazione": "Uscita",
         "numeroDestinazione": 2,
         "pianoDestinazione":0,
         "passaggi": [
@@ -59,10 +55,9 @@
     },
     {
         "numeroLocale": 5,
-        "nomeLocale": "Aula 3",
         "piano":0,
-        "classe":"1L",
-        "nomeDestinazione": "Uscita",
+        "partenza":"1L",
+        "destinazione": "Uscita",
         "numeroDestinazione": 2,
         "pianoDestinazione":0,
         "passaggi": [
@@ -74,10 +69,9 @@
     },
     {
         "numeroLocale": 6,
-        "nomeLocale": "Aula 4",
         "piano":0,
-        "classe":"1M",
-        "nomeDestinazione": "Uscita",
+        "partenza":"1M",
+        "destinazione": "Uscita",
         "numeroDestinazione": 2,
         "pianoDestinazione":0,
 
@@ -90,10 +84,9 @@
     },
     {
         "numeroLocale": 9,
-        "nomeLocale": "Aula 5",
         "piano":0,
-        "classe":"3F",
-        "nomeDestinazione": "Uscita",
+        "partenza":"3F",
+        "destinazione": "Uscita",
         "numeroDestinazione": 2,
         "pianoDestinazione":0,
         "passaggi": [
@@ -104,10 +97,9 @@
     },
     {
         "numeroLocale": 10,
-        "nomeLocale": "Servizi Igienici PT",
-        "classe": "Servizi Igienici PT",
+        "partenza": "Servizi Igienici PT",
         "piano":0,
-        "nomeDestinazione": "Uscita",
+        "destinazione": "Uscita",
         "numeroDestinazione": 2,
         "pianoDestinazione":0,
         "passaggi": [
@@ -118,10 +110,9 @@
     },
     {
         "numeroLocale": 11,
-        "nomeLocale": "Servizi Igienici PT",
-        "classe": "Servizi Igienici PT",
+        "partenza": "Servizi Igienici PT",
         "piano":0,
-        "nomeDestinazione": "Uscita",
+        "destinazione": "Uscita",
         "numeroDestinazione": 2,
         "pianoDestinazione":0,
         "passaggi": [
@@ -132,10 +123,9 @@
     },
     {
         "numeroLocale": 14,
-        "nomeLocale": "Lab Info 2",
         "piano":0,
-        "classe":"4L",
-        "nomeDestinazione": "Uscita",
+        "partenza":"4L",
+        "destinazione": "Uscita",
         "numeroDestinazione": 1,
         "pianoDestinazione":0,
         "passaggi": [
@@ -148,10 +138,9 @@
     },
     {
         "numeroLocale": 15,
-        "nomeLocale": "Aula 6",
         "piano":0,
-        "classe":"2F",
-        "nomeDestinazione": "Uscita",
+        "partenza":"2F",
+        "destinazione": "Uscita",
         "numeroDestinazione": 1,
         "pianoDestinazione":0,
         "passaggi": [
@@ -162,10 +151,9 @@
     },
     {
         "numeroLocale": 16,
-        "nomeLocale": "Aula Sostegno Grande",
         "piano":0,
-        "classe":"4G",
-        "nomeDestinazione": "Uscita",
+        "partenza":"4G",
+        "destinazione": "Uscita",
         "numeroDestinazione": 1,
         "pianoDestinazione":0,
         "passaggi": [
@@ -179,10 +167,9 @@
     },
     {
         "numeroLocale": 17,
-        "nomeLocale": "Aula Decompressione",
-        "classe": "Aula Decompressione",
+        "partenza": "Aula Decompressione",
         "piano":0,
-        "nomeDestinazione": "Uscita",
+        "destinazione": "Uscita",
         "numeroDestinazione": 1,
         "pianoDestinazione":0,
         "passaggi": [
@@ -195,10 +182,9 @@
     },
     {
         "numeroLocale": 18,
-        "nomeLocale": "Aula Sostegno Piccola",
-        "classe": "Aula Sostegno Piccola",
+        "partenza": "Aula Sostegno Piccola",
         "piano":0,
-        "nomeDestinazione": "Uscita",
+        "destinazione": "Uscita",
         "numeroDestinazione": 1,
         "pianoDestinazione":0,
         "passaggi": [
@@ -210,10 +196,9 @@
     },
     {
         "numeroLocale": 19,
-        "nomeLocale": "Aula 7",
         "piano":0,
-        "classe":"4M",
-        "nomeDestinazione": "Uscita",
+        "partenza":"4M",
+        "destinazione": "Uscita",
         "numeroDestinazione": 1,
         "pianoDestinazione":0,
         "passaggi": [
@@ -222,10 +207,9 @@
     },
     {
         "numeroLocale": 20,
-        "nomeLocale": "Aula 8",
         "piano":0,
-        "classe":"2L",
-        "nomeDestinazione": "Uscita",
+        "partenza":"2L",
+        "destinazione": "Uscita",
         "numeroDestinazione": 1,
         "pianoDestinazione":0,
         "passaggi": [
@@ -234,10 +218,9 @@
     },
     {
         "numeroLocale": 21,
-        "nomeLocale": "Lab Fisica",
-        "classe": "Lab Fisica",
+        "partenza": "Lab Fisica",
         "piano":0,
-        "nomeDestinazione": "Uscita",
+        "destinazione": "Uscita",
         "numeroDestinazione": 1,
         "pianoDestinazione":0,
         "passaggi": [
@@ -248,10 +231,9 @@
     },
     {
         "numeroLocale":23,
-        "nomeLocale":"Segreteria",
-        "classe":"Segreteria",
+        "partenza":"Segreteria",
         "piano":0,
-        "nomeDestinazione": "Uscita",
+        "destinazione": "Uscita",
         "numeroDestinazione": 0,
         "pianoDestinazione":0,
         "passaggi": [
@@ -262,10 +244,9 @@
     },
     {
         "numeroLocale":24,
-        "nomeLocale":"Servizi Igienici (Amministrazione)",
-        "classe":"Servizi Igienici (Amministrazione)",
+        "partenza":"Servizi Igienici (Amministrazione)",
         "piano":0,
-        "nomeDestinazione": "Uscita",
+        "destinazione": "Uscita",
         "numeroDestinazione": 0,
         "pianoDestinazione":0,
         "passaggi": [
@@ -276,10 +257,9 @@
     },
     {
         "numeroLocale":25,
-        "nomeLocale":"Servizi Igienici (Amministrazione)",
-        "classe":"Servizi Igienici (Amministrazione)",
+        "partenza":"Servizi Igienici (Amministrazione)",
         "piano":0,
-        "nomeDestinazione": "Uscita",
+        "destinazione": "Uscita",
         "numeroDestinazione": 0,
         "pianoDestinazione":0,
         "passaggi": [
@@ -290,10 +270,9 @@
     },
     {
         "numeroLocale":26,
-        "nomeLocale":"Aula Docenti PT",
-        "classe":"Aula Docenti PT",
+        "partenza":"Aula Docenti PT",
         "piano":0,
-        "nomeDestinazione": "Uscita",
+        "destinazione": "Uscita",
         "numeroDestinazione": 0,
         "pianoDestinazione":0,
         "passaggi": [
@@ -305,10 +284,9 @@
     },
     {
         "numeroLocale":27,
-        "nomeLocale":"Presidenza",
-        "classe":"Presidenza",
+        "partenza":"Presidenza",
         "piano":0,
-        "nomeDestinazione": "Uscita",
+        "destinazione": "Uscita",
         "numeroDestinazione": 0,
         "pianoDestinazione":0,
         "passaggi": [
@@ -318,10 +296,9 @@
     },
     {
         "numeroLocale":30,
-        "nomeLocale":"Deposito Bidelleria PT",
-        "classe":"Deposito Bidelleria PT",
+        "partenza":"Deposito Bidelleria PT",
         "piano":0,
-        "nomeDestinazione": "Uscita",
+        "destinazione": "Uscita",
         "numeroDestinazione": 1,
         "pianoDestinazione":0,
         "passaggi": [
@@ -331,11 +308,21 @@
         ]
     },
     {
+        "numeroLocale": 37,
+        "partenza": "Lab Info e Sistemi",
+        "piano": 0,
+        "numeroDestinazione": 0,
+        "destinazione": "Uscita",
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio ed esci"}
+        ]
+    },
+    {
         "numeroLocale": 38,
-        "nomeLocale": "Aula 9",
-        "classe":"3L",
+        "partenza":"3L",
         "piano":-1,
-        "nomeDestinazione": "Uscite",
+        "destinazione": "Uscite",
         "numeroDestinazione":5,
         "pianoDestinazione": -1,
         "passaggi": [
@@ -346,10 +333,9 @@
 
     {
         "numeroLocale": 39,
-        "nomeLocale": "5F",
-        "classe": "5F",
+        "partenza": "5F",
         "piano": -1,
-        "nomeDestinazione": "Uscite",
+        "destinazione": "Uscite",
         "numeroDestinazione":5,
         "pianoDestinazione": -1,
         "passaggi": [
@@ -359,10 +345,9 @@
     },
     {
         "numeroLocale": 40,
-        "nomeLocale": "Aula 11",
-        "classe": "5L",
+        "partenza": "5L",
         "piano": -1,
-        "nomeDestinazione": "UscitaEmergenza",
+        "destinazione": "UscitaEmergenza",
         "numeroDestinazione":0,
         "pianoDestinazione": -1,
         "passaggi": [
@@ -371,10 +356,9 @@
     },
     {
         "numeroLocale":43,
-        "nomeLocale":"Lab. Elettrotecnica",
-        "classe":"Lab. Elettrotecnica",
+        "partenza":"Lab. Elettrotecnica",
         "piano":-1,
-        "nomeDestinazione": "Uscita",
+        "destinazione": "Uscita",
         "numeroDestinazione": 0,
         "pianoDestinazione":-1,
         "passaggi": [
@@ -384,23 +368,21 @@
     },
     {
         "numeroLocale": 44,
-        "nomeLocale": "Aula 12",
-        "classe": "3G",
+        "partenza": "3G",
         "piano": -1,
-        "nomeDestinazione": "Uscita",
+        "destinazione": "Uscita",
         "numeroDestinazione":0,
         "pianoDestinazione": -1,
         "passaggi": [
-            {"direzione": "Avanti", "descrizione": "Esci dalla classe e prosegui diritto avanti a te fino in fondo al corridoio"},
+            {"direzione": "Avanti", "descrizione": "Esci dalla partenza e prosegui diritto avanti a te fino in fondo al corridoio"},
             {"direzione": "Sinistra", "descrizione": "L'uscita di sicurezza si trova alla tua sinistra"}
         ]
     },
     {
         "numeroLocale": 45,
-        "nomeLocale": "Servizi Igienici PS",
-        "classe": "",
+        "partenza": "",
         "piano": 0,
-        "nomeDestinazione": "Uscita",
+        "destinazione": "Uscita",
         "numeroDestinazione":41,
         "pianoDestinazione": -1,
         "passaggi": [
@@ -414,10 +396,9 @@
     },
     {
         "numeroLocale":47,
-        "nomeLocale":"Bar",
-        "classe":"Bar",
+        "partenza":"Bar",
         "piano":-1,
-        "nomeDestinazione": "Uscita",
+        "destinazione": "Uscita",
         "numeroDestinazione":41,
         "pianoDestinazione": -1,
         "passaggi": [
@@ -432,10 +413,9 @@
     },
     {
         "numeroLocale": 51,
-        "nomeLocale": "Aula 13",
-        "classe": "4F",
+        "partenza": "4F",
         "piano": -1,
-        "nomeDestinazione": "Uscita",
+        "destinazione": "Uscita",
         "numeroDestinazione":1,
         "pianoDestinazione": -1,
         "passaggi": [
@@ -447,10 +427,9 @@
     },
     {
         "numeroLocale": 52,
-        "nomeLocale": "Aula 14",
-        "classe": "5G",
+        "partenza": "5G",
         "piano": -1,
-        "nomeDestinazione": "Uscita",
+        "destinazione": "Uscita",
         "numeroDestinazione":3,
         "pianoDestinazione": -1,
         "passaggi": [
@@ -462,9 +441,8 @@
     },
     {
         "numeroLocale":60,
-        "nomeLocale":"Spogliatoio maschile",
         "piano":-1,
-        "classe":"non definita",
+        "partenza":"non definita",
         "destinazione": "Uscita",
         "numeroDestinazione": 2,
         "pianoDestinazione":-1,
@@ -477,7 +455,6 @@
     },
     {
         "numeroLocale": 61,
-        "nomeLocale": "Spogliatoio femminile",
         "partenza":"Spogliatoio femminile",
         "piano":-1,
         "destinazione": "Uscita",
@@ -493,10 +470,9 @@
     },
     {
         "numeroLocale": 62,
-        "nomeLocale": "Infermeria / Spogliatoio docenti",
-        "classe": "Infermeria / Spogliatoio docenti",
+        "partenza": "Infermeria / Spogliatoio docenti",
         "piano": -1,
-        "nomeDestinazione": "",
+        "destinazione": "",
         "numeroDestinazione":4,
         "pianoDestinazione": -1,
         "passaggi": [
@@ -510,7 +486,6 @@
     },
     {
         "numeroLocale": 63,
-        "nomeLocale": "Palestra A",
         "partenza":"Palestra A",
         "piano":-1,
         "destinazione": "Uscita",
@@ -523,7 +498,6 @@
     },
     {
         "numeroLocale": 63,
-        "nomeLocale": "Palestra B",
         "partenza":"Palestra B",
         "piano":-1,
         "destinazione": "Uscita",
