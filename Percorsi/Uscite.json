@@ -440,6 +440,19 @@
         ]
     },
     {
+        "numeroLocale": 53,
+        "partenza": "Lab. Sistemi Elettro",
+        "piano": -1,
+        "numeroDestinazione": 0,
+        "destinazione": "Uscita",
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Esci dalla classe e vai a destra"},
+            {"direzione": "Destra", "descrizione": "Gira a detra"},
+            {"direzione": "Avanti", "descrizione": "Prosegui dritto ed esci dall'uscita di emergenza"}
+        ]
+    },
+    {
         "numeroLocale":60,
         "piano":-1,
         "partenza":"non definita",
