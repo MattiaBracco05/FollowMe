@@ -329,6 +329,210 @@
             {"direzione": "Avanti", "descrizione": "Vai avanti fino al'usicta"}
 
         ]
+    },
+    {
+        "numeroLocale": 38,
+        "nomeLocale": "Aula 9",
+        "classe":"3L",
+        "piano":-1,
+        "nomeDestinazione": "Uscite",
+        "numeroDestinazione":5,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanti e esci dalla porta d'avanti a te"}
+        ]
+    },
+
+    {
+        "numeroLocale": 39,
+        "nomeLocale": "5F",
+        "classe": "5F",
+        "piano": -1,
+        "nomeDestinazione": "Uscite",
+        "numeroDestinazione":5,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanti e esci dalla porta d'avanti a te"}
+        ]
+    },
+    {
+        "numeroLocale": 40,
+        "nomeLocale": "Aula 11",
+        "classe": "5L",
+        "piano": -1,
+        "nomeDestinazione": "UscitaEmergenza",
+        "numeroDestinazione":0,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"}
+        ]
+    },
+    {
+        "numeroLocale":43,
+        "nomeLocale":"Lab. Elettrotecnica",
+        "classe":"Lab. Elettrotecnica",
+        "piano":-1,
+        "nomeDestinazione": "Uscita",
+        "numeroDestinazione": 0,
+        "pianoDestinazione":-1,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino all'usicta sulla sinistra"}
+        ]
+    },
+    {
+        "numeroLocale": 44,
+        "nomeLocale": "Aula 12",
+        "classe": "3G",
+        "piano": -1,
+        "nomeDestinazione": "Uscita",
+        "numeroDestinazione":0,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Esci dalla classe e prosegui diritto avanti a te fino in fondo al corridoio"},
+            {"direzione": "Sinistra", "descrizione": "L'uscita di sicurezza si trova alla tua sinistra"}
+        ]
+    },
+    {
+        "numeroLocale": 45,
+        "nomeLocale": "Servizi Igienici PS",
+        "classe": "",
+        "piano": 0,
+        "nomeDestinazione": "Uscita",
+        "numeroDestinazione":41,
+        "pianoDestinazione": -1,
+        "passaggi": [
+                {"direzione": "Destra", "descrizione": "Gira a destra"},
+                {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+                {"direzione": "Sinistra", "descrizione": "Girsa a sinistra"},
+                {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+                {"direzione": "Sinistra", "descrizione": "Alla tua sinitra trovi l'uscita"}
+    
+        ]
+    },
+    {
+        "numeroLocale":47,
+        "nomeLocale":"Bar",
+        "classe":"Bar",
+        "piano":-1,
+        "nomeDestinazione": "Uscita",
+        "numeroDestinazione":41,
+        "pianoDestinazione": -1,
+        "passaggi": [
+                {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+                {"direzione": "Destra", "descrizione": "Gira a destra"},
+                {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+                {"direzione": "Sinistra", "descrizione": "Girsa a sinistra"},
+                {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+                {"direzione": "Sinistra", "descrizione": "Alla tua sinitra trovi l'uscita"}
+    
+        ]
+    },
+    {
+        "numeroLocale": 51,
+        "nomeLocale": "Aula 13",
+        "classe": "4F",
+        "piano": -1,
+        "nomeDestinazione": "Uscita",
+        "numeroDestinazione":1,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra nel corridoio"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino al fondo del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra nel corridoio"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino al fondo del corridoio ed esci"}
+        ]
+    },
+    {
+        "numeroLocale": 52,
+        "nomeLocale": "Aula 14",
+        "classe": "5G",
+        "piano": -1,
+        "nomeDestinazione": "Uscita",
+        "numeroDestinazione":3,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Uscito dall'aula svolta a destra"},
+            {"direzione": "Avanti", "descrizione": "Prosegui diritto fino a raggiungere l'incrocio con le scale"},
+            {"direzione": "Destra", "descrizione": "Svolta a destra e costeggia le scale"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino al raggiungimento dell'uscita d'emergenza che ti apparirà davanti"}
+        ]
+    },
+    {
+        "numeroLocale":60,
+        "nomeLocale":"Spogliatoio maschile",
+        "piano":-1,
+        "classe":"non definita",
+        "destinazione": "Uscita",
+        "numeroDestinazione": 2,
+        "pianoDestinazione":-1,
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Vai alla prima porta a sinistra"},
+            {"direzione": "Sinistra", "descrizione": "Entra nella porta sinistra"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai fino alla uscita di emergenza"}
+        ]
+    },
+    {
+        "numeroLocale": 61,
+        "nomeLocale": "Spogliatoio femminile",
+        "partenza":"Spogliatoio femminile",
+        "piano":-1,
+        "destinazione": "Uscita",
+        "numeroDestinazione": 2,
+        "pianoDestinazione":-1,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai alla prima porta a sinistra"},
+            {"direzione": "Sinistra", "descrizione": "Entra nella porta sinistra"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai fino alla uscita di emergenza"}
+        ]
+    },
+    {
+        "numeroLocale": 62,
+        "nomeLocale": "Infermeria / Spogliatoio docenti",
+        "classe": "Infermeria / Spogliatoio docenti",
+        "piano": -1,
+        "nomeDestinazione": "",
+        "numeroDestinazione":4,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "avanza fino alla porta alla tua sinistra"},
+            {"direzione": "Sinstra", "descrizione": "apri la porta e entra in palestra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra e avanza verso il muro"},
+            {"direzione": "Sinstra", "descrizione": "gira a sinistra e raggiungi la porta alla tua destra ed esci"}
+            
+            
+        ]
+    },
+    {
+        "numeroLocale": 63,
+        "nomeLocale": "Palestra A",
+        "partenza":"Palestra A",
+        "piano":-1,
+        "destinazione": "Uscita",
+        "numeroDestinazione": 2,
+        "pianoDestinazione":-1,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai fino alla uscita di emergenza"}
+        ]
+    },
+    {
+        "numeroLocale": 63,
+        "nomeLocale": "Palestra B",
+        "partenza":"Palestra B",
+        "piano":-1,
+        "destinazione": "Uscita",
+        "numeroDestinazione": 2,
+        "pianoDestinazione":-1,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai fino alla uscita di emergenza"}
+        ]
     }
     
 ]
