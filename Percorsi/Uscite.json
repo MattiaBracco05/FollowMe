@@ -481,9 +481,10 @@
     {
         "numeroLocale": 54,
         "nomeLocale": "Ufficio Tecnico",
+        "partenza": "Ufficio Tecnico",
         "piano": -1,
-        "nomeDestinazione": "Uscita",
         "numeroDestinazione":3,
+        "destinazione": "Uscita",
         "pianoDestinazione": -1,
         "passaggi": [
             {"direzione": "Sinistra", "descrizione": "Svolta a sinistra appena esci dall'aula"},
