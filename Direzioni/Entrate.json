@@ -668,21 +668,6 @@
         "numeroLocale": 1,
         "partenza": "Ingresso",
         "piano": 0,
-        "numeroDestinazione":54,
-        "nomeDestinazione": "Ufficio Tecnico",
-        "pianoDestinazione": -1,
-        "passaggi": [
-            {"direzione": "Avanti", "descrizione": "Entra e vai avanti fino alle scale"},
-            {"direzione": "Avanti", "descrizione": "Prendi le scale e scendi al piano interrato (-1)"},
-            {"direzione": "Sinistra", "descrizione": "Svolta a sinistra appena finite le scale"},
-            {"direzione": "Avanti", "descrizione": "Prosegui diritto"},
-            {"direzione": "Sinistra", "descrizione": "Una volta superati i wc il locale desiderato si troverà alla tua destra"}
-        ]
-    },
-    {
-        "numeroLocale": 1,
-        "partenza": "Ingresso",
-        "piano": 0,
         "numeroDestinazione": 55,
         "nomeDestinazione": "Deposito",
         "destinazione":"Deposito",
