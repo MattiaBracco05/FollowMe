@@ -380,7 +380,7 @@
     },
     {
         "numeroLocale": 45,
-        "partenza": "",
+        "partenza": "Servizi Igienici PS",
         "piano": 0,
         "destinazione": "Uscita",
         "numeroDestinazione":41,
@@ -392,6 +392,21 @@
                 {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
                 {"direzione": "Sinistra", "descrizione": "Alla tua sinitra trovi l'uscita"}
     
+        ]
+    },
+    {
+        "numeroLocale": 46,
+        "partenza": "Servizi Igienici PS",
+        "piano": -1,
+        "nomeDestinazione": "Uscita",
+        "numeroDestinazione":4,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Esci avanza fino alla fine del corridoio "},
+            {"direzione": "sinistra", "descrizione": "Gira a sinistra"},
+    		{"direzione": "Avanti", "descrizione": "Avanza verso l'aula che vedi in fondo "},
+    		{"direzione": "Sinstra", "descrizione": "L'uscita si trova alla tua sinistra "}
+    		
         ]
     },
     {
@@ -409,6 +424,17 @@
                 {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
                 {"direzione": "Sinistra", "descrizione": "Alla tua sinitra trovi l'uscita"}
     
+        ]
+    },
+    {
+        "numeroLocale": 50,
+        "partenza": "Aula Magna",
+        "piano": -1,
+        "destinazione": "Uscita",
+        "numeroDestinazione":1,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "In fondo ci sono 2 uscite du sicurezza prendi la piu vicina"}
         ]
     },
     {
@@ -450,6 +476,20 @@
             {"direzione": "Destra", "descrizione": "Esci dalla classe e vai a destra"},
             {"direzione": "Destra", "descrizione": "Gira a detra"},
             {"direzione": "Avanti", "descrizione": "Prosegui dritto ed esci dall'uscita di emergenza"}
+        ]
+    },
+    {
+        "numeroLocale": 54,
+        "nomeLocale": "Ufficio Tecnico",
+        "piano": -1,
+        "nomeDestinazione": "Uscita",
+        "numeroDestinazione":3,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Sinistra", "descrizione": "Svolta a sinistra appena esci dall'aula"},
+            {"direzione": "Avanti", "descrizione": "Prosegui dritto fino a raggiungere l'incrocio con le scale"},
+            {"direzione": "Destra", "descrizione": "Svolta a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino all'uscita d'emergenza che si trova davanti a te"}
         ]
     },
     {
