@@ -445,7 +445,7 @@
         "piano": -1,
         "numeroDestinazione": 0,
         "destinazione": "Uscita",
-        "pianoDestinazione": 0,
+        "pianoDestinazione": -1,
         "passaggi": [
             {"direzione": "Destra", "descrizione": "Esci dalla classe e vai a destra"},
             {"direzione": "Destra", "descrizione": "Gira a detra"},
