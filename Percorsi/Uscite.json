@@ -322,7 +322,7 @@
         "numeroLocale": 38,
         "partenza":"3L",
         "piano":-1,
-        "destinazione": "Uscite",
+        "destinazione": "Uscita",
         "numeroDestinazione":5,
         "pianoDestinazione": -1,
         "passaggi": [
@@ -335,7 +335,7 @@
         "numeroLocale": 39,
         "partenza": "5F",
         "piano": -1,
-        "destinazione": "Uscite",
+        "destinazione": "Uscita",
         "numeroDestinazione":5,
         "pianoDestinazione": -1,
         "passaggi": [
@@ -347,7 +347,7 @@
         "numeroLocale": 40,
         "partenza": "5L",
         "piano": -1,
-        "destinazione": "UscitaEmergenza",
+        "destinazione": "Uscita",
         "numeroDestinazione":0,
         "pianoDestinazione": -1,
         "passaggi": [
@@ -472,7 +472,7 @@
         "numeroLocale": 62,
         "partenza": "Infermeria / Spogliatoio docenti",
         "piano": -1,
-        "destinazione": "",
+        "destinazione": "Uscita",
         "numeroDestinazione":4,
         "pianoDestinazione": -1,
         "passaggi": [
