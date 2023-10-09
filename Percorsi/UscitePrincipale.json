@@ -1,3 +1,4 @@
+
 // ANCORA DA COMPLETARE
 
 [
@@ -443,16 +444,17 @@
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Scendi le scale"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino in fondo al corridoio"},
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
             {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
             {"direzione": "Destra", "descrizione": "Gira a destra"},
             {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Sali le scale"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Prosegui diritto fino all'ingresso"}
         ]
     },
     {
