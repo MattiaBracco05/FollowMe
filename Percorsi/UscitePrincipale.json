@@ -609,13 +609,15 @@
         "numeroLocale": 53,
         "partenza": "Lab. Sistemi Elettro",
         "piano": -1,
-        "numeroDestinazione": 0,
+        "numeroDestinazione": 29,
         "destinazione": "Ingresso",
-        "pianoDestinazione": -1,
+        "pianoDestinazione": 0,
         "passaggi": [
-            {"direzione": "Destra", "descrizione": "Esci dalla classe e vai a destra"},
-            {"direzione": "Destra", "descrizione": "Gira a detra"},
-            {"direzione": "Avanti", "descrizione": "Prosegui dritto ed esci dall'Ingresso di emergenza"}
+            {"direzione": "Destra", "descrizione": "Esci dalla classe e vai verso le scale"},
+            {"direzione": "Destra", "descrizione": "Sali le scale"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino all'uscita"},
         ]
     },
     {
