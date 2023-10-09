@@ -307,6 +307,69 @@
 
         ]
     },
+    {
+        "numeroLocale":31,
+        "partenza":"Aula Ricevimento 3",
+        "piano":1,
+        "destinazione": "Uscita",
+        "numeroDestinazione": 1,
+        "pianoDestinazione":0,
+        "passaggi": [
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"},
+            {"direzione": "Destra", "descrizione": "Svolta a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra e scendi le scale"},
+            {"direzione": "Avanti", "descrizione": "Prosegui all'ingresso principale"},
+        ]
+    },
+    {
+        "numeroLocale":32,
+        "partenza":"Aula Ricevimento 2",
+        "piano":1,
+        "destinazione": "Uscita",
+        "numeroDestinazione": 1,
+        "pianoDestinazione":0,
+        "passaggi": [
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"},
+            {"direzione": "Destra", "descrizione": "Svolta a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra e scendi le scale"},
+            {"direzione": "Avanti", "descrizione": "Prosegui all'ingresso principale"},
+        ]
+    },
+    {
+        "numeroLocale":33,
+        "partenza":"Aula Ricevimento 1",
+        "piano":1,
+        "destinazione": "Uscita",
+        "numeroDestinazione": 1,
+        "pianoDestinazione":0,
+        "passaggi": [
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"},
+            {"direzione": "Destra", "descrizione": "Svolta a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra e scendi le scale"},
+            {"direzione": "Avanti", "descrizione": "Prosegui all'ingresso principale"},
+        ]
+    },
+    {
+        "numeroLocale":35,
+        "partenza":"Biblioteca",
+        "piano":1,
+        "destinazione": "Uscita",
+        "numeroDestinazione": 1,
+        "pianoDestinazione":0,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Svolta a sinistra"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra e scendi le scale"},
+            {"direzione": "Avanti", "descrizione": "Prosegui all'ingresso principale"},
+        ]
+    },
     {    
         "numeroLocale": 37,
         "partenza": "Lab. Sistemi e Reti",
@@ -505,6 +568,20 @@
             {"direzione": "Sinistra", "descrizione": "Appena uscito dalla stanza gira a sinistra"},
             {"direzione": "Avanti", "descrizione": "Prosegui di due stanze ed entra nell'aula magna"},
             {"direzione": "Avanti", "descrizione": "Vai fino alla fine della stanza e li troverai l'uscita d'emergenza"}
+        ]
+    },
+    {
+        "numeroLocale": 58,
+        "nomeLocale": "Deposito Palestra",
+        "partenza": "Deposito Palestra",
+        "piano": -1,
+        "numeroDestinazione": 0,
+        "destinazione": "Uscita",
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Appena uscito dalla stanza gira a destra e prosegui diritto"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Prosegui diritto fino alla porta di emergenza"},
         ]
     },
     {
