@@ -8,7 +8,7 @@
         "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla porta di emergenza"},
             {"direzione": "Sinistra", "descrizione": "Scendi le scale"}
 
         ]
@@ -22,7 +22,7 @@
         "pianoDestinazione":0,
         "passaggi": [
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla porta di emergenza"},
             {"direzione": "Sinistra", "descrizione": "Scendi le scale"}
         ]
     },
@@ -34,8 +34,8 @@
         "numeroDestinazione": 2,
         "pianoDestinazione":0,
         "passaggi": [
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
-            {"direzione":"Sinistra","descrizione":"Scendi le scale"}
+                {"direzione": "Avanti", "descrizione": "Vai avanti fino alla porta di emergenza"},
+                {"direzione":"Sinistra","descrizione":"Scendi le scale"}
 
         ]
     },
@@ -49,7 +49,7 @@
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino alle scale"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla porta di emergenza"},
             {"direzione":"Scendi","descrizione":"Scendi le scale"}
         ]
     },
@@ -63,7 +63,7 @@
         "passaggi": [
             {"direzione": "Destra", "descrizione": "Gira a destra"},
             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra fino alla porta di emergenza"},
             {"direzione":"Scendi","descrizione":"Scendi le scale"}
         ]
     },
@@ -97,27 +97,27 @@
     },
     {
         "numeroLocale": 10,
-        "partenza": "Servizi Igienici PT",
+        "partenza": "Servizi Igienici PT(0)",
         "piano":0,
         "destinazione": "Uscita",
         "numeroDestinazione": 2,
         "pianoDestinazione":0,
         "passaggi": [
             {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla scale"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla porta di emergenza"},
             {"direzione":"Scendi","descrizione":"Scendi le scale"}
         ]
     },
     {
         "numeroLocale": 11,
-        "partenza": "Servizi Igienici PT",
+        "partenza": "Servizi Igienici PT(0)",
         "piano":0,
         "destinazione": "Uscita",
         "numeroDestinazione": 2,
         "pianoDestinazione":0,
         "passaggi": [
             {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla scale"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla porta di emergenza"},
             {"direzione":"Scendi","descrizione":"Scendi le scale"}
         ]
     },
@@ -131,7 +131,7 @@
         "passaggi": [
             {"direzione": "Destra", "descrizione": "Gira a destra"},
             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira sinistra"},
             {"direzione": "Destra", "descrizione": "Gira a destra"},
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}
         ]
@@ -160,7 +160,7 @@
             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fino all'incrocio"},
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira sinistra"},
             {"direzione": "Destra", "descrizione": "Gira a destra"},
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}
         ]
@@ -197,7 +197,7 @@
     {
         "numeroLocale": 19,
         "piano":0,
-        "partenza":"4M",
+        "partenza":"2M",
         "destinazione": "Uscita",
         "numeroDestinazione": 1,
         "pianoDestinazione":0,
@@ -380,7 +380,7 @@
     },
     {
         "numeroLocale": 45,
-        "partenza": "Servizi Igienici PS",
+        "partenza": "Servizi Igienici PS(-1)",
         "piano": 0,
         "destinazione": "Uscita",
         "numeroDestinazione":41,
@@ -396,7 +396,7 @@
     },
     {
         "numeroLocale": 46,
-        "partenza": "Servizi Igienici PS",
+        "partenza": "Servizi Igienici PS(-1)",
         "piano": -1,
         "nomeDestinazione": "Uscita",
         "numeroDestinazione":4,
@@ -510,7 +510,7 @@
     {
         "numeroLocale":60,
         "piano":-1,
-        "partenza":"non definita",
+        "partenza":"Spogliatoio maschile",
         "destinazione": "Uscita",
         "numeroDestinazione": 2,
         "pianoDestinazione":-1,
@@ -554,19 +554,7 @@
     },
     {
         "numeroLocale": 63,
-        "partenza":"Palestra A",
-        "piano":-1,
-        "destinazione": "Uscita",
-        "numeroDestinazione": 2,
-        "pianoDestinazione":-1,
-        "passaggi": [
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai fino alla uscita di emergenza"}
-        ]
-    },
-    {
-        "numeroLocale": 63,
-        "partenza":"Palestra B",
+        "partenza":"Palestra",
         "piano":-1,
         "destinazione": "Uscita",
         "numeroDestinazione": 2,
@@ -576,5 +564,4 @@
             {"direzione": "Avanti", "descrizione": "Vai fino alla uscita di emergenza"}
         ]
     }
-    
 ]
