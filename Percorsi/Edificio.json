@@ -55,15 +55,15 @@
     },
     {
         "numeroLocale": 10,
-        "nomeLocale": "Servizi Igienici PT",
+        "nomeLocale": "Servizi Igienici PT(0)",
         "piano":0,
-        "classe": "Servizi Igienici PT"
+        "classe": "Servizi Igienici PT(0)"
     },
     {
         "numeroLocale": 11,
-        "nomeLocale": "Servizi Igienici PT",
+        "nomeLocale": "Servizi Igienici PT(0)",
         "piano":0,
-        "classe": "Servizi Igienici PT"
+        "classe": "Servizi Igienici PT(0)"
     },
     {
         "numeroLocale": 12,
@@ -111,7 +111,7 @@
         "numeroLocale": 19,
         "nomeLocale": "Aula 7",
         "piano":0,
-        "classe":"4M"
+        "classe":"2M"
     },
     {
         "numeroLocale": 20,
@@ -265,15 +265,15 @@
     },
     {
         "numeroLocale":45,
-        "nomeLocale":"Servizi Igienici PS",
+        "nomeLocale":"Servizi Igienici PS(-1)",
         "piano":-1,
-        "classe":"non definita"
+        "classe":"Servizi Igienici PS(-1)"
     },
     {
         "numeroLocale":46,
-        "nomeLocale":"Servizi Igienici PS",
+        "nomeLocale":"Servizi Igienici PS(-1)",
         "piano":-1,
-        "classe":"non definita"
+        "classe":"Servizi Igienici PS(-1)"
     },
     {
         "numeroLocale":47,
@@ -357,13 +357,13 @@
         "numeroLocale":60,
         "nomeLocale":"Spogliatoio maschile",
         "piano":-1,
-        "classe":"non definita"
+        "classe":"Spogliatoio maschile"
     },
     {
         "numeroLocale":61,
         "nomeLocale":"Spogliatoio femminile",
         "piano":-1,
-        "classe":"non definita"
+        "classe":"Spogliatoio femminile"
     },
     {
         "numeroLocale":62,
