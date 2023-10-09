@@ -417,6 +417,65 @@
         "numeroLocale": 1,
         "partenza": "Ingresso",
         "piano": 0,
+        "numeroDestinazione": 31,
+        "nomeDestinazione": "Aula Ricevimento 3",
+        "destinazione":"Aula Ricevimento 3",
+        "pianoDestinazione": 1,
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Vai avanti e prende le scale"},
+            {"direzione": "Destra", "descrizione": "Svolta a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti e entri nella seconda porta a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti e entri nella terza porta a destra"},
+        ]
+    },
+    {
+        "numeroLocale": 1,
+        "partenza": "Ingresso",
+        "piano": 0,
+        "numeroDestinazione": 32,
+        "nomeDestinazione": "Aula Ricevimento 2",
+        "destinazione":"Aula Ricevimento 3",
+        "pianoDestinazione": 1,
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Vai avanti e prende le scale"},
+            {"direzione": "Destra", "descrizione": "Svolta a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti e entri nella seconda porta a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti e entri nella seconda porta a destra"},
+        ]
+    },
+    {
+        "numeroLocale": 1,
+        "partenza": "Ingresso",
+        "piano": 0,
+        "numeroDestinazione": 33,
+        "nomeDestinazione": "Aula Ricevimento 1",
+        "destinazione":"Aula Ricevimento 1",
+        "pianoDestinazione": 1,
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Vai avanti e prende le scale"},
+            {"direzione": "Destra", "descrizione": "Svolta a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti e entri nella seconda porta a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti e entri nella prima porta a destra"},
+        ]
+    },
+    {
+        "numeroLocale": 1,
+        "partenza": "Ingresso",
+        "piano": 0,
+        "numeroDestinazione": 35,
+        "nomeDestinazione": "Biblioteca",
+        "destinazione":"Aula Ricevimento 3",
+        "pianoDestinazione": 1,
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Vai avanti e prende le scale"},
+            {"direzione": "Destra", "descrizione": "Svolta a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti e entri nella prima porta a sinistra"},
+        ]
+    },
+    {
+        "numeroLocale": 1,
+        "partenza": "Ingresso",
+        "piano": 0,
         "numeroDestinazione": 39,
         "nomeDestinazione": "Aula 10",
         "destinazione":"5F",
@@ -779,5 +838,22 @@
             {"direzione": "Avanti", "descrizione": "Prosegui dritto"},
             {"direzione": "Destra", "descrizione": "Prima della fine del corridio entra nel locale a destra"}
         ]
-    }
+    },
+    {
+        "numeroLocale": 1,
+        "partenza": "Ingresso",
+        "piano": 0,
+        "numeroDestinazione": 58,
+        "nomeDestinazione": "Deposito Palestra",
+        "destinazione":"Deposito Palestra",
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Prosegui diritto fino alle vetrate"},
+            {"direzione": "Sinistra", "descrizione": "Svolta a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Scendi le scale"},
+            {"direzione": "Sinistra", "descrizione": "Svolta a sinistra"},
+            {"direzione": "Destra", "descrizione": "Svolta a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti e la destinazione e' la prima porta a sinistra"},
+        ]
+    },
 ]
