@@ -425,7 +425,7 @@
             {"direzione": "Avanti", "descrizione": "Vai avanti e prende le scale"},
             {"direzione": "Destra", "descrizione": "Svolta a destra"},
             {"direzione": "Avanti", "descrizione": "Vai avanti e entri nella seconda porta a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti e entri nella terza porta a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti e entri nella terza porta a destra"}
         ]
     },
     {
@@ -440,7 +440,7 @@
             {"direzione": "Avanti", "descrizione": "Vai avanti e prende le scale"},
             {"direzione": "Destra", "descrizione": "Svolta a destra"},
             {"direzione": "Avanti", "descrizione": "Vai avanti e entri nella seconda porta a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti e entri nella seconda porta a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti e entri nella seconda porta a destra"}
         ]
     },
     {
@@ -455,7 +455,7 @@
             {"direzione": "Avanti", "descrizione": "Vai avanti e prende le scale"},
             {"direzione": "Destra", "descrizione": "Svolta a destra"},
             {"direzione": "Avanti", "descrizione": "Vai avanti e entri nella seconda porta a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti e entri nella prima porta a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti e entri nella prima porta a destra"}
         ]
     },
     {
@@ -469,7 +469,7 @@
         "passaggi": [
             {"direzione": "Avanti", "descrizione": "Vai avanti e prende le scale"},
             {"direzione": "Destra", "descrizione": "Svolta a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti e entri nella prima porta a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti e entri nella prima porta a sinistra"}
         ]
     },
     {
@@ -853,7 +853,7 @@
             {"direzione": "Avanti", "descrizione": "Scendi le scale"},
             {"direzione": "Sinistra", "descrizione": "Svolta a sinistra"},
             {"direzione": "Destra", "descrizione": "Svolta a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti e la destinazione e' la prima porta a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti e la destinazione e' la prima porta a sinistra"}
         ]
-    },
+    }
 ]
