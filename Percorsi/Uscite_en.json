@@ -1,0 +1,94 @@
+[
+    {
+        "numeroLocale": 1,
+        "partenza": "1F",
+        "piano": 0,
+        "destinazione": "Exit",
+        "numeroDestinazione": 2,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Go forward to the emergency exit"},
+            {"direzione": "Left", "descrizione": "Go down the stairs"}
+        ]
+    },
+    {
+        "numeroLocale": 2,
+        "partenza": "1G",
+        "piano": 0,
+        "destinazione": "Exit",
+        "numeroDestinazione": 2,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Go forward to the emergency exit"},
+            {"direzione": "Left", "descrizione": "Go down the stairs"}
+        ]
+    },
+    {
+        "numeroLocale": 3,
+        "partenza": "Lab Info",
+        "piano": 0,
+        "destinazione": "Exit",
+        "numeroDestinazione": 2,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Forward", "descrizione": "Go forward to the emergency exit"},
+            {"direzione": "Left", "descrizione": "Go down the stairs"}
+        ]
+    },
+    {
+        "numeroLocale": 4,
+        "partenza": "Lab TPSEE",
+        "piano": 0,
+        "destinazione": "Exit",
+        "numeroDestinazione": 2,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Forward", "descrizione": "Go forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Go forward to the emergency exit"},
+            {"direzione": "Down", "descrizione": "Go down the stairs"}
+        ]
+    },
+    {
+        "numeroLocale": 5,
+        "partenza": "1L",
+        "piano": 0,
+        "destinazione": "Exit",
+        "numeroDestinazione": 2,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left to the emergency exit"},
+            {"direzione": "Down", "descrizione": "Go down the stairs"}
+        ]
+    },
+    {
+        "numeroLocale": 6,
+        "partenza": "1M",
+        "piano": 0,
+        "destinazione": "Exit",
+        "numeroDestinazione": 2,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Down", "descrizione": "Go down the stairs"}
+        ]
+    },
+    {
+        "numeroLocale": 9,
+        "partenza": "3F",
+        "piano": 0,
+        "destinazione": "Exit",
+        "numeroDestinazione": 2,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go forward to the emergency exit"},
+            {"direzione": "Down", "descrizione": "Go down the stairs"}
+        ]
+    },
