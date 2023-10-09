@@ -398,7 +398,7 @@
         "numeroLocale": 46,
         "partenza": "Servizi Igienici PS(-1)",
         "piano": -1,
-        "nomeDestinazione": "Uscita",
+        "destinazione": "Uscita",
         "numeroDestinazione":4,
         "pianoDestinazione": -1,
         "passaggi": [
