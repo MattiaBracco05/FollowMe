@@ -381,9 +381,9 @@
     {
         "numeroLocale": 45,
         "partenza": "Servizi Igienici PS(-1)",
-        "piano": 0,
+        "piano": -1,
         "destinazione": "Uscita",
-        "numeroDestinazione":41,
+        "numeroDestinazione":4,
         "pianoDestinazione": -1,
         "passaggi": [
                 {"direzione": "Destra", "descrizione": "Gira a destra"},
