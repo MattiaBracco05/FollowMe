@@ -186,14 +186,17 @@
         "piano":0,
         "partenza":"4L",
         "destinazione": "Ingresso",
-        "numeroDestinazione": 1,
+        "numeroDestinazione": 29,
         "pianoDestinazione":0,
         "passaggi": [
             {"direzione": "Destra", "descrizione": "Gira a destra"},
             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
             {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}
         ]
     },
     {
@@ -386,11 +389,23 @@
         "partenza":"3L",
         "piano":-1,
         "destinazione": "Ingresso",
-        "numeroDestinazione":5,
-        "pianoDestinazione": -1,
+        "numeroDestinazione":29,
+        "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanti e esci dalla porta d'avanti a te"}
+            {"direzione": "Avanti", "descrizione": "Avanza fino alle vetrate"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Avanti", "descrizione": "Scendi le scale"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino all'uscita"}
         ]
     },
 
@@ -455,11 +470,19 @@
         "partenza": "3G",
         "piano": -1,
         "destinazione": "Ingresso",
-        "numeroDestinazione":0,
-        "pianoDestinazione": -1,
+        "numeroDestinazione":29,
+        "pianoDestinazione": 0,
         "passaggi": [
-            {"direzione": "Avanti", "descrizione": "Esci dalla partenza e prosegui diritto avanti a te fino in fondo al corridoio"},
-            {"direzione": "Sinistra", "descrizione": "L'Ingresso di sicurezza si trova alla tua sinistra"}
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Avanti", "descrizione": "Sali le scale"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino all'uscita"}
         ]
     },
     {
@@ -526,27 +549,33 @@
         "partenza": "4F",
         "piano": -1,
         "destinazione": "Ingresso",
-        "numeroDestinazione":1,
-        "pianoDestinazione": -1,
+        "numeroDestinazione":29,
+        "pianoDestinazione": 0,
         "passaggi": [
-            {"direzione": "Destra", "descrizione": "Gira a destra nel corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
             {"direzione": "Avanti", "descrizione": "Vai avanti fino al fondo del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra nel corridoio"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino al fondo del corridoio ed esci"}
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Sali le scale"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino all'uscita"}
         ]
     },
     {
-        "numeroLocale": 50,
+        "numeroLocale": 52,
         "partenza": "5G",
         "piano": -1,
         "destinazione": "Ingresso",
-        "numeroDestinazione":3,
-        "pianoDestinazione": -1,
+        "numeroDestinazione":29,
+        "pianoDestinazione": 0,
         "passaggi": [
-            {"direzione": "Destra", "descrizione": "Uscito dall'aula svolta a destra"},
-            {"direzione": "Avanti", "descrizione": "Prosegui diritto fino a raggiungere l'incrocio con le scale"},
-            {"direzione": "Destra", "descrizione": "Svolta a destra e costeggia le scale"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino al raggiungimento dell'Ingresso d'emergenza che ti apparirà davanti"}
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino al fondo del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Sali le scale"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino all'uscita"}
         ]
     },
     {
