@@ -37,6 +37,20 @@
         ]
     },
     {
+        "numeroLocale": 15,
+        "partenza": "2F",
+        "piano": 0,
+        "destinazione": "Ingresso",
+        "numeroDestinazione":29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}
+        ]
+    },
+    {
         "numeroLocale": 2,
         "partenza":"1G",
         "piano":0,
