@@ -428,6 +428,54 @@
             {"direzione": "Avanti", "descrizione": "Prosegui all'ingresso principale"}
         ]
     },
+    {
+        "numeroLocale":31,
+        "partenza":"Aula Ricevimento 3",
+        "piano":1,
+        "destinazione": "Ingresso",
+        "numeroDestinazione": 29,
+        "pianoDestinazione":0,
+        "passaggi": [
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"},
+            {"direzione": "Destra", "descrizione": "Svolta a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra e scendi le scale"},
+            {"direzione": "Avanti", "descrizione": "Prosegui all'ingresso principale"}
+        ]
+    },
+    {
+        "numeroLocale":32,
+        "partenza":"Aula Ricevimento 2",
+        "piano":1,
+        "destinazione": "Ingresso",
+        "numeroDestinazione": 29,
+        "pianoDestinazione":0,
+        "passaggi": [
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"},
+            {"direzione": "Destra", "descrizione": "Svolta a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra e scendi le scale"},
+            {"direzione": "Avanti", "descrizione": "Prosegui all'ingresso principale"}
+        ]
+    },
+    {
+        "numeroLocale":33,
+        "partenza":"Aula Ricevimento 1",
+        "piano":1,
+        "destinazione": "Ingresso",
+        "numeroDestinazione": 29,
+        "pianoDestinazione":0,
+        "passaggi": [
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"},
+            {"direzione": "Destra", "descrizione": "Svolta a destra"},
+            {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra e scendi le scale"},
+            {"direzione": "Avanti", "descrizione": "Prosegui all'ingresso principale"}
+        ]
+    },
     {    
         "numeroLocale": 37,
         "partenza": "Test",
