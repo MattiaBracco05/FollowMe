@@ -581,7 +581,7 @@
         "passaggi": [
             {"direzione": "Destra", "descrizione": "Appena uscito dalla stanza gira a destra e prosegui diritto"},
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Prosegui diritto fino alla porta di emergenza"},
+            {"direzione": "Avanti", "descrizione": "Prosegui diritto fino alla porta di emergenza"}
         ]
     },
     {
