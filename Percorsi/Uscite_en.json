@@ -92,3 +92,141 @@
             {"direzione": "Down", "descrizione": "Go down the stairs"}
         ]
     },
+
+
+
+
+    {
+        "numeroLocale": 15,
+        "piano": 0,
+        "partenza": "2F",
+        "destinazione": "Exit",
+        "numeroDestinazione": 1,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Forward", "descrizione": "Go straight to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Left", "descrizione": "Turn left"}
+        ]
+    },
+    {
+        "numeroLocale": 16,
+        "piano": 0,
+        "partenza": "4G",
+        "destinazione": "Exit",
+        "numeroDestinazione": 1,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Forward", "descrizione": "Go straight to the intersection"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Go straight to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Left", "descrizione": "Turn left"}
+        ]
+    },
+    {
+        "numeroLocale": 17,
+        "partenza": "Decompression Room",
+        "piano": 0,
+        "destinazione": "Exit",
+        "numeroDestinazione": 1,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Go straight to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Left", "descrizione": "Turn left"}
+        ]
+    },
+    {
+        "numeroLocale": 18,
+        "partenza": "Small Support Room",
+        "piano": 0,
+        "destinazione": "Exit",
+        "numeroDestinazione": 1,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Go straight to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Left", "descrizione": "Turn left"}
+        ]
+    },
+    {
+        "numeroLocale": 19,
+        "piano": 0,
+        "partenza": "2M",
+        "destinazione": "Exit",
+        "numeroDestinazione": 1,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Forward", "descrizione": "Go straight to the exit"}
+        ]
+    },
+    {
+        "numeroLocale": 20,
+        "piano": 0,
+        "partenza": "2L",
+        "destinazione": "Exit",
+        "numeroDestinazione": 1,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Forward", "descrizione": "Go straight to the exit"}
+        ]
+    },
+    {
+        "numeroLocale": 21,
+        "partenza": "Physics Lab",
+        "piano": 0,
+        "destinazione": "Exit",
+        "numeroDestinazione": 1,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Go straight to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"}
+        ]
+    },
+    {
+        "numeroLocale": 23,
+        "partenza": "Reception",
+        "piano": 0,
+        "destinazione": "Exit",
+        "numeroDestinazione": 0,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go straight to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right and exit"}
+        ]
+    },
+    {
+        "numeroLocale": 24,
+        "partenza": "Restrooms (Administration)",
+        "piano": 0,
+        "destinazione": "Exit",
+        "numeroDestinazione": 0,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go straight to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right and exit"}
+        ]
+    },
+    {
+        "numeroLocale": 25,
+        "partenza": "Restrooms (Administration)",
+        "piano": 0,
+        "destinazione": "Exit",
+        "numeroDestinazione": 0,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go straight to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right and exit"}
+        ]
+    }
+]
+
