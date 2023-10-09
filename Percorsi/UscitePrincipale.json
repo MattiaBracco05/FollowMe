@@ -422,10 +422,20 @@
         "partenza": "5L",
         "piano": -1,
         "destinazione": "Ingresso",
-        "numeroDestinazione":0,
-        "pianoDestinazione": -1,
+        "numeroDestinazione":29,
+        "pianoDestinazione": 0,
         "passaggi": [
-            {"direzione": "Destra", "descrizione": "Gira a destra"}
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Scendi le scale"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}
         ]
     },
     {
