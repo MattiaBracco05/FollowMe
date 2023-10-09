@@ -28,7 +28,7 @@
     },
     {
         "numeroLocale":3,
-        "partenza":"Lab Autocad",
+        "partenza":"Lab Info",
         "piano":0,
         "destinazione": "Uscita",
         "numeroDestinazione": 2,
@@ -91,7 +91,7 @@
         "pianoDestinazione":0,
         "passaggi": [
             {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla scale"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla porta di emergenza"},
             {"direzione":"Scendi","descrizione":"Scendi le scale"}
         ]
     },
