@@ -483,7 +483,7 @@
         "destinazione":"4F",
         "pianoDestinazione": -1,
         "passaggi": [
-            {"direzione": "Avanti", "descrizione": "Vai avanti fin al fondo del corridoio, dalle vertate"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fin al fondo del corridoio, dalle vetrate"},
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra e vai in fondo al corridoio"},
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra e scendi le scale"},
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra ed esci dalla porta"},
