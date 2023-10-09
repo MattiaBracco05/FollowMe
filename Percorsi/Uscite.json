@@ -320,7 +320,7 @@
             {"direzione": "Destra", "descrizione": "Svolta a destra"},
             {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"},
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra e scendi le scale"},
-            {"direzione": "Avanti", "descrizione": "Prosegui all'ingresso principale"},
+            {"direzione": "Avanti", "descrizione": "Prosegui all'ingresso principale"}
         ]
     },
     {
@@ -336,7 +336,7 @@
             {"direzione": "Destra", "descrizione": "Svolta a destra"},
             {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"},
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra e scendi le scale"},
-            {"direzione": "Avanti", "descrizione": "Prosegui all'ingresso principale"},
+            {"direzione": "Avanti", "descrizione": "Prosegui all'ingresso principale"}
         ]
     },
     {
@@ -352,7 +352,7 @@
             {"direzione": "Destra", "descrizione": "Svolta a destra"},
             {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"},
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra e scendi le scale"},
-            {"direzione": "Avanti", "descrizione": "Prosegui all'ingresso principale"},
+            {"direzione": "Avanti", "descrizione": "Prosegui all'ingresso principale"}
         ]
     },
     {
@@ -367,7 +367,7 @@
             {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"},
             {"direzione": "Sinistra", "descrizione": "Svolta a sinistra"},
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra e scendi le scale"},
-            {"direzione": "Avanti", "descrizione": "Prosegui all'ingresso principale"},
+            {"direzione": "Avanti", "descrizione": "Prosegui all'ingresso principale"}
         ]
     },
     {    
