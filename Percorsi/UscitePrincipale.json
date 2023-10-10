@@ -240,19 +240,6 @@
         ]
     },
     {
-        "numeroLocale": 15,
-        "piano":0,
-        "partenza":"0F",
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 1,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}
-        ]
-    },
-    {
         "numeroLocale": 16,
         "piano":0,
         "partenza":"4G",
@@ -309,17 +296,6 @@
             {"direzione": "Destra", "descrizione": "Gira a destra"},
             {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}
-        ]
-    },
-    {
-        "numeroLocale": 0,
-        "piano":0,
-        "partenza":"0L",
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 1,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino all'Ingresso"}
         ]
     },
     {
