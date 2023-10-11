@@ -191,6 +191,28 @@
         ]
     },
     {
+        "numeroLocale": 61,
+        "partenza":"Spogliatoio femminile",
+        "piano":-1,
+        "destinazione": "Ingresso",
+        "numeroDestinazione": 0,
+        "pianoDestinazione":-1,
+        "passaggi": [
+            
+        ]
+    },
+    {
+        "numeroLocale": 60,
+        "partenza": "Infermeria / Spogliatoio docenti",
+        "piano": -1,
+        "destinazione": "Ingresso",
+        "numeroDestinazione":4,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            
+        ]
+    },
+    {
         "numeroLocale":43,
         "partenza":"Lab. Elettrotecnica",
         "piano":-1,
