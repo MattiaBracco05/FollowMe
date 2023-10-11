@@ -90,6 +90,28 @@
         ]
     },
     {
+        "numeroLocale": 40,
+        "partenza": "5L",
+        "piano": -1,
+        "destinazione": "Ingresso",
+        "numeroDestinazione":29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino in fondo al corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Sali le scale"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Prosegui diritto fino all'ingresso"}
+        ]
+    },
+    {
         "numeroLocale": 52,
         "partenza": "5G",
         "piano": -1,
