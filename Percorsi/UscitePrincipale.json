@@ -582,7 +582,7 @@
          "partenza":"Segreteria", 
          "piano":0, 
          "destinazione": "Ingresso", 
-         "numeroDestinazione": 0, 
+         "numeroDestinazione": 29, 
          "pianoDestinazione":0, 
          "passaggi": [ 
              {"direzione": "Destra", "descrizione": "Gira a destra"}, 
