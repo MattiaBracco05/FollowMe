@@ -429,7 +429,7 @@
         "partenza": "Servizi Igienici PT", 
         "piano":0, 
         "destinazione": "Ingresso", 
-        "numeroDestinazione": 0, 
+        "numeroDestinazione": 29, 
         "pianoDestinazione":0, 
         "passaggi": [
             {"direzione": "Sinistra", "descrizione": "Gira a Sinistra"}, 
@@ -448,7 +448,7 @@
         "partenza": "Servizi Igienici PT", 
         "piano":0, 
         "destinazione": "Ingresso", 
-        "numeroDestinazione": 0, 
+        "numeroDestinazione": 29, 
         "pianoDestinazione":0, 
         "passaggi": [ 
             {"direzione": "Sinistra", "descrizione": "Gira a Sinistra"}, 
