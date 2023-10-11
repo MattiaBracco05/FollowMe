@@ -44,8 +44,8 @@
         "partenza":"Bar",
         "piano":-1,
         "destinazione": "Ingresso",
-        "numeroDestinazione":41,
-        "pianoDestinazione": -1,
+        "numeroDestinazione":29,
+        "pianoDestinazione": 0,
         "passaggi": [
                 {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
                 {"direzione": "Destra", "descrizione": "Gira a destra"},
@@ -61,8 +61,8 @@
         "partenza": "Aula Magna",
         "piano": -1,
         "destinazione": "Ingresso",
-        "numeroDestinazione":1,
-        "pianoDestinazione": -1,
+        "numeroDestinazione":29,
+        "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Destra", "descrizione": "Gira a destra"},
             {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
@@ -195,19 +195,19 @@
         "partenza":"Spogliatoio femminile",
         "piano":-1,
         "destinazione": "Ingresso",
-        "numeroDestinazione": 0,
-        "pianoDestinazione":-1,
+        "numeroDestinazione": 29,
+        "pianoDestinazione":0,
         "passaggi": [
             
         ]
     },
     {
         "numeroLocale": 60,
-        "partenza": "Infermeria / Spogliatoio docenti",
+        "partenza": "Spogliatoio maschile",
         "piano": -1,
         "destinazione": "Ingresso",
-        "numeroDestinazione":4,
-        "pianoDestinazione": -1,
+        "numeroDestinazione":29,
+        "pianoDestinazione": 0,
         "passaggi": [
             
         ]
@@ -217,8 +217,8 @@
         "partenza":"Lab. Elettrotecnica",
         "piano":-1,
         "destinazione": "Ingresso",
-        "numeroDestinazione": 0,
-        "pianoDestinazione":-1,
+        "numeroDestinazione": 29,
+        "pianoDestinazione":0,
         "passaggi": [
             
         ]
@@ -228,9 +228,9 @@
         "nomeLocale": "Ufficio Tecnico",
         "partenza": "Ufficio Tecnico",
         "piano": -1,
-        "numeroDestinazione":3,
+        "numeroDestinazione":29,
         "destinazione": "Ingresso",
-        "pianoDestinazione": -1,
+        "pianoDestinazione": 0,
         "passaggi": [
             {"direzione": "Sinistra", "descrizione": "Svolta a sinistra appena esci dall'aula"},
             {"direzione": "Avanti", "descrizione": "Prosegui dritto fino a raggiungere l'incrocio con le scale"},
@@ -617,11 +617,11 @@
          ] 
      }, 
      { 
-         "numeroLocale":6, 
+         "numeroLocale":26, 
          "partenza":"Aula Docenti PT", 
          "piano":0, 
          "destinazione": "Ingresso", 
-         "numeroDestinazione": 0, 
+         "numeroDestinazione": 29, 
          "pianoDestinazione":0, 
          "passaggi": [ 
              {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"}, 
@@ -631,11 +631,11 @@
          ] 
      }, 
      { 
-         "numeroLocale":7, 
+         "numeroLocale":27, 
          "partenza":"Presidenza", 
          "piano":0, 
          "destinazione": "Ingresso", 
-         "numeroDestinazione": 0, 
+         "numeroDestinazione": 29, 
          "pianoDestinazione":0, 
          "passaggi": [ 
              {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"}, 
@@ -647,7 +647,7 @@
          "partenza":"Deposito Bidelleria PT", 
          "piano":0, 
          "destinazione": "Ingresso", 
-         "numeroDestinazione": 1, 
+         "numeroDestinazione": 29, 
          "pianoDestinazione":0, 
          "passaggi": [ 
              {"direzione": "Destra", "descrizione": "Gira a destra"}, 
