@@ -1,584 +1,22 @@
-
-// ANCORA DA CONTROLLARE
-
 [
-    {
-        "numeroLocale": 1,
-        "partenza": "1F",
-        "piano": 0,
-        "destinazione": "Ingresso",
-        "numeroDestinazione":29,
-        "pianoDestinazione": 0,
-        "passaggi": [
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino all'incrocio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Trovi l'uscita alla tua sinistra"}
-        ]
-    },
-    {
-        "numeroLocale": 20,
-        "partenza": "2L",
-        "piano": 0,
-        "destinazione": "Ingresso",
-        "numeroDestinazione":29,
-        "pianoDestinazione": 0,
-        "passaggi": [
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}
-        ]
-    },
-    {
-        "numeroLocale": 15,
-        "partenza": "2F",
-        "piano": 0,
-        "destinazione": "Ingresso",
-        "numeroDestinazione":29,
-        "pianoDestinazione": 0,
-        "passaggi": [
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}
-        ]
-    },
-    {
-        "numeroLocale": 2,
-        "partenza":"1G",
-        "piano":0,
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 29,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino all'incrocio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Trovi l'uscita alla tua sinistra"}
-        ]
-    },
-    {
-        "numeroLocale":3,
-        "partenza":"Lab Info",
-        "piano":0,
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 29,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino all'incrocio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}
-        ]
-    },
-    {
-        "numeroLocale": 37,
-        "partenza": "Lab Sistemi e Reti",
-        "piano": -1,
-        "destinazione": "Ingresso",
-        "numeroDestinazione":29,
-        "pianoDestinazione": 0,
-        "passaggi": [
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alle scale in fondo al corridoio"},
-            {"direzione": "Destra", "descrizione": "Sali le scale"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino all'uscita"}
-        ]
-    },
-    {
-        "numeroLocale":4,
-        "partenza":"Lab TPSEE",
-        "piano":0,
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 29,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino all'incrocio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}
-        ]
-    },
-    {
-        "numeroLocale":5,
-        "piano":0,
-        "partenza":"1L",
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 29,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino all'incrocio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Trovi l'uscita alla tua sinistra"}
-        ]
-    },
-    {
-        "numeroLocale": 6,
-        "piano":0,
-        "partenza":"1M",
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 29,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino all'incrocio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Trovi l'uscita alla tua sinistra"}
-        ]
-    },
-    {
-        "numeroLocale": 9,
-        "piano":0,
-        "partenza":"3F",
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 29,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino all'incrocio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}
-        ]
-    },
-    {
-        "numeroLocale": 10,
-        "partenza": "Servizi Igienici PT",
-        "piano":0,
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 0,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla scale"},
-            {"direzione":"Scendi","descrizione":"Scendi le scale"}
-        ]
-    },
-    {
-        "numeroLocale": 11,
-        "partenza": "Servizi Igienici PT",
-        "piano":0,
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 0,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla scale"},
-            {"direzione":"Scendi","descrizione":"Scendi le scale"}
-        ]
-    },
-    {
-        "numeroLocale": 14,
-        "piano":0,
-        "partenza":"4L",
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 29,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}
-        ]
-    },
-    {
-        "numeroLocale": 16,
-        "piano":0,
-        "partenza":"4G",
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 29,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fino all'incrocio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}
-        ]
-    },
-    {
-        "numeroLocale": 17,
-        "partenza": "Aula Decompressione",
-        "piano":0,
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 1,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}
-        ]
-    },
-    {
-        "numeroLocale": 18,
-        "partenza": "Aula Sostegno Piccola",
-        "piano":0,
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 1,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}
-        ]
-    },
-    {
-        "numeroLocale": 19,
-        "piano":0,
-        "partenza":"2M",
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 29,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}
-        ]
-    },
-    {
-        "numeroLocale": 21,
-        "partenza": "Lab Fisica",
-        "piano":0,
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 29,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}
-        ]
-    },
-    {
-        "numeroLocale": 3,
-        "partenza":"Segreteria",
-        "piano":0,
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 0,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra ed esci"}
-        ]
-    },
-    {
-        "numeroLocale":4,
-        "partenza":"Servizi Igienici (Amministrazione)",
-        "piano":0,
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 0,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra ed esci"}
-        ]
-    },
-    {
-        "numeroLocale":5,
-        "partenza":"Servizi Igienici (Amministrazione)",
-        "piano":0,
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 0,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra ed esci"}
-        ]
-    },
-    {
-        "numeroLocale":6,
-        "partenza":"Aula Docenti PT",
-        "piano":0,
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 0,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra ed esci"}
-        ]
-    },
-    {
-        "numeroLocale":7,
-        "partenza":"Presidenza",
-        "piano":0,
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 0,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra ed esci"}
-        ]
-    },
-    {
-        "numeroLocale":30,
-        "partenza":"Deposito Bidelleria PT",
-        "piano":0,
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 1,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino al'usicta"}
-
-        ]
-    },
-    {
-        "numeroLocale":35,
-        "partenza":"Biblioteca",
-        "piano":1,
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 29,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Svolta a sinistra"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra e scendi le scale"},
-            {"direzione": "Avanti", "descrizione": "Prosegui all'ingresso principale"}
-        ]
-    },
-    {
-        "numeroLocale":31,
-        "partenza":"Aula Ricevimento 3",
-        "piano":1,
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 29,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"},
-            {"direzione": "Destra", "descrizione": "Svolta a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra e scendi le scale"},
-            {"direzione": "Avanti", "descrizione": "Prosegui all'ingresso principale"}
-        ]
-    },
-    {
-        "numeroLocale":32,
-        "partenza":"Aula Ricevimento 2",
-        "piano":1,
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 29,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"},
-            {"direzione": "Destra", "descrizione": "Svolta a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra e scendi le scale"},
-            {"direzione": "Avanti", "descrizione": "Prosegui all'ingresso principale"}
-        ]
-    },
-    {
-        "numeroLocale":33,
-        "partenza":"Aula Ricevimento 1",
-        "piano":1,
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 29,
-        "pianoDestinazione":0,
-        "passaggi": [
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"},
-            {"direzione": "Destra", "descrizione": "Svolta a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra e scendi le scale"},
-            {"direzione": "Avanti", "descrizione": "Prosegui all'ingresso principale"}
-        ]
-    },
-    {    
-        "numeroLocale": 37,
-        "partenza": "Test",
-        "piano": -1,
-        "numeroDestinazione": 5,
-        "destinazione": "Ingresso",
-        "pianoDestinazione": -1,
-        "passaggi": [
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio ed esci"}
-        ]
-    },
-    {
-        "numeroLocale": 38,
-        "partenza":"3L",
-        "piano":-1,
-        "destinazione": "Ingresso",
-        "numeroDestinazione":29,
-        "pianoDestinazione": 0,
-        "passaggi": [
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alle vetrate"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Avanti", "descrizione": "Scendi le scale"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino all'uscita"}
-        ]
-    },
-
-    {
-        "numeroLocale": 39,
-        "partenza": "5F",
-        "piano": -1,
-        "destinazione": "Ingresso",
-        "numeroDestinazione":29,
-        "pianoDestinazione": 0,
-        "passaggi": [
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alle vetrate"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Sali le scale"},
-            {"direzione": "Destra", "descrizione": "Alla fine delle scale gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanti a te trovi l'uscita principale"}
-        ]
-    },
-    {
-        "numeroLocale": 40,
-        "partenza": "5L",
-        "piano": -1,
-        "destinazione": "Ingresso",
-        "numeroDestinazione":29,
-        "pianoDestinazione": 0,
-        "passaggi": [
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino in fondo al corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Sali le scale"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Prosegui diritto fino all'ingresso"}
-        ]
-    },
-    {
-        "numeroLocale":43,
-        "partenza":"Lab. Elettrotecnica",
-        "piano":-1,
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 0,
-        "pianoDestinazione":-1,
-        "passaggi": [
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino all'usicta sulla sinistra"}
-        ]
-    },
-    {
-        "numeroLocale": 44,
-        "partenza": "3G",
-        "piano": -1,
-        "destinazione": "Ingresso",
-        "numeroDestinazione":29,
-        "pianoDestinazione": 0,
-        "passaggi": [
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
-            {"direzione": "Avanti", "descrizione": "Sali le scale"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino all'uscita"}
-        ]
-    },
     {
         "numeroLocale": 45,
         "partenza": "Servizi Igienici PS",
-        "piano": 0,
-        "destinazione": "Ingresso",
-        "numeroDestinazione":41,
-        "pianoDestinazione": -1,
+        "piano": -1,
+        "nomeDestinazione": "Ingresso",
+        "numeroDestinazione":29,
+        "pianoDestinazione": 0,
         "passaggi": [
-                {"direzione": "Destra", "descrizione": "Gira a destra"},
-                {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
-                {"direzione": "Sinistra", "descrizione": "Girsa a sinistra"},
-                {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
-                {"direzione": "Sinistra", "descrizione": "Alla tua sinitra trovi l'Ingresso"}
-    
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Avanti", "descrizione": "Sali le scale"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino all'uscita"}
         ]
     },
     {
@@ -586,14 +24,19 @@
         "partenza": "Servizi Igienici PS",
         "piano": -1,
         "nomeDestinazione": "Ingresso",
-        "numeroDestinazione":4,
-        "pianoDestinazione": -1,
+        "numeroDestinazione":29,
+        "pianoDestinazione": 0,
         "passaggi": [
-            {"direzione": "Avanti", "descrizione": "Esci avanza fino alla fine del corridoio "},
-            {"direzione": "sinistra", "descrizione": "Gira a sinistra"},
-    		{"direzione": "Avanti", "descrizione": "Avanza verso l'aula che vedi in fondo "},
-    		{"direzione": "Sinstra", "descrizione": "L'Ingresso si trova alla tua sinistra "}
-    		
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Avanti", "descrizione": "Sali le scale"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino all'uscita"}
         ]
     },
     {
@@ -621,7 +64,12 @@
         "numeroDestinazione":1,
         "pianoDestinazione": -1,
         "passaggi": [
-            {"direzione": "Avanti", "descrizione": "In fondo ci sono 0 uscite du sicurezza prendi la piu vicina"}
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Avanti", "descrizione": "Sali le scale"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino all'uscita"}
         ]
     },
     {
@@ -670,7 +118,7 @@
             {"direzione": "Destra", "descrizione": "Sali le scale"},
             {"direzione": "Destra", "descrizione": "Gira a destra"},
             {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Avanza fino all'uscita"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino all'uscita"}
         ]
     },
     {
@@ -689,87 +137,459 @@
         ]
     },
     {
-        "numeroLocale": 55,
-        "nomeLocale": "Deposito",
-        "partenza": "Deposito",
-        "piano": 1,
-        "numeroDestinazione": 0,
-        "destinazione": "Ingresso",
-        "pianoDestinazione": 0,
-        "passaggi": [
-            {"direzione": "Sinistra", "descrizione": "Appena uscito dalla stanza gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Prosegui di due stanze ed entra nell'aula magna"},
-            {"direzione": "Avanti", "descrizione": "Vai fino alla fine della stanza e li troverai l'Ingresso d'emergenza"}
-        ]
-    },
-    {
-        "numeroLocale":60,
-        "piano":-1,
-        "partenza":"non definita",
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 0,
-        "pianoDestinazione":-1,
-        "passaggi": [
-            {"direzione": "Avanti", "descrizione": "Vai alla prima porta a sinistra"},
-            {"direzione": "Sinistra", "descrizione": "Entra nella porta sinistra"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Vai fino alla Ingresso di emergenza"}
-        ]
-    },
-    {
-        "numeroLocale": 61,
-        "partenza":"Spogliatoio femminile",
-        "piano":-1,
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 0,
-        "pianoDestinazione":-1,
-        "passaggi": [
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai alla prima porta a sinistra"},
-            {"direzione": "Sinistra", "descrizione": "Entra nella porta sinistra"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Vai fino alla Ingresso di emergenza"}
-        ]
-    },
-    {
-        "numeroLocale": 60,
-        "partenza": "Infermeria / Spogliatoio docenti",
+        "numeroLocale": 44,
+        "partenza": "3G",
         "piano": -1,
         "destinazione": "Ingresso",
-        "numeroDestinazione":4,
-        "pianoDestinazione": -1,
+        "numeroDestinazione":29,
+        "pianoDestinazione": 0,
         "passaggi": [
-            {"direzione": "Avanti", "descrizione": "avanza fino alla porta alla tua sinistra"},
-            {"direzione": "Sinstra", "descrizione": "apri la porta e entra in palestra"},
-            {"direzione": "Destra", "descrizione": "Gira a destra e avanza verso il muro"},
-            {"direzione": "Sinstra", "descrizione": "gira a sinistra e raggiungi la porta alla tua destra ed esci"}
-            
-            
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Avanti", "descrizione": "Sali le scale"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino all'uscita"}
         ]
     },
-    {
-        "numeroLocale": 63,
-        "partenza":"Palestra A",
-        "piano":-1,
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 0,
-        "pianoDestinazione":-1,
-        "passaggi": [
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai fino alla Ingresso di emergenza"}
-        ]
+    { 
+         "numeroLocale": 1, 
+         "partenza": "1F", 
+         "piano": 0, 
+         "destinazione": "Ingresso", 
+         "numeroDestinazione":29, 
+         "pianoDestinazione": 0, 
+         "passaggi": [ 
+             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+             {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+             {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+             {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+             {"direzione": "Avanti", "descrizione": "Avanza fino all'incrocio"}, 
+             {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+             {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+             {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+             {"direzione": "Sinistra", "descrizione": "Trovi l'uscita alla tua sinistra"} 
+         ] 
     },
-    {
-        "numeroLocale": 63,
-        "partenza":"Palestra B",
-        "piano":-1,
-        "destinazione": "Ingresso",
-        "numeroDestinazione": 0,
-        "pianoDestinazione":-1,
+    { 
+        "numeroLocale": 2, 
+        "partenza":"1G", 
+        "piano":0, 
+        "destinazione": "Ingresso", 
+        "numeroDestinazione": 29, 
+        "pianoDestinazione":0, 
+        "passaggi": [ 
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino all'incrocio"}, 
+            {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Sinistra", "descrizione": "Trovi l'uscita alla tua sinistra"} 
+        ] 
+    },
+    { 
+        "numeroLocale":3, 
+        "partenza":"Lab Info", 
+        "piano":0, 
+        "destinazione": "Ingresso", 
+        "numeroDestinazione": 29, 
+        "pianoDestinazione":0, 
+        "passaggi": [ 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino all'incrocio"}, 
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"} 
+        ] 
+    },
+    { 
+        "numeroLocale":4, 
+        "partenza":"Lab TPSEE", 
+        "piano":0, 
+        "destinazione": "Ingresso", 
+        "numeroDestinazione": 29, 
+        "pianoDestinazione":0, 
+        "passaggi": [ 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino all'incrocio"}, 
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"} 
+        ] 
+    },
+    { 
+        "numeroLocale":5, 
+        "piano":0, 
+        "partenza":"1L", 
+        "destinazione": "Ingresso", 
+        "numeroDestinazione": 29, 
+        "pianoDestinazione":0, 
+        "passaggi": [ 
+            {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino all'incrocio"}, 
+            {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Sinistra", "descrizione": "Trovi l'uscita alla tua sinistra"} 
+        ] 
+    },
+    { 
+        "numeroLocale": 6, 
+        "piano":0, 
+        "partenza":"1M", 
+        "destinazione": "Ingresso", 
+        "numeroDestinazione": 29, 
+        "pianoDestinazione":0, 
+        "passaggi": [ 
+            {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino all'incrocio"}, 
+            {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Sinistra", "descrizione": "Trovi l'uscita alla tua sinistra"} 
+        ] 
+    },
+    { 
+        "numeroLocale": 9, 
+        "piano":0, 
+        "partenza":"3F", 
+        "destinazione": "Ingresso", 
+        "numeroDestinazione": 29, 
+        "pianoDestinazione":0, 
+        "passaggi": [ 
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino all'incrocio"}, 
+            {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"} 
+        ] 
+     }, 
+     { 
+        "numeroLocale": 10, 
+        "partenza": "Servizi Igienici PT", 
+        "piano":0, 
+        "destinazione": "Ingresso", 
+        "numeroDestinazione": 0, 
+        "pianoDestinazione":0, 
         "passaggi": [
-            {"direzione": "Destra", "descrizione": "Gira a destra"},
-            {"direzione": "Avanti", "descrizione": "Vai fino alla Ingresso di emergenza"}
-        ]
-    }
-    
+            {"direzione": "Sinistra", "descrizione": "Gira a Sinistra"}, 
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a Sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a Sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a Sinistra"}
+        ] 
+     }, 
+     { 
+        "numeroLocale": 11, 
+        "partenza": "Servizi Igienici PT", 
+        "piano":0, 
+        "destinazione": "Ingresso", 
+        "numeroDestinazione": 0, 
+        "pianoDestinazione":0, 
+        "passaggi": [ 
+            {"direzione": "Sinistra", "descrizione": "Gira a Sinistra"}, 
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a Sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a Sinistra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a Sinistra"}
+        ] 
+     }, 
+     { 
+        "numeroLocale": 14, 
+        "piano":0, 
+        "partenza":"4L", 
+        "destinazione": "Ingresso", 
+        "numeroDestinazione": 29, 
+        "pianoDestinazione":0, 
+        "passaggi": [ 
+            {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"}, 
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+            {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Sinistra", "descrizione": "Gira a Sinistra"}
+        ] 
+    },
+    { 
+        "numeroLocale": 15, 
+        "partenza": "2F", 
+        "piano": 0, 
+        "destinazione": "Ingresso", 
+        "numeroDestinazione":29, 
+        "pianoDestinazione": 0, 
+        "passaggi": [ 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"} 
+        ] 
+    },
+    { 
+         "numeroLocale": 16, 
+         "piano":0, 
+         "partenza":"4G", 
+         "destinazione": "Ingresso", 
+         "numeroDestinazione": 29, 
+         "pianoDestinazione":0, 
+         "passaggi": [ 
+             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fino all'incrocio"}, 
+             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"}, 
+             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+             {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+             {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"} 
+         ] 
+     },
+     { 
+         "numeroLocale": 17, 
+         "partenza": "Aula Decompressione", 
+         "piano":0, 
+         "destinazione": "Ingresso", 
+         "numeroDestinazione": 1, 
+         "pianoDestinazione":0, 
+         "passaggi": [ 
+             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"}, 
+             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+             {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"},
+             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"} 
+         ] 
+     }, 
+     { 
+         "numeroLocale": 18, 
+         "partenza": "Aula Sostegno Piccola", 
+         "piano":0, 
+         "destinazione": "Ingresso", 
+         "numeroDestinazione": 1, 
+         "pianoDestinazione":0, 
+         "passaggi": [ 
+             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"}, 
+             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"} 
+         ] 
+     }, 
+     { 
+         "numeroLocale": 19, 
+         "piano":0, 
+         "partenza":"2M", 
+         "destinazione": "Ingresso", 
+         "numeroDestinazione": 29, 
+         "pianoDestinazione":0, 
+         "passaggi": [ 
+             {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+             {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"} 
+         ] 
+     }, 
+     { 
+         "numeroLocale": 21, 
+         "partenza": "Lab Fisica", 
+         "piano":0, 
+         "destinazione": "Ingresso", 
+         "numeroDestinazione": 29, 
+         "pianoDestinazione":0, 
+         "passaggi": [ 
+             {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+             {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
+             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"} 
+         ] 
+     }, 
+     { 
+         "numeroLocale": 3, 
+         "partenza":"Segreteria", 
+         "piano":0, 
+         "destinazione": "Ingresso", 
+         "numeroDestinazione": 0, 
+         "pianoDestinazione":0, 
+         "passaggi": [ 
+             {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"}, 
+             {"direzione": "Destra", "descrizione": "Gira a destra ed esci"} 
+         ] 
+     }, 
+     { 
+         "numeroLocale":4, 
+         "partenza":"Servizi Igienici (Amministrazione)", 
+         "piano":0, 
+         "destinazione": "Ingresso", 
+         "numeroDestinazione": 0, 
+         "pianoDestinazione":0, 
+         "passaggi": [ 
+             {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"}, 
+             {"direzione": "Destra", "descrizione": "Gira a destra ed esci"} 
+         ] 
+     }, 
+     { 
+         "numeroLocale":5, 
+         "partenza":"Servizi Igienici (Amministrazione)", 
+         "piano":0, 
+         "destinazione": "Ingresso", 
+         "numeroDestinazione": 0, 
+         "pianoDestinazione":0, 
+         "passaggi": [ 
+             {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"}, 
+             {"direzione": "Destra", "descrizione": "Gira a destra ed esci"} 
+         ] 
+     }, 
+     { 
+         "numeroLocale":6, 
+         "partenza":"Aula Docenti PT", 
+         "piano":0, 
+         "destinazione": "Ingresso", 
+         "numeroDestinazione": 0, 
+         "pianoDestinazione":0, 
+         "passaggi": [ 
+             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"}, 
+             {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"}, 
+             {"direzione": "Destra", "descrizione": "Gira a destra ed esci"} 
+         ] 
+     }, 
+     { 
+         "numeroLocale":7, 
+         "partenza":"Presidenza", 
+         "piano":0, 
+         "destinazione": "Ingresso", 
+         "numeroDestinazione": 0, 
+         "pianoDestinazione":0, 
+         "passaggi": [ 
+             {"direzione": "Avanti", "descrizione": "Vai avanti fino alla fine del corridoio"}, 
+             {"direzione": "Destra", "descrizione": "Gira a destra ed esci"} 
+         ] 
+     }, 
+     { 
+         "numeroLocale":30, 
+         "partenza":"Deposito Bidelleria PT", 
+         "piano":0, 
+         "destinazione": "Ingresso", 
+         "numeroDestinazione": 1, 
+         "pianoDestinazione":0, 
+         "passaggi": [ 
+             {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+             {"direzione": "Avanti", "descrizione": "Vai avanti fino all'uscita"} 
+         ] 
+     }, 
+     { 
+         "numeroLocale":35, 
+         "partenza":"Biblioteca", 
+         "piano":1, 
+         "destinazione": "Ingresso", 
+         "numeroDestinazione": 29, 
+         "pianoDestinazione":0, 
+         "passaggi": [ 
+             {"direzione": "Destra", "descrizione": "Gira a destra"}, 
+             {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"}, 
+             {"direzione": "Sinistra", "descrizione": "Gira a sinistra e scendi le scale"}, 
+             {"direzione": "Avanti", "descrizione": "Prosegui all'ingresso principale"}
+         ] 
+     }, 
+     { 
+         "numeroLocale":31, 
+         "partenza":"Aula Ricevimento 3", 
+         "piano":1, 
+         "destinazione": "Ingresso", 
+         "numeroDestinazione": 29, 
+         "pianoDestinazione":0, 
+         "passaggi": [ 
+             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+             {"direzione": "Avanti", "descrizione": "Vai alla fine del corridoio"}, 
+             {"direzione": "Destra", "descrizione": "Svolta a destra"}, 
+             {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"}, 
+             {"direzione": "Sinistra", "descrizione": "Gira a sinistra e scendi le scale"}, 
+             {"direzione": "Avanti", "descrizione": "Prosegui all'ingresso principale"}
+         ] 
+     }, 
+     { 
+         "numeroLocale":32, 
+         "partenza":"Aula Ricevimento 2", 
+         "piano":1, 
+         "destinazione": "Ingresso", 
+         "numeroDestinazione": 29, 
+         "pianoDestinazione":0, 
+         "passaggi": [ 
+             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+             {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"}, 
+             {"direzione": "Destra", "descrizione": "Svolta a destra"}, 
+             {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"}, 
+             {"direzione": "Sinistra", "descrizione": "Gira a sinistra e scendi le scale"}, 
+             {"direzione": "Avanti", "descrizione": "Prosegui all'ingresso principale"} 
+         ] 
+     }, 
+     { 
+         "numeroLocale":33, 
+         "partenza":"Aula Ricevimento 1", 
+         "piano":1, 
+         "destinazione": "Ingresso", 
+         "numeroDestinazione": 29, 
+         "pianoDestinazione":0, 
+         "passaggi": [ 
+             {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
+             {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"}, 
+             {"direzione": "Destra", "descrizione": "Svolta a destra"}, 
+             {"direzione": "Avanti", "descrizione": "Vai al fine corridoio"}, 
+             {"direzione": "Sinistra", "descrizione": "Gira a sinistra e scendi le scale"}, 
+             {"direzione": "Avanti", "descrizione": "Prosegui all'ingresso principale"}
+         ] 
+     },   
+     { 
+         "numeroLocale": 55, 
+         "nomeLocale": "Deposito", 
+         "partenza": "Deposito", 
+         "piano": 1, 
+         "numeroDestinazione": 20, 
+         "destinazione": "Ingresso", 
+         "pianoDestinazione": 0, 
+         "passaggi": [ 
+             {"direzione": "Sinistra", "descrizione": "Appena uscito dalla stanza gira a sinistra"}, 
+             {"direzione": "Avanti", "descrizione": "Prosegui di due stanze ed entra nell'aula magna"}, 
+             {"direzione": "Avanti", "descrizione": "Vai fino alla fine della stanza e li troverai l'Ingresso d'emergenza"} 
+         ] 
+     }
 ]
