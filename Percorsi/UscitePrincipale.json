@@ -191,6 +191,17 @@
         ]
     },
     {
+        "numeroLocale":43,
+        "partenza":"Lab. Elettrotecnica",
+        "piano":-1,
+        "destinazione": "Ingresso",
+        "numeroDestinazione": 0,
+        "pianoDestinazione":-1,
+        "passaggi": [
+            
+        ]
+    },
+    {
         "numeroLocale": 54,
         "nomeLocale": "Ufficio Tecnico",
         "partenza": "Ufficio Tecnico",
