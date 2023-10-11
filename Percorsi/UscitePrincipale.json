@@ -550,7 +550,20 @@
              {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"}, 
              {"direzione": "Sinistra", "descrizione": "Gira a sinistra"} 
          ] 
-     }, 
+     },
+     {
+        "numeroLocale": 20,
+        "partenza": "2L",
+        "piano": 0,
+        "destinazione": "Ingresso",
+        "numeroDestinazione":29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}
+        ]
+     },
      { 
          "numeroLocale": 21, 
          "partenza": "Lab Fisica", 
