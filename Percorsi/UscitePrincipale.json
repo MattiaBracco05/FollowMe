@@ -674,14 +674,11 @@
          "numeroLocale": 55, 
          "nomeLocale": "Deposito", 
          "partenza": "Deposito", 
-         "piano": 1, 
-         "numeroDestinazione": 20, 
+         "piano": -1, 
+         "numeroDestinazione": 29, 
          "destinazione": "Ingresso", 
          "pianoDestinazione": 0, 
          "passaggi": [ 
-             {"direzione": "Sinistra", "descrizione": "Appena uscito dalla stanza gira a sinistra"}, 
-             {"direzione": "Avanti", "descrizione": "Prosegui di due stanze ed entra nell'aula magna"}, 
-             {"direzione": "Avanti", "descrizione": "Vai fino alla fine della stanza e li troverai l'Ingresso d'emergenza"} 
          ] 
      }
 ]
