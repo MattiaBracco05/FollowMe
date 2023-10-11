@@ -136,6 +136,29 @@
         ]
     },
     {
+        "numeroLocale": 39,
+        "partenza": "5F",
+        "piano": -1,
+        "destinazione": "Ingresso",
+        "numeroDestinazione":29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alle vetrate"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Sali le scale"},
+            {"direzione": "Destra", "descrizione": "Alla fine delle scale gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanti a te trovi l'uscita principale"}
+        ]
+    },
+    {
         "numeroLocale": 52,
         "partenza": "5G",
         "piano": -1,
