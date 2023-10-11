@@ -591,11 +591,11 @@
          ] 
      }, 
      { 
-         "numeroLocale":4, 
+         "numeroLocale":24, 
          "partenza":"Servizi Igienici (Amministrazione)", 
          "piano":0, 
          "destinazione": "Ingresso", 
-         "numeroDestinazione": 0, 
+         "numeroDestinazione": 29, 
          "pianoDestinazione":0, 
          "passaggi": [ 
              {"direzione": "Destra", "descrizione": "Gira a destra"}, 
@@ -604,11 +604,11 @@
          ] 
      }, 
      { 
-         "numeroLocale":5, 
+         "numeroLocale":25, 
          "partenza":"Servizi Igienici (Amministrazione)", 
          "piano":0, 
          "destinazione": "Ingresso", 
-         "numeroDestinazione": 0, 
+         "numeroDestinazione": 29, 
          "pianoDestinazione":0, 
          "passaggi": [ 
              {"direzione": "Destra", "descrizione": "Gira a destra"}, 
