@@ -112,6 +112,30 @@
         ]
     },
     {
+        "numeroLocale": 38,
+        "partenza":"3L",
+        "piano":-1,
+        "destinazione": "Ingresso",
+        "numeroDestinazione":29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alle vetrate"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino alla fine del corridoio"},
+            {"direzione": "Avanti", "descrizione": "Scendi le scale"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Destra", "descrizione": "Gira a destra"},
+            {"direzione": "Avanti", "descrizione": "Avanza fino all'uscita"}
+        ]
+    },
+    {
         "numeroLocale": 52,
         "partenza": "5G",
         "piano": -1,
