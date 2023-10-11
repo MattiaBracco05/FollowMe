@@ -530,7 +530,7 @@
          "partenza": "Aula Sostegno Piccola", 
          "piano":0, 
          "destinazione": "Ingresso", 
-         "numeroDestinazione": 1, 
+         "numeroDestinazione": 29, 
          "pianoDestinazione":0, 
          "passaggi": [ 
              {"direzione": "Sinistra", "descrizione": "Gira a sinistra"}, 
