@@ -726,5 +726,16 @@
          "pianoDestinazione": 0, 
          "passaggi": [ 
          ] 
+     },
+     { 
+         "numeroLocale": 63, 
+         "nomeLocale": "Palestra", 
+         "partenza": "Palestra", 
+         "piano": -1, 
+         "numeroDestinazione": 29, 
+         "destinazione": "Ingresso", 
+         "pianoDestinazione": 0, 
+         "passaggi": [ 
+         ] 
      }
 ]

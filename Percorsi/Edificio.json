@@ -355,21 +355,21 @@
     },
     {
         "numeroLocale":60,
-        "nomeLocale":"Spogliatoio maschile",
+        "nomeLocale":"Spogliatoio maschile 1",
         "piano":-1,
-        "classe":"Spogliatoio maschile"
+        "classe":"Spogliatoio maschile 1"
     },
     {
         "numeroLocale":61,
-        "nomeLocale":"Spogliatoio femminile",
+        "nomeLocale":"Spogliatoio maschile 2",
         "piano":-1,
-        "classe":"Spogliatoio femminile"
+        "classe":"Spogliatoio maschile 2"
     },
     {
         "numeroLocale":62,
-        "nomeLocale":"Infermeria / Spogliatoio docenti",
+        "nomeLocale":"Spogliatoio femminile",
         "piano":-1,
-        "classe":"Infermeria / Spogliatoio docenti"
+        "classe":"Spogliatoio femminile"
     },
     {
         "numeroLocale":63,
