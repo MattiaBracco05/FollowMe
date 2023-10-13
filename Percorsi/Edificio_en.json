@@ -13,9 +13,9 @@
     },
     {
         "numeroLocale": 3,
-        "nomeLocale": "Info Lab",
+        "nomeLocale": "Informatic Lab",
         "piano": 0,
-        "classe": "Info Lab"
+        "classe": "Informatic Lab"
     },
     {
         "numeroLocale": 4,
@@ -295,9 +295,9 @@
     },
     {
         "numeroLocale": 50,
-        "nomeLocale": "Auditorium",
+        "nomeLocale": "great hall",
         "piano": -1,
-        "classe": "Auditorium"
+        "classe": "great hall"
     },
     {
         "numeroLocale": 51,
