@@ -194,5 +194,166 @@
             {"direction": "Right", "description": "Turn right"},
             {"direction": "Forward", "description": "Go straight to the end of the corridor"}
         ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 14,
+        "destinationName": "Lab Info 2",
+        "destination": "4L",
+        "destinationFloor": 0,
+        "steps": [
+            {"direction": "Forward", "description": "Enter and go straight to the intersection"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the middle of the corridor"},
+            {"direction": "Right", "description": "You will find Classroom 4L to your right!"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 15,
+        "destinationName": "Classroom 6",
+        "destination": "2F",
+        "destinationFloor": 0,
+        "steps": [
+            {"direction": "Forward", "description": "Enter and go straight to the intersection"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Forward", "description": "Classroom 2F is in front of you!"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 16,
+        "destinationName": "Decompression Room",
+        "destination": "Decompression Room",
+        "destinationFloor": 0,
+        "steps": [
+            {"direction": "Forward", "description": "Enter and go straight to the intersection"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the middle of the corridor"},
+            {"direction": "Right", "description": "You will find the Decompression Room to your right!"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 17,
+        "destinationName": "Large Support Classroom",
+        "destination": "4G",
+        "destinationFloor": 0,
+        "steps": [
+            {"direction": "Forward", "description": "Enter and go straight to the intersection"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Right", "description": "You will find Classroom 4G in front of you!"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 18,
+        "destinationName": "Small Support Classroom",
+        "destination": "Small Support Classroom",
+        "destinationFloor": 0,
+        "steps": [
+            {"direction": "Forward", "description": "Go straight to the intersection"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor, the door in front of you is the destination!"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 19,
+        "destinationName": "Classroom 7",
+        "destination": "4M",
+        "destinationFloor": 0,
+        "steps": [
+            {"direction": "Forward", "description": "Go straight to the intersection"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Forward", "description": "Go straight to the last door you see on your left"},
+            {"direction": "Left", "description": "Turn left"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 20,
+        "destinationName": "Classroom 8",
+        "destination": "2L",
+        "destinationFloor": 0,
+        "steps": [
+            {"direction": "Forward", "description": "Go straight to the intersection"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Forward", "description": "Go straight to the second-to-last door you see on your left"},
+            {"direction": "Left", "description": "Turn left"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 21,
+        "destinationName": "Physics Lab",
+        "destination": "Physics Lab",
+        "destinationFloor": 0,
+        "steps": [
+            {"direction": "Forward", "description": "Go straight to the intersection"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the first door you see on your left"},
+            {"direction": "Left", "description": "Turn left"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 23,
+        "destinationName": "Office",
+        "destination": "Office",
+        "destinationFloor": 0,
+        "steps": [
+            {"direction": "Forward", "description": "Go straight to the intersection"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Forward", "description": "Go straight to the first door you see on your right"},
+            {"direction": "Right", "description": "Turn right, you have reached your destination!"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 24,
+        "destinationName": "Restrooms (Administration)",
+        "destination": "Restrooms (Administration)",
+        "destinationFloor": 0,
+        "steps": [
+            {"direction": "Forward", "description": "Go straight to the intersection"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Forward", "description": "Go straight to the second door you see on your right"},
+            {"direction": "Right", "description": "Turn right, you have reached your destination!"}
+        ]
     }
 ]
