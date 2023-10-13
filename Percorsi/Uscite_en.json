@@ -505,25 +505,25 @@
         ]
     },
     {
-    "numeroLocale": 40,
-    "partenza": "5L",
-    "piano": -1,
-    "destinazione": "Entrance",
-    "numeroDestinazione": 29,
-    "pianoDestinazione": 0,
-    "passaggi": [
-        {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
-        {"direzione": "Right", "descrizione": "Turn right"},
-        {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
-        {"direzione": "Left", "descrizione": "Turn left"},
-        {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
-        {"direzione": "Right", "descrizione": "Turn right"},
-        {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
-        {"direzione": "Right", "descrizione": "Turn right"},
-        {"direzione": "Forward", "descrizione": "Go up the stairs"},
-        {"direzione": "Right", "descrizione": "Turn right"},
-        {"direzione": "Right", "descrizione": "Turn right"},
-        {"direzione": "Forward", "descrizione": "Continue straight to the entrance"}
+        "numeroLocale": 40,
+        "partenza": "5L",
+        "piano": -1,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go up the stairs"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Continue straight to the entrance"}
         ]
     },
     {
