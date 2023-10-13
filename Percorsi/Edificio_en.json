@@ -325,9 +325,9 @@
     },
     {
         "numeroLocale": 55,
-        "nomeLocale": "Deposit",
+        "nomeLocale": "Storeroom",
         "piano": -1,
-        "classe": "Deposit"
+        "classe": "Storeroom"
     },
     {
         "numeroLocale": 56,
