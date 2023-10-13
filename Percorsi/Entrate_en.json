@@ -355,5 +355,121 @@
             {"direction": "Forward", "description": "Go straight to the second door you see on your right"},
             {"direction": "Right", "description": "Turn right, you have reached your destination!"}
         ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 25,
+        "destinationName": "Restrooms (Administration)",
+        "destination": "Restrooms (Administration)",
+        "destinationFloor": 0,
+        "steps": [
+            {"direction": "Forward", "description": "Go straight to the intersection"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Forward", "description": "Go straight to the third door you see on your right"},
+            {"direction": "Right", "description": "Turn right, you have reached your destination!"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 26,
+        "destinationName": "Teachers' Room PT",
+        "destination": "Teachers' Room PT",
+        "destinationFloor": 0,
+        "steps": [
+            {"direction": "Forward", "description": "Go straight to the intersection"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Forward", "description": "Go straight to the last door you see on your right"},
+            {"direction": "Right", "description": "Turn right, you have reached your destination!"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 27,
+        "destinationName": "Principal's Office",
+        "destination": "Principal's Office",
+        "destinationFloor": 0,
+        "steps": [
+            {"direction": "Forward", "description": "Go straight to the intersection"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Forward", "description": "Go straight to the last door you see"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 30,
+        "destinationName": "Caretaker's Storage PT",
+        "destination": "Caretaker's Storage PT",
+        "destinationFloor": 0,
+        "steps": [
+            {"direction": "Forward", "description": "Go straight to the last door you see on your left"},
+            {"direction": "Left", "description": "Turn left"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 31,
+        "destinationName": "Reception Classroom 3",
+        "destination": "Reception Classroom 3",
+        "destinationFloor": 1,
+        "steps": [
+            {"direction": "Forward", "description": "Go straight and take the stairs"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight and enter the second door on the left"},
+            {"direction": "Forward", "description": "Go straight and enter the third door on the right"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 32,
+        "destinationName": "Reception Classroom 2",
+        "destination": "Reception Classroom 3",
+        "destinationFloor": 1,
+        "steps": [
+            {"direction": "Forward", "description": "Go straight and take the stairs"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight and enter the second door on the left"},
+            {"direction": "Forward", "description": "Go straight and enter the second door on the right"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 33,
+        "destinationName": "Reception Classroom 1",
+        "destination": "Reception Classroom 1",
+        "destinationFloor": 1,
+        "steps": [
+            {"direction": "Forward", "description": "Go straight and take the stairs"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight and enter the second door on the left"},
+            {"direction": "Forward", "description": "Go straight and enter the first door on the right"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 35,
+        "destinationName": "Library",
+        "destination": "Reception Classroom 3",
+        "destinationFloor": 1,
+        "steps": [
+            {"direction": "Forward", "description": "Go straight and take the stairs"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight and enter the first door on the left"}
+        ]
     }
 ]
