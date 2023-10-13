@@ -39,13 +39,13 @@
         "numeroLocale": 7,
         "nomeLocale": "North Ground Floor Corridor",
         "piano": 0,
-        "classe": "Undecided"
+        "classe": "non definita"
     },
     {
         "numeroLocale": 8,
         "nomeLocale": "North Ground Floor Corridor",
         "piano": 0,
-        "classe": "Undecided"
+        "classe": "non definita"
     },
     {
         "numeroLocale": 9,
@@ -69,13 +69,13 @@
         "numeroLocale": 12,
         "nomeLocale": "East Ground Floor Corridor",
         "piano": 0,
-        "classe": "Undecided"
+        "classe": "non definita"
     },
     {
         "numeroLocale": 13,
         "nomeLocale": "East Ground Floor Corridor",
         "piano": 0,
-        "classe": "Undecided"
+        "classe": "non definita"
     },
     {
         "numeroLocale": 14,
@@ -129,7 +129,7 @@
         "numeroLocale": 22,
         "nomeLocale": "Front Atrium Corridor",
         "piano": 0,
-        "classe": "Undecided"
+        "classe": "non definita"
     },
     {
         "numeroLocale": 23,
@@ -165,13 +165,13 @@
         "numeroLocale": 28,
         "nomeLocale": "Administration Corridor",
         "piano": 0,
-        "classe": "Undecided"
+        "classe": "non definita"
     },
     {
         "numeroLocale": 29,
         "nomeLocale": "Atrium",
         "piano": 0,
-        "classe": "Undecided"
+        "classe": "non definita"
     },
     {
         "numeroLocale": 30,
@@ -201,7 +201,7 @@
         "numeroLocale": 34,
         "nomeLocale": "PP Corridor",
         "piano": 1,
-        "classe": "Undecided"
+        "classe": "non definita"
     },
     {
         "numeroLocale": 35,
@@ -213,7 +213,7 @@
         "numeroLocale": 36,
         "nomeLocale": "Attic Stairwell Room",
         "piano": 1,
-        "classe": "Undecided"
+        "classe": "non definita"
     },
     {
         "numeroLocale": 37,
@@ -243,13 +243,13 @@
         "numeroLocale": 41,
         "nomeLocale": "Laboratories PI Corridor",
         "piano": -1,
-        "classe": "Undecided"
+        "classe": "non definita"
     },
     {
         "numeroLocale": 42,
         "nomeLocale": "Laboratories PI Corridor",
         "piano": -1,
-        "classe": "Undecided"
+        "classe": "non definita"
     },
     {
         "numeroLocale": 43,
@@ -285,13 +285,13 @@
         "numeroLocale": 48,
         "nomeLocale": "South Ground Floor Corridor",
         "piano": -1,
-        "classe": "Undecided"
+        "classe": "non definita"
     },
     {
         "numeroLocale": 49,
         "nomeLocale": "North Ground Floor Corridor",
         "piano": -1,
-        "classe": "Undecided"
+        "classe": "non definita"
     },
     {
         "numeroLocale": 50,
@@ -333,13 +333,13 @@
         "numeroLocale": 56,
         "nomeLocale": "North Ground Floor Corridor",
         "piano": -1,
-        "classe": "Undecided"
+        "classe": "non definita"
     },
     {
         "numeroLocale": 57,
         "nomeLocale": "Secondary Entrance",
         "piano": -1,
-        "classe": "Undecided"
+        "classe": "non definita"
     },
     {
         "numeroLocale": 58,
@@ -351,7 +351,7 @@
         "numeroLocale": 59,
         "nomeLocale": "Gym Corridor",
         "piano": -1,
-        "classe": "Undecided"
+        "classe": "non definita"
     },
     {
         "numeroLocale": 60,
