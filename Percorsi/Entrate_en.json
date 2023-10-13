@@ -231,7 +231,6 @@
             {"direzione": "Right", "descrizione": "Classroom 2F is on your right!"}
         ]
     },
-    [
     {
         "numeroLocale": 1,
         "partenza": "Entrance",
@@ -408,6 +407,131 @@
             {"direzione": "Right", "descrizione": "Turn right"},
             {"direzione": "Forward", "descrizione": "Go forward and enter the second door on the left"},
             {"direzione": "Forward", "descrizione": "Go forward and enter the second door on the right"}
+        ]
+    },
+    {
+        "numeroLocale": 1,
+        "partenza": "Entrance",
+        "piano": 0,
+        "numeroDestinazione": 33,
+        "nomeDestinazione": "Office Hours Room 1",
+        "destinazione": "Office Hours Room 1",
+        "pianoDestinazione": 1,
+        "passaggi": [
+            { "direzione": "Forward", "descrizione": "Go forward and take the stairs" },
+            { "direzione": "Right", "descrizione": "Turn right" },
+            { "direzione": "Forward", "descrizione": "Go forward and enter the second door on the left" },
+            { "direzione": "Forward", "descrizione": "Go forward and enter the first door on the right" }
+        ]
+    },
+    {
+        "numeroLocale": 1,
+        "partenza": "Entrance",
+        "piano": 0,
+        "numeroDestinazione": 35,
+        "nomeDestinazione": "Library",
+        "destinazione": "Office Hours Room 3",
+        "pianoDestinazione": 1,
+        "passaggi": [
+            { "direzione": "Forward", "descrizione": "Go forward and take the stairs" },
+            { "direzione": "Right", "descrizione": "Turn right" },
+            { "direzione": "Forward", "descrizione": "Go forward and enter the first door on the left" }
+        ]
+    },
+    {
+        "numeroLocale": 1,
+        "partenza": "Entrance",
+        "piano": 0,
+        "numeroDestinazione": 39,
+        "nomeDestinazione": "Classroom 10",
+        "destinazione": "5F",
+        "pianoDestinazione": -1,
+        "passaggi": [
+            { "direzione": "Forward", "descrizione": "Keeping to the right, go forward to the end of the hallway" },
+            { "direzione": "Left", "descrizione": "Turn left" },
+            { "direzione": "Left", "descrizione": "Turn left" },
+            { "direzione": "Forward", "descrizione": "Go down the stairs" },
+            { "direzione": "Left", "descrizione": "Turn left" },
+            { "direzione": "Forward", "descrizione": "Go straight to the end of the corridor" },
+            { "direzione": "Left", "descrizione": "Turn left" },
+            { "direzione": "Forward", "descrizione": "Go straight" },
+            { "direzione": "Right", "descrizione": "Turn right" },
+            { "direzione": "Forward", "descrizione": "Go straight" },
+            { "direzione": "Left", "descrizione": "Turn left" },
+            { "direzione": "Forward", "descrizione": "Go straight" },
+            { "direzione": "Right", "descrizione": "Turn right" },
+            { "direzione": "Left", "descrizione": "Turn left, your classroom is the second on the left"
+            }
+        ]
+    },
+    {
+        "numeroLocale": 1,
+        "partenza": "Entrance",
+        "piano": 0,
+        "numeroDestinazione": 52,
+        "nomeDestinazione": "Classroom 14",
+        "destinazione": "5G",
+        "pianoDestinazione": -1,
+        "passaggi": [
+            { "direzione": "Forward", "descrizione": "Enter and go forward until you reach the stairs, slightly to the left" },
+            { "direzione": "Forward", "descrizione": "Take the stairs and go down to the basement (-1)" },
+            { "direzione": "Left", "descrizione": "At the end of the stairs, turn left" },
+            { "direzione": "Forward", "descrizione": "Once you pass the restrooms on your right, go straight" },
+            { "direzione": "Left", "descrizione": "Once you pass the restrooms, your desired room will be on your left"
+            }
+        ]
+    },
+    {
+        "numeroLocale": 1,
+        "partenza": "Entrance",
+        "piano": 0,
+        "numeroDestinazione": 62,
+        "nomeDestinazione": "Nurse's Office / Teachers' Locker Room",
+        "destinazione": "Nurse's Office / Teachers' Locker Room",
+        "pianoDestinazione": -1,
+        "passaggi": [
+            { "direzione": "Forward", "descrizione": "Enter and go forward to the end" },
+            { "direzione": "Left", "descrizione": "Turn left" },
+            { "direzione": "stairs", "descrizione": "Go down the stairs" },
+            { "direzione": "Right", "descrizione": "Turn right" },
+            { "direzione": "Forward", "descrizione": "At the junction, go straight to the end of the corridor" },
+            { "direzione": "Forward", "descrizione": "Shift slightly to the left and then go straight to the end" },
+            { "direzione": "Forward", "descrizione": "The door in front of you is your destination" }
+        ]
+    },
+    {
+        "numeroLocale": 1,
+        "partenza": "Entrance",
+        "piano": 0,
+        "numeroDestinazione": 51,
+        "nomeDestinazione": "Classroom 13",
+        "destinazione": "4F",
+        "pianoDestinazione": -1,
+        "passaggi": [
+            { "direzione": "Forward", "descrizione": "Go forward to the end of the corridor, past the windows" },
+            { "direzione": "Left", "descrizione": "Turn left and go to the end of the corridor" },
+            { "direzione": "Left", "descrizione": "Turn left and go down the stairs" },
+            { "direzione": "Left", "descrizione": "Turn left and exit through the door" },
+            { "direzione": "Forward", "descrizione": "Go forward and cross the corridor" },
+            { "direzione": "Forward", "descrizione": "Go forward in the corridor, the classroom is the third door on the left"
+            }
+        ]
+    },
+    {
+        "numeroLocale": 1,
+        "partenza": "Entrance",
+        "piano": 0,
+        "numeroDestinazione": 63,
+        "nomeDestinazione": "Gymnasium",
+        "destinazione": "Gymnasium",
+        "pianoDestinazione": -1,
+        "passaggi": [
+            { "direzione": "Forward", "descrizione": "Enter and go forward" },
+            { "direzione": "Right", "descrizione": "Turn right" },
+            { "direzione": "Right", "descrizione": "Turn right" },
+            { "direzione": "Right", "descrizione": "Turn right" },
+            { "direzione": "Left", "descrizione": "Turn left" },
+            { "direzione": "Forward", "descrizione": "Go forward" }
         ]
     }
 ]
