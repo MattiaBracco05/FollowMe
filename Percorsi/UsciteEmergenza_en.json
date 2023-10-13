@@ -278,6 +278,119 @@
             {"direzione": "Forward", "descrizione": "Go straight to the end of the corridor"},
             {"direzione": "Right", "descrizione": "Turn right and exit"}
         ]
+    },
+    {
+        "numeroLocale": 26,
+        "partenza": "Faculty Room PT",
+        "piano": 0,
+        "destinazione": "Exit",
+        "numeroDestinazione": 0,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Forward", "descrizione": "Go forward to the end of the hallway"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go forward to the end of the hallway"},
+            {"direzione": "Right", "descrizione": "Turn right and exit"}
+        ]
+    },
+    {
+        "numeroLocale": 27,
+        "partenza": "Principal's Office",
+        "piano": 0,
+        "destinazione": "Exit",
+        "numeroDestinazione": 0,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Forward", "descrizione": "Go forward to the end of the hallway"},
+            {"direzione": "Right", "descrizione": "Turn right and exit"}
+        ]
+    },
+    {
+        "numeroLocale": 30,
+        "partenza": "Maintenance Storage PT",
+        "piano": 0,
+        "destinazione": "Exit",
+        "numeroDestinazione": 1,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go forward to the exit"}
+    
+        ]
+    },
+    {
+        "numeroLocale": 31,
+        "partenza": "Reception Room 3",
+        "piano": 1,
+        "destinazione": "Exit",
+        "numeroDestinazione": 1,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Go to the end of the hallway"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go to the end of the hallway"},
+            {"direzione": "Left", "descrizione": "Turn left and go down the stairs"},
+            {"direzione": "Forward", "descrizione": "Continue to the main entrance"}
+        ]
+    },
+    {
+        "numeroLocale": 32,
+        "partenza": "Reception Room 2",
+        "piano": 1,
+        "destinazione": "Exit",
+        "numeroDestinazione": 1,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Go to the end of the hallway"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go to the end of the hallway"},
+            {"direzione": "Left", "descrizione": "Turn left and go down the stairs"},
+            {"direzione": "Forward", "descrizione": "Continue to the main entrance"}
+        ]
+    },
+    {
+        "numeroLocale": 33,
+        "partenza": "Reception Room 1",
+        "piano": 1,
+        "destinazione": "Exit",
+        "numeroDestinazione": 1,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Go to the end of the hallway"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go to the end of the hallway"},
+            {"direzione": "Left", "descrizione": "Turn left and go down the stairs"},
+            {"direzione": "Forward", "descrizione": "Continue to the main entrance"}
+        ]
+    },
+    {
+        "numeroLocale": 35,
+        "partenza": "Library",
+        "piano": 1,
+        "destinazione": "Exit",
+        "numeroDestinazione": 1,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go to the end of the hallway"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Left", "descrizione": "Turn left and go down the stairs"},
+            {"direzione": "Forward", "descrizione": "Continue to the main entrance"}
+        ]
+    },
+    {    
+        "numeroLocale": 37,
+        "partenza": "Lab. Systems and Networks",
+        "piano": -1,
+        "numeroDestinazione": 5,
+        "destinazione": "Exit",
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Forward", "descrizione": "Go forward to the end of the hallway and exit"}
+        ]
     }
 ]
 
