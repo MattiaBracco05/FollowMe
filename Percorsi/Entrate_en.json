@@ -1,0 +1,198 @@
+[
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 1,
+        "destinationName": "Classroom 1",
+        "destination": "1F",
+        "destinationFloor": 0,
+        "steps": [
+            {"direction": "Forward", "description": "Enter and go straight to the intersection"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight until you see the emergency exit door"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Right", "description": "You will find Classroom 1F to your right!"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 2,
+        "destinationName": "Classroom 2",
+        "destination": "1G",
+        "destinationFloor": 0,
+        "steps": [
+            {"direction": "Forward", "description": "Enter and go straight to the intersection"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight until you see the emergency exit door"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Forward", "description": "Go straight to the middle of the corridor"},
+            {"direction": "Right", "description": "You will find Classroom 1G to your right!"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 3,
+        "destinationName": "Classroom 3",
+        "destination": "AutoCAD Lab",
+        "destinationFloor": 0,
+        "steps": [
+            {"direction": "Forward", "description": "Enter and go straight to the intersection"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight until you see the emergency exit door"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Right", "description": "You will find the AutoCAD Lab to your right!"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 4,
+        "destinationName": "Classroom 4",
+        "destination": "TPSEE Lab",
+        "destinationFloor": 0,
+        "steps": [
+            {"direction": "Forward", "description": "Enter and go straight to the intersection"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight until you see the emergency exit door"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Left", "description": "You will find the TPSEE Lab to your left!"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 5,
+        "destinationName": "Classroom 3",
+        "destination": "1L",
+        "destinationFloor": 0,
+        "steps": [
+            {"direction": "Forward", "description": "Enter and go straight to the intersection"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight until you see the emergency exit door"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Forward", "description": "Go straight to the middle of the corridor"},
+            {"direction": "Left", "description": "You will find Classroom 1L to your left!"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 6,
+        "destinationName": "Classroom 4",
+        "destination": "1M",
+        "destinationFloor": 0,
+        "steps": [
+            {"direction": "Forward", "description": "Enter and go straight to the intersection"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight until you see the emergency exit door"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Forward", "description": "Go straight to the middle of the corridor"},
+            {"direction": "Left", "description": "You will find Classroom 1M to your left!"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 9,
+        "destinationName": "Classroom 5",
+        "destination": "3F",
+        "destinationFloor": 0,
+        "steps": [
+            {"direction": "Forward", "description": "Enter and go straight to the intersection"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight until you pass the restrooms"},
+            {"direction": "Right", "description": "You will find Classroom 3F to your right!"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 10,
+        "destinationName": "Restrooms (Ground Floor)",
+        "destination": "Restrooms (Ground Floor)",
+        "destinationFloor": 0,
+        "steps": [
+            {"direction": "Forward", "description": "Enter and go straight to the intersection"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight until you see two doors on your right"},
+            {"direction": "Right", "description": "You will find the restrooms to your right!"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 11,
+        "destinationName": "Restrooms (Ground Floor)",
+        "destination": "Restrooms (Ground Floor)",
+        "destinationFloor": 0,
+        "steps": [
+            {"direction": "Forward", "description": "Enter and go straight to the intersection"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go straight to the end of the corridor"}
+        ]
+    }
+]
