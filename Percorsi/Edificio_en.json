@@ -1,0 +1,380 @@
+[
+    {
+        "numeroLocale": 1,
+        "nomeLocale": "Classroom 1",
+        "piano": 0,
+        "classe": "1F"
+    },
+    {
+        "numeroLocale": 2,
+        "nomeLocale": "Classroom 2",
+        "piano": 0,
+        "classe": "1G"
+    },
+    {
+        "numeroLocale": 3,
+        "nomeLocale": "Info Lab",
+        "piano": 0,
+        "classe": "Info Lab"
+    },
+    {
+        "numeroLocale": 4,
+        "nomeLocale": "TPSEE Lab",
+        "piano": 0,
+        "classe": "TPSEE Lab"
+    },
+    {
+        "numeroLocale": 5,
+        "nomeLocale": "Classroom 3",
+        "piano": 0,
+        "classe": "1L"
+    },
+    {
+        "numeroLocale": 6,
+        "nomeLocale": "Classroom 4",
+        "piano": 0,
+        "classe": "1M"
+    },
+    {
+        "numeroLocale": 7,
+        "nomeLocale": "North Ground Floor Corridor",
+        "piano": 0,
+        "classe": "Undecided"
+    },
+    {
+        "numeroLocale": 8,
+        "nomeLocale": "North Ground Floor Corridor",
+        "piano": 0,
+        "classe": "Undecided"
+    },
+    {
+        "numeroLocale": 9,
+        "nomeLocale": "Classroom 5",
+        "piano": 0,
+        "classe": "3F"
+    },
+    {
+        "numeroLocale": 10,
+        "nomeLocale": "Restrooms (Ground Floor)",
+        "piano": 0,
+        "classe": "Restrooms (Ground Floor)"
+    },
+    {
+        "numeroLocale": 11,
+        "nomeLocale": "Restrooms (Ground Floor)",
+        "piano": 0,
+        "classe": "Restrooms (Ground Floor)"
+    },
+    {
+        "numeroLocale": 12,
+        "nomeLocale": "East Ground Floor Corridor",
+        "piano": 0,
+        "classe": "Undecided"
+    },
+    {
+        "numeroLocale": 13,
+        "nomeLocale": "East Ground Floor Corridor",
+        "piano": 0,
+        "classe": "Undecided"
+    },
+    {
+        "numeroLocale": 14,
+        "nomeLocale": "Info Lab 2",
+        "piano": 0,
+        "classe": "4L"
+    },
+    {
+        "numeroLocale": 15,
+        "nomeLocale": "Classroom 6",
+        "piano": 0,
+        "classe": "2F"
+    },
+    {
+        "numeroLocale": 16,
+        "nomeLocale": "Large Support Classroom",
+        "piano": 0,
+        "classe": "4G"
+    },
+    {
+        "numeroLocale": 17,
+        "nomeLocale": "Decompression Classroom",
+        "piano": 0,
+        "classe": "Decompression Classroom"
+    },
+    {
+        "numeroLocale": 18,
+        "nomeLocale": "Small Support Classroom",
+        "piano": 0,
+        "classe": "Small Support Classroom"
+    },
+    {
+        "numeroLocale": 19,
+        "nomeLocale": "Classroom 7",
+        "piano": 0,
+        "classe": "2M"
+    },
+    {
+        "numeroLocale": 20,
+        "nomeLocale": "Classroom 8",
+        "piano": 0,
+        "classe": "2L"
+    },
+    {
+        "numeroLocale": 21,
+        "nomeLocale": "Physics Lab",
+        "piano": 0,
+        "classe": "Physics Lab"
+    },
+    {
+        "numeroLocale": 22,
+        "nomeLocale": "Front Atrium Corridor",
+        "piano": 0,
+        "classe": "Undecided"
+    },
+    {
+        "numeroLocale": 23,
+        "nomeLocale": "Secretariat",
+        "piano": 0,
+        "classe": "Secretariat"
+    },
+    {
+        "numeroLocale": 24,
+        "nomeLocale": "Restrooms (Administration)",
+        "piano": 0,
+        "classe": "Restrooms (Administration)"
+    },
+    {
+        "numeroLocale": 25,
+        "nomeLocale": "Restrooms (Administration)",
+        "piano": 0,
+        "classe": "Restrooms (Administration)"
+    },
+    {
+        "numeroLocale": 26,
+        "nomeLocale": "Ground Floor Teachers' Classroom",
+        "piano": 0,
+        "classe": "Ground Floor Teachers' Classroom"
+    },
+    {
+        "numeroLocale": 27,
+        "nomeLocale": "Presidency",
+        "piano": 0,
+        "classe": "Presidency"
+    },
+    {
+        "numeroLocale": 28,
+        "nomeLocale": "Administration Corridor",
+        "piano": 0,
+        "classe": "Undecided"
+    },
+    {
+        "numeroLocale": 29,
+        "nomeLocale": "Atrium",
+        "piano": 0,
+        "classe": "Undecided"
+    },
+    {
+        "numeroLocale": 30,
+        "nomeLocale": "Ground Floor Janitorial Storage",
+        "piano": 0,
+        "classe": "Ground Floor Janitorial Storage"
+    },
+    {
+        "numeroLocale": 31,
+        "nomeLocale": "Reception Classroom 3",
+        "piano": 1,
+        "classe": "Reception Classroom 3"
+    },
+    {
+        "numeroLocale": 32,
+        "nomeLocale": "Reception Classroom 2",
+        "piano": 1,
+        "classe": "Reception Classroom 2"
+    },
+    {
+        "numeroLocale": 33,
+        "nomeLocale": "Reception Classroom 1",
+        "piano": 1,
+        "classe": "Reception Classroom 1"
+    },
+    {
+        "numeroLocale": 34,
+        "nomeLocale": "PP Corridor",
+        "piano": 1,
+        "classe": "Undecided"
+    },
+    {
+        "numeroLocale": 35,
+        "nomeLocale": "Library",
+        "piano": 1,
+        "classe": "Library"
+    },
+    {
+        "numeroLocale": 36,
+        "nomeLocale": "Attic Stairwell Room",
+        "piano": 1,
+        "classe": "Undecided"
+    },
+    {
+        "numeroLocale": 37,
+        "nomeLocale": "Systems and Networks Lab",
+        "piano": -1,
+        "classe": "Systems and Networks Lab"
+    },
+    {
+        "numeroLocale": 38,
+        "nomeLocale": "Classroom 9",
+        "piano": -1,
+        "classe": "3L"
+    },
+    {
+        "numeroLocale": 39,
+        "nomeLocale": "Classroom 10",
+        "piano": -1,
+        "classe": "5F"
+    },
+    {
+        "numeroLocale": 40,
+        "nomeLocale": "Classroom 11",
+        "piano": -1,
+        "classe": "5L"
+    },
+    {
+        "numeroLocale": 41,
+        "nomeLocale": "Laboratories PI Corridor",
+        "piano": -1,
+        "classe": "Undecided"
+    },
+    {
+        "numeroLocale": 42,
+        "nomeLocale": "Laboratories PI Corridor",
+        "piano": -1,
+        "classe": "Undecided"
+    },
+    {
+        "numeroLocale": 43,
+        "nomeLocale": "Electrotechnics Lab",
+        "piano": -1,
+        "classe": "Electrotechnics Lab"
+    },
+    {
+        "numeroLocale": 44,
+        "nomeLocale": "Classroom 12",
+        "piano": -1,
+        "classe": "3G"
+    },
+    {
+        "numeroLocale": 45,
+        "nomeLocale": "Restrooms PS(-1)",
+        "piano": -1,
+        "classe": "Restrooms PS(-1)"
+    },
+    {
+        "numeroLocale": 46,
+        "nomeLocale": "Restrooms PS(-1)",
+        "piano": -1,
+        "classe": "Restrooms PS(-1)"
+    },
+    {
+        "numeroLocale": 47,
+        "nomeLocale": "Bar",
+        "piano": -1,
+        "classe": "Bar"
+    },
+    {
+        "numeroLocale": 48,
+        "nomeLocale": "South Ground Floor Corridor",
+        "piano": -1,
+        "classe": "Undecided"
+    },
+    {
+        "numeroLocale": 49,
+        "nomeLocale": "North Ground Floor Corridor",
+        "piano": -1,
+        "classe": "Undecided"
+    },
+    {
+        "numeroLocale": 50,
+        "nomeLocale": "Auditorium",
+        "piano": -1,
+        "classe": "Auditorium"
+    },
+    {
+        "numeroLocale": 51,
+        "nomeLocale": "Classroom 13",
+        "piano": -1,
+        "classe": "4F"
+    },
+    {
+        "numeroLocale": 52,
+        "nomeLocale": "Classroom 14",
+        "piano": -1,
+        "classe": "5G"
+    },
+    {
+        "numeroLocale": 53,
+        "nomeLocale": "Electrical Systems Lab",
+        "piano": -1,
+        "classe": "Electrical Systems Lab"
+    },
+    {
+        "numeroLocale": 54,
+        "nomeLocale": "Technical Office",
+        "piano": -1,
+        "classe": "Technical Office"
+    },
+    {
+        "numeroLocale": 55,
+        "nomeLocale": "Storage",
+        "piano": -1,
+        "classe": "Storage"
+    },
+    {
+        "numeroLocale": 56,
+        "nomeLocale": "North Ground Floor Corridor",
+        "piano": -1,
+        "classe": "Undecided"
+    },
+    {
+        "numeroLocale": 57,
+        "nomeLocale": "Secondary Entrance",
+        "piano": -1,
+        "classe": "Undecided"
+    },
+    {
+        "numeroLocale": 58,
+        "nomeLocale": "Gym Storage",
+        "piano": -1,
+        "classe": "Gym Storage"
+    },
+    {
+        "numeroLocale": 59,
+        "nomeLocale": "Gym Corridor",
+        "piano": -1,
+        "classe": "Undecided"
+    },
+    {
+        "numeroLocale": 60,
+        "nomeLocale": "Men's Locker Room 1",
+        "piano": -1,
+        "classe": "Men's Locker Room 1"
+    },
+    {
+        "numeroLocale": 61,
+        "nomeLocale": "Men's Locker Room 2",
+        "piano": -1,
+        "classe": "Men's Locker Room 2"
+    },
+    {
+        "numeroLocale": 62,
+        "nomeLocale": "Women's Locker Room",
+        "piano": -1,
+        "classe": "Women's Locker Room"
+    },
+    {
+        "numeroLocale": 63,
+        "nomeLocale": "Gym",
+        "piano": -1,
+        "classe": "Gym"
+    }
+]
