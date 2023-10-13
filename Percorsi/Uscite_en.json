@@ -1,0 +1,230 @@
+[
+    {
+        "numeroLocale": 1,
+        "partenza": "1F",
+        "piano": 0,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Walk to the intersection"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "You will find the exit on your left"}
+        ]
+    },
+    {
+        "numeroLocale": 2,
+        "partenza": "1G",
+        "piano": 0,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Walk to the intersection"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "You will find the exit on your left"}
+        ]
+    },
+    {
+        "numeroLocale": 3,
+        "partenza": "Lab Info",
+        "piano": 0,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk to the intersection"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"}
+        ]
+    },
+    {
+        "numeroLocale": 4,
+        "partenza": "Lab TPSEE",
+        "piano": 0,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk to the intersection"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"}
+        ]
+    },
+    {
+        "numeroLocale": 5,
+        "piano": 0,
+        "partenza": "1L",
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Walk to the intersection"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "You will find the exit on your left"}
+        ]
+    },
+    {
+        "numeroLocale": 6,
+        "piano": 0,
+        "partenza": "1M",
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Walk to the intersection"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "You will find the exit on your left"}
+        ]
+    },
+    {
+        "numeroLocale": 9,
+        "piano": 0,
+        "partenza": "3F",
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Walk to the intersection"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"}
+        ]
+    },
+    {
+        "numeroLocale": 10,
+        "partenza": "Servizi Igienici PT",
+        "piano": 0,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Walk forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"}
+        ]
+    },
+    {
+        "numeroLocale": 11,
+        "partenza": "Servizi Igienici PT",
+        "piano": 0,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Walk forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"}
+        ]
+    },
+    {
+        "numeroLocale": 14,
+        "piano": 0,
+        "partenza": "4L",
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"}
+        ]
+    },
+    {
+        "numeroLocale": 15,
+        "partenza": "2F",
+        "piano": 0,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Forward", "descrizione": "Walk forward to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"}
+        ]
+    },
+    {
+        "numeroLocale": 16,
+        "piano": 0,
+        "partenza": "4G",
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Forward", "descrizione": "Walk forward to the intersection"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Walk forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"}
+        ]
+    }
+]
