@@ -506,6 +506,145 @@
         "passaggi": [
             {"direzione": "Forward", "descrizione": "There are 2 emergency exits at the end, take the nearest one"}
         ]
+    },
+    {
+        "numeroLocale": 51,
+        "partenza": "4F",
+        "piano": -1,
+        "destinazione": "Exit",
+        "numeroDestinazione": 1,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right in the hallway"},
+            {"direzione": "Forward", "descrizione": "Go forward to the end of the hallway"},
+            {"direzione": "Right", "descrizione": "Turn right in the hallway"},
+            {"direzione": "Forward", "descrizione": "Go forward to the end of the hallway and exit"}
+        ]
+    },
+    {
+        "numeroLocale": 52,
+        "partenza": "5G",
+        "piano": -1,
+        "destinazione": "Exit",
+        "numeroDestinazione": 3,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "After leaving the classroom, turn right"},
+            {"direzione": "Forward", "descrizione": "Continue straight until you reach the intersection with the stairs"},
+            {"direzione": "Right", "descrizione": "Turn right and follow along the stairs"},
+            {"direzione": "Forward", "descrizione": "Go forward until you reach the emergency exit in front of you"}
+        ]
+    },
+    {
+        "numeroLocale": 53,
+        "partenza": "Electro Systems Lab",
+        "piano": -1,
+        "numeroDestinazione": 0,
+        "destinazione": "Exit",
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Exit the classroom and turn right"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Continue straight and exit through the emergency exit"}
+        ]
+    },
+    {
+        "numeroLocale": 54,
+        "nomeLocale": "Technical Office",
+        "partenza": "Technical Office",
+        "piano": -1,
+        "numeroDestinazione": 3,
+        "destinazione": "Exit",
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Left", "descrizione": "Turn left as soon as you exit the classroom"},
+            {"direzione": "Forward", "descrizione": "Continue straight until you reach the intersection with the stairs"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go forward to the emergency exit in front of you"}
+        ]
+    },
+    {
+        "numeroLocale": 55,
+        "nomeLocale": "Storage Room",
+        "partenza": "Storage Room",
+        "piano": 1,
+        "numeroDestinazione": 0,
+        "destinazione": "Exit",
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Left", "descrizione": "As soon as you exit the room, turn left"},
+            {"direzione": "Forward", "descrizione": "Advance two rooms and enter the auditorium"},
+            {"direzione": "Forward", "descrizione": "Go to the end of the room, and you'll find the emergency exit"}
+        ]
+    },
+    {
+        "numeroLocale": 58,
+        "nomeLocale": "Gym Storage",
+        "partenza": "Gym Storage",
+        "piano": -1,
+        "numeroDestinazione": 0,
+        "destinazione": "Exit",
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "As soon as you exit the room, turn right and go straight"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Go straight to the emergency exit door"}
+        ]
+    },
+    {
+        "numeroLocale": 60,
+        "piano": -1,
+        "partenza": "Men's Changing Room",
+        "destinazione": "Exit",
+        "numeroDestinazione": 2,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Forward", "descrizione": "Go to the first door on the left"},
+            {"direzione": "Left", "descrizione": "Enter the left door"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Go to the emergency exit"}
+        ]
+    },
+    {
+        "numeroLocale": 61,
+        "partenza": "Women's Changing Room",
+        "piano": -1,
+        "destinazione": "Exit",
+        "numeroDestinazione": 2,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go to the first door on the left"},
+            {"direzione": "Left", "descrizione": "Enter the left door"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Go to the emergency exit"}
+        ]
+    },
+    {
+        "numeroLocale": 62,
+        "partenza": "Nurse's Office / Teachers' Changing Room",
+        "piano": -1,
+        "destinazione": "Exit",
+        "numeroDestinazione": 4,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Forward", "descrizione": "Move to the door on your left"},
+            {"direzione": "Left", "descrizione": "Open the door and enter the gym"},
+            {"direzione": "Right", "descrizione": "Turn right and move towards the wall"},
+            {"direzione": "Left", "descrizione": "Turn left and reach the door to your right and exit"}
+        ]
+    },
+    {
+        "numeroLocale": 63,
+        "partenza": "Gym",
+        "piano": -1,
+        "destinazione": "Exit",
+        "numeroDestinazione": 2,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go to the emergency exit"}
+        ]
     }
 ]
 
