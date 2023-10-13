@@ -279,7 +279,8 @@
         "numeroLocale": 47,
         "nomeLocale": "Bar",
         "piano": -1,
-        "classe": "Bar"
+        "classe": "Bar",
+        "ignore": true
     },
     {
         "numeroLocale": 48,
