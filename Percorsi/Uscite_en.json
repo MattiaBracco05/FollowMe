@@ -226,5 +226,575 @@
             {"direzione": "Forward", "descrizione": "Walk forward to the end of the corridor"},
             {"direzione": "Left", "descrizione": "Turn left"}
         ]
+    },
+    {
+        "numeroLocale": 17,
+        "partenza": "Decompression Room",
+        "piano": 0,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"}
+        ]
+    },
+    {
+        "numeroLocale": 18,
+        "partenza": "Small Support Classroom",
+        "piano": 0,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"}
+        ]
+    },
+    {
+        "numeroLocale": 19,
+        "piano": 0,
+        "partenza": "2M",
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"}
+        ]
+    },
+    {
+        "numeroLocale": 20,
+        "partenza": "2L",
+        "piano": 0,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"}
+        ]
+    },
+    {
+        "numeroLocale": 21,
+        "partenza": "Physics Lab",
+        "piano": 0,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"}
+        ]
+    },
+    {
+        "numeroLocale": 23,
+        "partenza": "Administration Office",
+        "piano": 0,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk forward to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right and exit"}
+        ]
+    },
+    {
+        "numeroLocale": 24,
+        "partenza": "Restrooms (Administration)",
+        "piano": 0,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk forward to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right and exit"}
+        ]
+    },
+    {
+        "numeroLocale": 25,
+        "partenza": "Restrooms (Administration)",
+        "piano": 0,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk forward to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right and exit"}
+        ]
+    },
+    {
+        "numeroLocale": 26,
+        "partenza": "Teachers' Room PT",
+        "piano": 0,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Forward", "descrizione": "Walk forward to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk forward to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right and exit"}
+        ]
+    },
+    {
+        "numeroLocale": 27,
+        "partenza": "Principal's Office",
+        "piano": 0,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Forward", "descrizione": "Walk forward to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right and exit"}
+        ]
+    },
+    {
+        "numeroLocale": 30,
+        "partenza": "Custodian's Storage PT",
+        "piano": 0,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Walk to the exit"}
+        ]
+    },
+    {
+        "numeroLocale": 31,
+        "partenza": "Reception Room 3",
+        "piano": 1,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Go to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left and go down the stairs"},
+            {"direzione": "Forward", "descrizione": "Continue to the main entrance"}
+        ]
+    },
+    {
+        "numeroLocale": 32,
+        "partenza": "Reception Room 2",
+        "piano": 1,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Go to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left and go down the stairs"},
+            {"direzione": "Forward", "descrizione": "Continue to the main entrance"}
+        ]
+    },
+    {
+        "numeroLocale": 33,
+        "partenza": "Reception Room 1",
+        "piano": 1,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Go to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left and go down the stairs"},
+            {"direzione": "Forward", "descrizione": "Continue to the main entrance"}
+        ]
+    },
+    {
+        "numeroLocale": 35,
+        "partenza": "Library",
+        "piano": 1,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left and go down the stairs"},
+            {"direzione": "Forward", "descrizione": "Continue to the main entrance"}
+        ]
+    },
+    {
+        "numeroLocale": 37,
+        "partenza": "Lab Systems and Networks",
+        "piano": -1,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Forward", "descrizione": "Advance to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Advance to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Advance to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Advance to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Advance to the stairs at the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Go up the stairs"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Advance to the exit"}
+        ]
+    },
+    {
+        "numeroLocale": 38,
+        "partenza": "3L",
+        "piano": -1,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Move forward to the windows"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+            {"direzione": "Forward", "descrizione": "Go down the stairs"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Move forward to the exit"}
+        ]
+    },
+    {
+        "numeroLocale": 39,
+        "partenza": "5F",
+        "piano": -1,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Move forward to the windows"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Go up the stairs"},
+            {"direzione": "Right", "descrizione": "At the end of the stairs, turn right"},
+            {"direzione": "Forward", "descrizione": "The main exit is ahead of you"}
+        ]
+    },
+    {
+    "numeroLocale": 40,
+    "partenza": "5L",
+    "piano": -1,
+    "destinazione": "Entrance",
+    "numeroDestinazione": 29,
+    "pianoDestinazione": 0,
+    "passaggi": [
+        {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+        {"direzione": "Right", "descrizione": "Turn right"},
+        {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+        {"direzione": "Left", "descrizione": "Turn left"},
+        {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+        {"direzione": "Right", "descrizione": "Turn right"},
+        {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+        {"direzione": "Right", "descrizione": "Turn right"},
+        {"direzione": "Forward", "descrizione": "Go up the stairs"},
+        {"direzione": "Right", "descrizione": "Turn right"},
+        {"direzione": "Right", "descrizione": "Turn right"},
+        {"direzione": "Forward", "descrizione": "Continue straight to the entrance"}
+        ]
+    },
+    {
+        "numeroLocale": 43,
+        "partenza": "Lab. Electrical Engineering",
+        "piano": -1,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"}, 
+            {"direzione": "Left", "descrizione": "Turn left"}, 
+            {"direzione": "Right", "descrizione": "Turn right"}, 
+            {"direzione": "Forward", "descrizione": "Move forward to the stairs"}, 
+            {"direzione": "Forward", "descrizione": "Go up the stairs"}, 
+            {"direzione": "Right", "descrizione": "Turn right"}, 
+            {"direzione": "Forward", "descrizione": "You will find the exit in front of you"}
+        ]
+    },
+    {
+    "numeroLocale": 44,
+    "partenza": "3G",
+    "piano": -1,
+    "destinazione": "Entrance",
+    "numeroDestinazione": 29,
+    "pianoDestinazione": 0,
+    "passaggi": [
+        {"direzione": "Left", "descrizione": "Turn left"},
+        {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+        {"direzione": "Left", "descrizione": "Turn left"},
+        {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+        {"direzione": "Right", "descrizione": "Turn right"},
+        {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+        {"direzione": "Forward", "descrizione": "Go down the stairs"},
+        {"direzione": "Right", "descrizione": "Turn right"},
+        {"direzione": "Right", "descrizione": "Turn right"},
+        {"direzione": "Forward", "descrizione": "Continue straight to the exit"}
+    ]
+    },
+    {
+        "numeroLocale": 45,
+        "partenza": "Restrooms PS",
+        "piano": -1,
+        "nomeDestinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+            {"direzione": "Forward", "descrizione": "Go down the stairs"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Continue straight to the exit"}
+        ]
+    },
+    {
+        "numeroLocale": 46,
+        "partenza": "Restrooms PS",
+        "piano": -1,
+        "nomeDestinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+            {"direzione": "Forward", "descrizione": "Go down the stairs"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Continue straight to the exit"}
+        ]
+    },
+    {
+        "numeroLocale": 47,
+        "partenza": "Bar",
+        "piano": -1,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Forward", "descrizione": "Go forward to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Go forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "The entrance is on your left"}
+        ]
+    },
+    {
+        "numeroLocale": 50,
+        "partenza": "Aula Magna",
+        "piano": -1,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+            {"direzione": "Forward", "descrizione": "Go up the stairs"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Continue straight to the exit"}
+        ]
+    },
+    {
+        "numeroLocale": 51,
+        "partenza": "4F",
+        "piano": -1,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go forward to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go up the stairs"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Continue straight to the exit"}
+        ]
+    },
+    {
+        "numeroLocale": 52,
+        "partenza": "5G",
+        "piano": -1,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go forward to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go up the stairs"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Continue straight to the exit"}
+        ]
+    },
+    {
+        "numeroLocale": 53,
+        "partenza": "Lab. Electrical Systems",
+        "piano": -1,
+        "numeroDestinazione": 29,
+        "destinazione": "Entrance",
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Exit the classroom and head towards the stairs"},
+            {"direzione": "Right", "descrizione": "Go up the stairs"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Continue straight to the exit"}
+        ]
+    },
+    {
+        "numeroLocale": 54,
+        "nomeLocale": "Technical Office",
+        "partenza": "Technical Office",
+        "piano": -1,
+        "numeroDestinazione": 29,
+        "destinazione": "Entrance",
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Left", "descrizione": "Turn left as soon as you leave the classroom"},
+            {"direzione": "Forward", "descrizione": "Continue straight until you reach the intersection with the stairs"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go forward to the Emergency Exit in front of you"}
+        ]
+    },
+    {
+        "numeroLocale": 55,
+        "nomeLocale": "Storage Room",
+        "partenza": "Storage Room",
+        "piano": -1,
+        "numeroDestinazione": 29,
+        "destinazione": "Entrance",
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Go forward to the stairs at the end of the corridor"},
+            {"direzione": "Forward", "descrizione": "Go up the stairs"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "You will find the exit in front of you"}
+        ]
+    },
+    {
+        "numeroLocale": 58,
+        "partenza": "Gym Storage",
+        "piano": -1,
+        "nomeDestinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left and take the stairs"},
+            {"direzione": "Forward", "descrizione": "Go up the stairs"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "You will find the exit in front of you"}
+        ]
+    },
+    {
+        "numeroLocale": 60,
+        "partenza": "Male Changing Room 1",
+        "piano": -1,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left and take the stairs"},
+            {"direzione": "Forward", "descrizione": "Go up the stairs"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "You will find the exit in front of you"}
+        ]
+    },
+    {
+        "numeroLocale": 61,
+        "partenza": "Male Changing Room 2",
+        "piano": -1,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left and take the stairs"},
+            {"direzione": "Forward", "descrizione": "Go up the stairs"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "You will find the exit in front of you"}
+        ]
+    },
+    {
+        "numeroLocale": 62,
+        "partenza": "Female Changing Room",
+        "piano": -1,
+        "destinazione": "Entrance",
+        "numeroDestinazione": 29,
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Move forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left and take the stairs"},
+            {"direzione": "Forward", "descrizione": "Go up the stairs"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "You will find the exit in front of you"}
+        ]
+    },
+    {
+        "numeroLocale": 63,
+        "nomeLocale": "Gym",
+        "partenza": "Gym",
+        "piano": -1,
+        "numeroDestinazione": 29,
+        "destinazione": "Entrance",
+        "pianoDestinazione": 0,
+        "passaggi": [
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Go forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Left", "descrizione": "Turn left and take the stairs"},
+            {"direzione": "Forward", "descrizione": "Go up the stairs"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "You will find the exit in front of you"}
+        ]
     }
 ]
