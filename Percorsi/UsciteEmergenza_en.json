@@ -391,6 +391,121 @@
         "passaggi": [
             {"direzione": "Forward", "descrizione": "Go forward to the end of the hallway and exit"}
         ]
+    },
+    {
+        "numeroLocale": 38,
+        "partenza": "3L",
+        "piano": -1,
+        "destinazione": "Exit",
+        "numeroDestinazione": 5,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go forward and exit through the front door in front of you"}
+        ]
+    },
+    {
+        "numeroLocale": 39,
+        "partenza": "5F",
+        "piano": -1,
+        "destinazione": "Exit",
+        "numeroDestinazione": 5,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go forward and exit through the front door in front of you"}
+        ]
+    },
+    {
+        "numeroLocale": 40,
+        "partenza": "5L",
+        "piano": -1,
+        "destinazione": "Exit",
+        "numeroDestinazione": 0,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"}
+        ]
+    },
+    {
+        "numeroLocale": 43,
+        "partenza": "Electrotechnics Lab",
+        "piano": -1,
+        "destinazione": "Exit",
+        "numeroDestinazione": 0,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go forward to the exit on your left"}
+        ]
+    },
+    {
+        "numeroLocale": 44,
+        "partenza": "3G",
+        "piano": -1,
+        "destinazione": "Exit",
+        "numeroDestinazione": 0,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Forward", "descrizione": "Exit and continue straight ahead to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "The emergency exit is on your left"}
+        ]
+    },
+    {
+        "numeroLocale": 45,
+        "partenza": "Restrooms PS(-1)",
+        "piano": -1,
+        "destinazione": "Exit",
+        "numeroDestinazione": 4,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Go forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "The exit is on your left"}
+        ]
+    },
+    {
+        "numeroLocale": 46,
+        "partenza": "Restrooms PS(-1)",
+        "piano": -1,
+        "destinazione": "Exit",
+        "numeroDestinazione": 4,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Forward", "descrizione": "Exit and proceed straight to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Move towards the classroom you see at the end"},
+            {"direzione": "Left", "descrizione": "The exit is on your left"}
+        ]
+    },
+    {
+        "numeroLocale": 47,
+        "partenza": "Bar",
+        "piano": -1,
+        "destinazione": "Exit",
+        "numeroDestinazione": 41,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Forward", "descrizione": "Go forward to the end of the corridor"},
+            {"direzione": "Right", "descrizione": "Turn right"},
+            {"direzione": "Forward", "descrizione": "Go forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "Turn left"},
+            {"direzione": "Forward", "descrizione": "Go forward to the end of the corridor"},
+            {"direzione": "Left", "descrizione": "The exit is on your left"}
+        ]
+    },
+    {
+        "numeroLocale": 50,
+        "partenza": "Auditorium",
+        "piano": -1,
+        "destinazione": "Exit",
+        "numeroDestinazione": 1,
+        "pianoDestinazione": -1,
+        "passaggi": [
+            {"direzione": "Forward", "descrizione": "There are 2 emergency exits at the end, take the nearest one"}
+        ]
     }
 ]
 
