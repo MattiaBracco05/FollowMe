@@ -471,5 +471,139 @@
             {"direction": "Right", "description": "Turn right"},
             {"direction": "Forward", "description": "Go straight and enter the first door on the left"}
         ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 39,
+        "destinationName": "Classroom 10",
+        "destination": "5F",
+        "destinationFloor": -1,
+        "steps": [
+            {"direction": "Forward (keeping to the right)", "description": "Go straight to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Forward", "description": "Go downstairs"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Forward", "description": "Continue straight to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Forward", "description": "Continue straight"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Continue straight"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Forward", "description": "Continue straight"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Left", "description": "Turn left, your classroom is the second on the left"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 52,
+        "destinationName": "Classroom 14",
+        "destination": "5G",
+        "destinationFloor": -1,
+        "steps": [
+            {"direction": "Forward", "description": "Enter and go straight until you reach the stairs, veering slightly to the left"},
+            {"direction": "Forward", "description": "Take the stairs and go down to the basement (-1)"},
+            {"direction": "Left", "description": "At the end of the stairs, turn left"},
+            {"direction": "Forward", "description": "Continue straight, passing the restrooms on your right"},
+            {"direction": "Left", "description": "Once you've passed the restrooms, your desired location will be on your left"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 62,
+        "destinationName": "Nurse's Office / Teachers' Changing Room",
+        "destination": "Nurse's Office / Teachers' Changing Room",
+        "destinationFloor": -1,
+        "steps": [
+            {"direction": "Forward", "description": "Enter and go straight to the end"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Stairs", "description": "Go downstairs"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "At the junction, go straight to the end of the corridor"},
+            {"direction": "Forward", "description": "Slightly shift to the left and then continue to the end"},
+            {"direction": "Forward", "description": "The door in front of you is your destination"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 51,
+        "destinationName": "Classroom 13",
+        "destination": "4F",
+        "destinationFloor": -1,
+        "steps": [
+            {"direction": "Forward", "description": "Go all the way to the end of the corridor, past the windows"},
+            {"direction": "Left", "description": "Turn left and go to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left and go downstairs"},
+            {"direction": "Left", "description": "Turn left and exit through the door"},
+            {"direction": "Forward", "description": "Go straight and cross the corridor"},
+            {"direction": "Forward", "description": "Go down the hallway, the classroom is the third door on the left"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 63,
+        "destinationName": "Gym",
+        "destination": "Gym",
+        "destinationFloor": -1,
+        "steps": [
+            {"direction": "Forward", "description": "Go to the stairs"},
+            {"direction": "Down", "description": "Go down one floor on the stairs"},
+            {"direction": "Left", "description": "Turn left and exit through the door"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go to the first intersection"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Enter the door and go to the first door on the right"},
+            {"direction": "Right", "description": "Enter the right door"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 61,
+        "destinationName": "Female Changing Room",
+        "destination": "Female Changing Room",
+        "destinationFloor": -1,
+        "steps": [
+            {"direction": "Forward", "description": "Go to the stairs"},
+            {"direction": "Down", "description": "Go down one floor on the stairs"},
+            {"direction": "Left", "description": "Turn left and exit through the door"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Go to the first intersection"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Enter the door and go to the last door on the left"},
+            {"direction": "Left", "description": "Enter the left door"}
+        ]
+    },
+    {
+        "localeNumber": 1,
+        "departure": "Entrance",
+        "floor": 0,
+        "destinationNumber": 40,
+        "destinationName": "Classroom 11",
+        "destination": "5L",
+        "destinationFloor": -1,
+        "steps": [
+            {"direction": "Forward", "description": "Continue straight to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Down", "description": "Go downstairs"},
+            {"direction": "Right", "description": "Turn right as soon as you exit the stairs"},
+            {"direction": "Forward", "description": "Continue straight to the end of the corridor"},
+            {"direction": "Right", "description": "Turn right"},
+            {"direction": "Forward", "description": "Continue straight to the end of the corridor"},
+            {"direction": "Left", "description": "Turn left"},
+            {"direction": "Forward", "description": "Continue straight, the classroom is right in front of you"}
+        ]
     }
 ]
