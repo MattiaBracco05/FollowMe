@@ -1,5 +1,6 @@
-# DIREZIONI
+# Direzioni
 
-Contiene una cartella per ogni stanza
+Questo respository contiene tutti i locali suddivisi in cartelle con tutte le direzioni possibili da ogni locale.
 
-La cartella si deve chiamare Stanza_{numeroStanza} (per es. Stanza_01)
+# **IMPORTANTE**
+La cartella si deve chiamare: Locale_\{numeroStanza}
