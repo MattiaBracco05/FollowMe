@@ -1,3 +1,3 @@
 # PIANTINE
 
-Contiene le piantine dei due piani dell'ITIS
+Questo repository contiene tutte le piantine dell'edificio, suddivisi per piani
