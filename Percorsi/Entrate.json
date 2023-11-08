@@ -815,9 +815,9 @@
         "destinazione":"Aula Magna",
         "pianoDestinazione": 0,
         "passaggi": [
-            {"direzione": "Avanti", "descrizione": "Vai avanti fino e sali le scale che trovi sulla sinistra"},
-            {"direzione": "Sinistra", "descrizione": "Gira a sinistra"},
-            {"direzione": "Avanti", "descrizione": "Vai avanti entra nella porta del corridoio e prosegui fino alla quarta porta a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti fino alle scale"},
+            {"direzione": "Sinistra", "descrizione": "Scendi le scale e gira a sinistra"},
+            {"direzione": "Avanti", "descrizione": "Vai avanti, entra nella porta del corridoio e prosegui fino alla quarta porta a sinistra"},
             {"direzione": "Sinistra", "descrizione": "Gira a sinistra ed entra nell'aula"}
         ]
     },
